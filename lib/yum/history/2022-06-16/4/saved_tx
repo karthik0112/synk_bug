@@ -1,0 +1,66 @@
+850:4b091c46717ee3c14ddff97ceb9d9b01fa852f4e
+0
+1
+installed:857:25b63d02b492a34c051c7d4abb426cf204e8c63a
+7
+mbr: nodejs,x86_64,1,16.17.0,1.el7 70
+  repo: epel
+  ts_state: u
+  output_state: 20
+  isDep: True
+  reason: dep
+  reinstall: False
+  relatedto: npm,x86_64,1,8.15.0,1.16.17.0.1.el7@a:dependson
+  depends_on: npm,x86_64,1,8.15.0,1.16.17.0.1.el7@a
+mbr: libuv,x86_64,1,1.44.2,1.el7 70
+  repo: epel
+  ts_state: u
+  output_state: 20
+  isDep: True
+  reason: dep
+  reinstall: False
+  relatedto: nodejs,x86_64,1,16.17.0,1.el7@a:dependson nodejs-libs,x86_64,1,16.17.0,1.el7@a:dependson
+  depends_on: nodejs,x86_64,1,16.17.0,1.el7@a nodejs-libs,x86_64,1,16.17.0,1.el7@a
+mbr: openssl11,x86_64,1,1.1.1k,4.el7 70
+  repo: epel
+  ts_state: u
+  output_state: 20
+  isDep: True
+  reason: dep
+  reinstall: False
+  relatedto: nodejs,x86_64,1,16.17.0,1.el7@a:dependson
+  depends_on: nodejs,x86_64,1,16.17.0,1.el7@a
+mbr: openssl11-libs,x86_64,1,1.1.1k,4.el7 70
+  repo: epel
+  ts_state: u
+  output_state: 20
+  isDep: True
+  reason: dep
+  reinstall: False
+  relatedto: nodejs,x86_64,1,16.17.0,1.el7@a:dependson nodejs-libs,x86_64,1,16.17.0,1.el7@a:dependson nodejs-libs,x86_64,1,16.17.0,1.el7@a:dependson nodejs-libs,x86_64,1,16.17.0,1.el7@a:dependson nodejs-libs,x86_64,1,16.17.0,1.el7@a:dependson nodejs-libs,x86_64,1,16.17.0,1.el7@a:dependson nodejs-libs,x86_64,1,16.17.0,1.el7@a:dependson nodejs-libs,x86_64,1,16.17.0,1.el7@a:dependson nodejs-libs,x86_64,1,16.17.0,1.el7@a:dependson nodejs-libs,x86_64,1,16.17.0,1.el7@a:dependson openssl11,x86_64,1,1.1.1k,4.el7@a:dependson openssl11,x86_64,1,1.1.1k,4.el7@a:dependson openssl11,x86_64,1,1.1.1k,4.el7@a:dependson openssl11,x86_64,1,1.1.1k,4.el7@a:dependson openssl11,x86_64,1,1.1.1k,4.el7@a:dependson openssl11,x86_64,1,1.1.1k,4.el7@a:dependson openssl11,x86_64,1,1.1.1k,4.el7@a:dependson
+  depends_on: nodejs,x86_64,1,16.17.0,1.el7@a nodejs-libs,x86_64,1,16.17.0,1.el7@a nodejs-libs,x86_64,1,16.17.0,1.el7@a nodejs-libs,x86_64,1,16.17.0,1.el7@a nodejs-libs,x86_64,1,16.17.0,1.el7@a nodejs-libs,x86_64,1,16.17.0,1.el7@a nodejs-libs,x86_64,1,16.17.0,1.el7@a nodejs-libs,x86_64,1,16.17.0,1.el7@a nodejs-libs,x86_64,1,16.17.0,1.el7@a nodejs-libs,x86_64,1,16.17.0,1.el7@a openssl11,x86_64,1,1.1.1k,4.el7@a openssl11,x86_64,1,1.1.1k,4.el7@a openssl11,x86_64,1,1.1.1k,4.el7@a openssl11,x86_64,1,1.1.1k,4.el7@a openssl11,x86_64,1,1.1.1k,4.el7@a openssl11,x86_64,1,1.1.1k,4.el7@a openssl11,x86_64,1,1.1.1k,4.el7@a
+mbr: brotli,x86_64,0,1.0.7,5.el7 70
+  repo: epel
+  ts_state: u
+  output_state: 20
+  isDep: True
+  reason: dep
+  reinstall: False
+  relatedto: nodejs,x86_64,1,16.17.0,1.el7@a:dependson nodejs-libs,x86_64,1,16.17.0,1.el7@a:dependson nodejs-libs,x86_64,1,16.17.0,1.el7@a:dependson
+  depends_on: nodejs,x86_64,1,16.17.0,1.el7@a nodejs-libs,x86_64,1,16.17.0,1.el7@a nodejs-libs,x86_64,1,16.17.0,1.el7@a
+mbr: nodejs-libs,x86_64,1,16.17.0,1.el7 70
+  repo: epel
+  ts_state: u
+  output_state: 20
+  isDep: True
+  reason: dep
+  reinstall: False
+  relatedto: nodejs,x86_64,1,16.17.0,1.el7@a:dependson
+  depends_on: nodejs,x86_64,1,16.17.0,1.el7@a
+mbr: npm,x86_64,1,8.15.0,1.16.17.0.1.el7 70
+  repo: epel
+  ts_state: u
+  output_state: 20
+  isDep: False
+  reason: user
+  reinstall: False

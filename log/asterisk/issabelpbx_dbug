@@ -1,0 +1,12 @@
+2022-Jun-16 07:41:44	/usr/share/pear/DB/mysqli.php:329
+[WARNING]: mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+
+2022-Jun-16 07:41:51	/usr/share/pear/DB/mysqli.php:329
+[WARNING]: mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+
+2022-Jun-16 07:41:56	/usr/share/pear/DB/mysqli.php:329
+[WARNING]: mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+
+2022-Jun-16 07:50:57	/usr/share/pear/DB/mysqli.php:329
+[WARNING]: mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+

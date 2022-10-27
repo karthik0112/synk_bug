@@ -1,0 +1,6 @@
+"Load server start /var/log/festival/festival_server.scm"
+314
+wrapper	Wed Oct 26 06:11:50 EDT 2022 : USING DEFAULT CONFIGURATION
+wrapper	Wed Oct 26 06:11:50 EDT 2022 : waiting
+wrapper	Wed Oct 26 06:11:54 EDT 2022 : got SIGTERM
+wrapper	Wed Oct 26 06:11:54 EDT 2022 : festival exited 0

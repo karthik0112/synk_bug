@@ -1,0 +1,149 @@
+lease {
+  interface "eth1";
+  fixed-address 192.168.56.102;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 600;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.56.100;
+  renew 3 2022/10/26 11:01:55;
+  rebind 3 2022/10/26 11:06:53;
+  expire 3 2022/10/26 11:08:08;
+}
+lease {
+  interface "eth0";
+  fixed-address 10.0.2.15;
+  filename "Isaa.pxe";
+  option subnet-mask 255.255.255.0;
+  option routers 10.0.2.2;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 8.8.8.8,4.2.2.2;
+  option dhcp-server-identifier 10.0.2.2;
+  renew 3 2022/10/26 14:45:33;
+  rebind 4 2022/10/27 02:17:27;
+  expire 4 2022/10/27 05:17:27;
+}
+lease {
+  interface "eth0";
+  fixed-address 10.0.2.15;
+  filename "Isaa.pxe";
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 86400;
+  option routers 10.0.2.2;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 10.0.2.2;
+  option domain-name-servers 8.8.8.8,4.2.2.2;
+  renew 4 2022/10/27 14:02:45;
+  rebind 5 2022/10/28 01:13:34;
+  expire 5 2022/10/28 04:13:34;
+}
+lease {
+  interface "eth1";
+  fixed-address 192.168.56.102;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 600;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.56.100;
+  renew 4 2022/10/27 04:17:46;
+  rebind 4 2022/10/27 04:22:21;
+  expire 4 2022/10/27 04:23:36;
+}
+lease {
+  interface "eth1";
+  fixed-address 192.168.56.102;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 600;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.56.100;
+  renew 4 2022/10/27 04:22:04;
+  rebind 4 2022/10/27 04:26:31;
+  expire 4 2022/10/27 04:27:46;
+}
+lease {
+  interface "eth1";
+  fixed-address 192.168.56.102;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 600;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.56.100;
+  renew 4 2022/10/27 04:26:09;
+  rebind 4 2022/10/27 04:30:49;
+  expire 4 2022/10/27 04:32:04;
+}
+lease {
+  interface "eth1";
+  fixed-address 192.168.56.102;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 600;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.56.100;
+  renew 4 2022/10/27 04:30:20;
+  rebind 4 2022/10/27 04:34:54;
+  expire 4 2022/10/27 04:36:09;
+}
+lease {
+  interface "eth1";
+  fixed-address 192.168.56.102;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 600;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.56.100;
+  renew 4 2022/10/27 04:34:48;
+  rebind 4 2022/10/27 04:39:05;
+  expire 4 2022/10/27 04:40:20;
+}
+lease {
+  interface "eth1";
+  fixed-address 192.168.56.102;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 600;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.56.100;
+  renew 4 2022/10/27 04:39:25;
+  rebind 4 2022/10/27 04:43:33;
+  expire 4 2022/10/27 04:44:48;
+}
+lease {
+  interface "eth1";
+  fixed-address 192.168.56.102;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 600;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.56.100;
+  renew 4 2022/10/27 04:44:00;
+  rebind 4 2022/10/27 04:48:10;
+  expire 4 2022/10/27 04:49:25;
+}
+lease {
+  interface "eth1";
+  fixed-address 192.168.56.102;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 600;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.56.100;
+  renew 4 2022/10/27 04:48:09;
+  rebind 4 2022/10/27 04:52:45;
+  expire 4 2022/10/27 04:54:00;
+}
+lease {
+  interface "eth1";
+  fixed-address 192.168.56.102;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 600;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.56.100;
+  renew 4 2022/10/27 04:53:05;
+  rebind 4 2022/10/27 04:56:54;
+  expire 4 2022/10/27 04:58:09;
+}
+lease {
+  interface "eth1";
+  fixed-address 192.168.56.102;
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 600;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 192.168.56.100;
+  renew 4 2022/10/27 04:57:18;
+  rebind 4 2022/10/27 05:01:50;
+  expire 4 2022/10/27 05:03:05;
+}

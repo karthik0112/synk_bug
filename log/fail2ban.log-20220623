@@ -1,0 +1,322 @@
+2022-06-16 04:09:37,868 fail2ban.server         [833]: INFO    --------------------------------------------------
+2022-06-16 04:09:37,868 fail2ban.server         [833]: INFO    Starting Fail2ban v0.11.1
+2022-06-16 04:09:37,873 fail2ban.observer       [833]: INFO    Observer start...
+2022-06-16 04:09:37,902 fail2ban.database       [833]: INFO    Connected to fail2ban persistent database '/var/lib/fail2ban/fail2ban.sqlite3'
+2022-06-16 04:09:37,911 fail2ban.database       [833]: WARNING New database created. Version '4'
+2022-06-16 04:09:37,913 fail2ban.jail           [833]: INFO    Creating new jail 'sshd'
+2022-06-16 04:09:37,957 fail2ban.jail           [833]: INFO    Jail 'sshd' uses systemd {}
+2022-06-16 04:09:37,958 fail2ban.jail           [833]: INFO    Initiated 'systemd' backend
+2022-06-16 04:09:37,971 fail2ban.filter         [833]: INFO      maxLines: 1
+2022-06-16 04:09:37,971 fail2ban.filtersystemd  [833]: INFO    [sshd] Added journal match for: '_SYSTEMD_UNIT=sshd.service + _COMM=sshd'
+2022-06-16 04:09:38,071 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,071 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,071 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,071 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,083 fail2ban.jail           [833]: INFO    Creating new jail 'apache-auth'
+2022-06-16 04:09:38,088 fail2ban.jail           [833]: INFO    Jail 'apache-auth' uses poller {}
+2022-06-16 04:09:38,088 fail2ban.jail           [833]: INFO    Initiated 'polling' backend
+2022-06-16 04:09:38,105 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,108 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,108 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,108 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,108 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:09:38,108 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 0, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:09:38,108 fail2ban.jail           [833]: INFO    Creating new jail 'apache-badbots'
+2022-06-16 04:09:38,116 fail2ban.jail           [833]: INFO    Jail 'apache-badbots' uses poller {}
+2022-06-16 04:09:38,116 fail2ban.jail           [833]: INFO    Initiated 'polling' backend
+2022-06-16 04:09:38,144 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,144 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,144 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,144 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,151 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/access_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:09:38,151 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/ssl_access_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:09:38,151 fail2ban.jail           [833]: INFO    Creating new jail 'apache-noscript'
+2022-06-16 04:09:38,152 fail2ban.jail           [833]: INFO    Jail 'apache-noscript' uses poller {}
+2022-06-16 04:09:38,153 fail2ban.jail           [833]: INFO    Initiated 'polling' backend
+2022-06-16 04:09:38,158 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,158 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,165 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,169 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,170 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:09:38,170 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 0, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:09:38,170 fail2ban.jail           [833]: INFO    Creating new jail 'apache-overflows'
+2022-06-16 04:09:38,171 fail2ban.jail           [833]: INFO    Jail 'apache-overflows' uses poller {}
+2022-06-16 04:09:38,172 fail2ban.jail           [833]: INFO    Initiated 'polling' backend
+2022-06-16 04:09:38,182 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,182 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,182 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,182 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,182 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:09:38,183 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 0, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:09:38,183 fail2ban.jail           [833]: INFO    Creating new jail 'apache-nohome'
+2022-06-16 04:09:38,188 fail2ban.jail           [833]: INFO    Jail 'apache-nohome' uses poller {}
+2022-06-16 04:09:38,188 fail2ban.jail           [833]: INFO    Initiated 'polling' backend
+2022-06-16 04:09:38,193 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,194 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,194 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,196 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,196 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:09:38,196 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 0, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:09:38,202 fail2ban.jail           [833]: INFO    Creating new jail 'apache-botsearch'
+2022-06-16 04:09:38,202 fail2ban.jail           [833]: INFO    Jail 'apache-botsearch' uses poller {}
+2022-06-16 04:09:38,202 fail2ban.jail           [833]: INFO    Initiated 'polling' backend
+2022-06-16 04:09:38,216 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,216 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,216 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,222 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,222 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:09:38,223 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 0, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:09:38,223 fail2ban.jail           [833]: INFO    Creating new jail 'apache-fakegooglebot'
+2022-06-16 04:09:38,224 fail2ban.jail           [833]: INFO    Jail 'apache-fakegooglebot' uses poller {}
+2022-06-16 04:09:38,224 fail2ban.jail           [833]: INFO    Initiated 'polling' backend
+2022-06-16 04:09:38,229 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,229 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,230 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,230 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,233 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/access_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:09:38,233 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/ssl_access_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:09:38,233 fail2ban.jail           [833]: INFO    Creating new jail 'apache-modsecurity'
+2022-06-16 04:09:38,234 fail2ban.jail           [833]: INFO    Jail 'apache-modsecurity' uses poller {}
+2022-06-16 04:09:38,234 fail2ban.jail           [833]: INFO    Initiated 'polling' backend
+2022-06-16 04:09:38,242 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,242 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,242 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,245 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,245 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:09:38,245 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 0, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:09:38,245 fail2ban.jail           [833]: INFO    Creating new jail 'apache-shellshock'
+2022-06-16 04:09:38,246 fail2ban.jail           [833]: INFO    Jail 'apache-shellshock' uses poller {}
+2022-06-16 04:09:38,246 fail2ban.jail           [833]: INFO    Initiated 'polling' backend
+2022-06-16 04:09:38,261 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,261 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,261 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,261 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,262 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:09:38,262 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 0, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:09:38,265 fail2ban.jail           [833]: INFO    Creating new jail 'postfix'
+2022-06-16 04:09:38,266 fail2ban.jail           [833]: INFO    Jail 'postfix' uses systemd {}
+2022-06-16 04:09:38,266 fail2ban.jail           [833]: INFO    Initiated 'systemd' backend
+2022-06-16 04:09:38,273 fail2ban.filtersystemd  [833]: INFO    [postfix] Added journal match for: '_SYSTEMD_UNIT=postfix.service'
+2022-06-16 04:09:38,303 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,303 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,306 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,306 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,306 fail2ban.jail           [833]: INFO    Creating new jail 'postfix-sasl'
+2022-06-16 04:09:38,306 fail2ban.jail           [833]: INFO    Jail 'postfix-sasl' uses systemd {}
+2022-06-16 04:09:38,306 fail2ban.jail           [833]: INFO    Initiated 'systemd' backend
+2022-06-16 04:09:38,311 fail2ban.filtersystemd  [833]: INFO    [postfix-sasl] Added journal match for: '_SYSTEMD_UNIT=postfix.service'
+2022-06-16 04:09:38,312 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,312 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,312 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,312 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,320 fail2ban.jail           [833]: INFO    Creating new jail 'asterisk'
+2022-06-16 04:09:38,320 fail2ban.jail           [833]: INFO    Jail 'asterisk' uses poller {}
+2022-06-16 04:09:38,320 fail2ban.jail           [833]: INFO    Initiated 'polling' backend
+2022-06-16 04:09:38,366 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,366 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,366 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,366 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,371 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/asterisk/messages' (pos = 0, hash = 453b8004728e7e08bade59472ff5579e)
+2022-06-16 04:09:38,371 fail2ban.transmitter    [833]: ERROR   Jail 'sshd-ddos' skipped, because of wrong configuration: Unable to read the filter 'sshd-ddos'
+2022-06-16 04:09:38,371 fail2ban.jail           [833]: INFO    Creating new jail 'asterisk-ami'
+2022-06-16 04:09:38,373 fail2ban.jail           [833]: INFO    Jail 'asterisk-ami' uses poller {}
+2022-06-16 04:09:38,373 fail2ban.jail           [833]: INFO    Initiated 'polling' backend
+2022-06-16 04:09:38,385 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,385 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,385 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,386 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,386 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/asterisk/messages' (pos = 0, hash = 453b8004728e7e08bade59472ff5579e)
+2022-06-16 04:09:38,386 fail2ban.jail           [833]: INFO    Creating new jail 'issabel-gui'
+2022-06-16 04:09:38,390 fail2ban.jail           [833]: INFO    Jail 'issabel-gui' uses poller {}
+2022-06-16 04:09:38,390 fail2ban.jail           [833]: INFO    Initiated 'polling' backend
+2022-06-16 04:09:38,400 fail2ban.filter         [833]: INFO      maxRetry: 5
+2022-06-16 04:09:38,400 fail2ban.filter         [833]: INFO      encoding: UTF-8
+2022-06-16 04:09:38,400 fail2ban.filter         [833]: INFO      findtime: 600
+2022-06-16 04:09:38,400 fail2ban.actions        [833]: INFO      banTime: 43200
+2022-06-16 04:09:38,401 fail2ban.filter         [833]: INFO    Added logfile: '/var/log/issabel/audit.log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:09:38,434 fail2ban.jail           [833]: INFO    Jail 'sshd' started
+2022-06-16 04:09:38,445 fail2ban.jail           [833]: INFO    Jail 'apache-auth' started
+2022-06-16 04:09:38,487 fail2ban.jail           [833]: INFO    Jail 'apache-badbots' started
+2022-06-16 04:09:38,512 fail2ban.jail           [833]: INFO    Jail 'apache-noscript' started
+2022-06-16 04:09:38,553 fail2ban.jail           [833]: INFO    Jail 'apache-overflows' started
+2022-06-16 04:09:38,564 fail2ban.jail           [833]: INFO    Jail 'apache-nohome' started
+2022-06-16 04:09:38,601 fail2ban.jail           [833]: INFO    Jail 'apache-botsearch' started
+2022-06-16 04:09:38,640 fail2ban.jail           [833]: INFO    Jail 'apache-fakegooglebot' started
+2022-06-16 04:09:38,671 fail2ban.jail           [833]: INFO    Jail 'apache-modsecurity' started
+2022-06-16 04:09:38,673 fail2ban.jail           [833]: INFO    Jail 'apache-shellshock' started
+2022-06-16 04:09:38,675 fail2ban.jail           [833]: INFO    Jail 'postfix' started
+2022-06-16 04:09:38,676 fail2ban.jail           [833]: INFO    Jail 'postfix-sasl' started
+2022-06-16 04:09:38,823 fail2ban.jail           [833]: INFO    Jail 'asterisk' started
+2022-06-16 04:09:39,033 fail2ban.jail           [833]: INFO    Jail 'asterisk-ami' started
+2022-06-16 04:09:39,056 fail2ban.jail           [833]: INFO    Jail 'issabel-gui' started
+2022-06-16 04:43:18,440 fail2ban.server         [838]: INFO    --------------------------------------------------
+2022-06-16 04:43:18,446 fail2ban.server         [838]: INFO    Starting Fail2ban v0.11.1
+2022-06-16 04:43:18,452 fail2ban.observer       [838]: INFO    Observer start...
+2022-06-16 04:43:18,558 fail2ban.database       [838]: INFO    Connected to fail2ban persistent database '/var/lib/fail2ban/fail2ban.sqlite3'
+2022-06-16 04:43:18,595 fail2ban.jail           [838]: INFO    Creating new jail 'sshd'
+2022-06-16 04:43:18,688 fail2ban.jail           [838]: INFO    Jail 'sshd' uses systemd {}
+2022-06-16 04:43:18,695 fail2ban.jail           [838]: INFO    Initiated 'systemd' backend
+2022-06-16 04:43:18,700 fail2ban.filter         [838]: INFO      maxLines: 1
+2022-06-16 04:43:18,701 fail2ban.filtersystemd  [838]: INFO    [sshd] Added journal match for: '_SYSTEMD_UNIT=sshd.service + _COMM=sshd'
+2022-06-16 04:43:18,878 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:18,878 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:18,878 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:18,885 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:18,885 fail2ban.jail           [838]: INFO    Creating new jail 'apache-auth'
+2022-06-16 04:43:18,895 fail2ban.jail           [838]: INFO    Jail 'apache-auth' uses poller {}
+2022-06-16 04:43:18,898 fail2ban.jail           [838]: INFO    Initiated 'polling' backend
+2022-06-16 04:43:18,930 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:18,930 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:18,930 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:18,930 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:18,934 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:43:18,934 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 2190, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:43:18,934 fail2ban.jail           [838]: INFO    Creating new jail 'apache-badbots'
+2022-06-16 04:43:18,941 fail2ban.jail           [838]: INFO    Jail 'apache-badbots' uses poller {}
+2022-06-16 04:43:18,942 fail2ban.jail           [838]: INFO    Initiated 'polling' backend
+2022-06-16 04:43:19,004 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,006 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,007 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,007 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,007 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/access_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:43:19,013 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/ssl_access_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:43:19,020 fail2ban.jail           [838]: INFO    Creating new jail 'apache-noscript'
+2022-06-16 04:43:19,021 fail2ban.jail           [838]: INFO    Jail 'apache-noscript' uses poller {}
+2022-06-16 04:43:19,021 fail2ban.jail           [838]: INFO    Initiated 'polling' backend
+2022-06-16 04:43:19,051 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,051 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,052 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,052 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,052 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:43:19,055 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 2190, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:43:19,055 fail2ban.jail           [838]: INFO    Creating new jail 'apache-overflows'
+2022-06-16 04:43:19,066 fail2ban.jail           [838]: INFO    Jail 'apache-overflows' uses poller {}
+2022-06-16 04:43:19,067 fail2ban.jail           [838]: INFO    Initiated 'polling' backend
+2022-06-16 04:43:19,092 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,096 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,096 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,096 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,096 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:43:19,097 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 2190, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:43:19,097 fail2ban.jail           [838]: INFO    Creating new jail 'apache-nohome'
+2022-06-16 04:43:19,098 fail2ban.jail           [838]: INFO    Jail 'apache-nohome' uses poller {}
+2022-06-16 04:43:19,098 fail2ban.jail           [838]: INFO    Initiated 'polling' backend
+2022-06-16 04:43:19,117 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,123 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,123 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,123 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,127 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:43:19,128 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 2190, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:43:19,128 fail2ban.jail           [838]: INFO    Creating new jail 'apache-botsearch'
+2022-06-16 04:43:19,128 fail2ban.jail           [838]: INFO    Jail 'apache-botsearch' uses poller {}
+2022-06-16 04:43:19,141 fail2ban.jail           [838]: INFO    Initiated 'polling' backend
+2022-06-16 04:43:19,170 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,182 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,182 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,183 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,183 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:43:19,183 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 2190, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:43:19,185 fail2ban.jail           [838]: INFO    Creating new jail 'apache-fakegooglebot'
+2022-06-16 04:43:19,186 fail2ban.jail           [838]: INFO    Jail 'apache-fakegooglebot' uses poller {}
+2022-06-16 04:43:19,186 fail2ban.jail           [838]: INFO    Initiated 'polling' backend
+2022-06-16 04:43:19,194 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,194 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,194 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,194 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,199 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/access_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:43:19,207 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/ssl_access_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:43:19,214 fail2ban.jail           [838]: INFO    Creating new jail 'apache-modsecurity'
+2022-06-16 04:43:19,214 fail2ban.jail           [838]: INFO    Jail 'apache-modsecurity' uses poller {}
+2022-06-16 04:43:19,227 fail2ban.jail           [838]: INFO    Initiated 'polling' backend
+2022-06-16 04:43:19,230 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,231 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,231 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,231 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,231 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:43:19,231 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 2190, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:43:19,232 fail2ban.jail           [838]: INFO    Creating new jail 'apache-shellshock'
+2022-06-16 04:43:19,232 fail2ban.jail           [838]: INFO    Jail 'apache-shellshock' uses poller {}
+2022-06-16 04:43:19,232 fail2ban.jail           [838]: INFO    Initiated 'polling' backend
+2022-06-16 04:43:19,236 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,236 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,236 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,236 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,237 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/ssl_error_log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:43:19,237 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/httpd/error_log' (pos = 2190, hash = bf8419e7fd2d080cd246799b00b621f9)
+2022-06-16 04:43:19,253 fail2ban.jail           [838]: INFO    Creating new jail 'postfix'
+2022-06-16 04:43:19,257 fail2ban.jail           [838]: INFO    Jail 'postfix' uses systemd {}
+2022-06-16 04:43:19,257 fail2ban.jail           [838]: INFO    Initiated 'systemd' backend
+2022-06-16 04:43:19,259 fail2ban.filtersystemd  [838]: INFO    [postfix] Added journal match for: '_SYSTEMD_UNIT=postfix.service'
+2022-06-16 04:43:19,303 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,303 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,303 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,304 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,304 fail2ban.jail           [838]: INFO    Creating new jail 'postfix-sasl'
+2022-06-16 04:43:19,304 fail2ban.jail           [838]: INFO    Jail 'postfix-sasl' uses systemd {}
+2022-06-16 04:43:19,304 fail2ban.jail           [838]: INFO    Initiated 'systemd' backend
+2022-06-16 04:43:19,305 fail2ban.filtersystemd  [838]: INFO    [postfix-sasl] Added journal match for: '_SYSTEMD_UNIT=postfix.service'
+2022-06-16 04:43:19,306 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,306 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,306 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,306 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,307 fail2ban.jail           [838]: INFO    Creating new jail 'asterisk'
+2022-06-16 04:43:19,307 fail2ban.jail           [838]: INFO    Jail 'asterisk' uses poller {}
+2022-06-16 04:43:19,307 fail2ban.jail           [838]: INFO    Initiated 'polling' backend
+2022-06-16 04:43:19,322 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,322 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,322 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,322 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,323 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/asterisk/messages' (pos = 134968, hash = 453b8004728e7e08bade59472ff5579e)
+2022-06-16 04:43:19,324 fail2ban.transmitter    [838]: ERROR   Jail 'sshd-ddos' skipped, because of wrong configuration: Unable to read the filter 'sshd-ddos'
+2022-06-16 04:43:19,324 fail2ban.jail           [838]: INFO    Creating new jail 'asterisk-ami'
+2022-06-16 04:43:19,324 fail2ban.jail           [838]: INFO    Jail 'asterisk-ami' uses poller {}
+2022-06-16 04:43:19,324 fail2ban.jail           [838]: INFO    Initiated 'polling' backend
+2022-06-16 04:43:19,327 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,327 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,327 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,327 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,327 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/asterisk/messages' (pos = 134968, hash = 453b8004728e7e08bade59472ff5579e)
+2022-06-16 04:43:19,328 fail2ban.jail           [838]: INFO    Creating new jail 'issabel-gui'
+2022-06-16 04:43:19,328 fail2ban.jail           [838]: INFO    Jail 'issabel-gui' uses poller {}
+2022-06-16 04:43:19,328 fail2ban.jail           [838]: INFO    Initiated 'polling' backend
+2022-06-16 04:43:19,330 fail2ban.filter         [838]: INFO      maxRetry: 5
+2022-06-16 04:43:19,331 fail2ban.filter         [838]: INFO      encoding: UTF-8
+2022-06-16 04:43:19,331 fail2ban.filter         [838]: INFO      findtime: 600
+2022-06-16 04:43:19,331 fail2ban.actions        [838]: INFO      banTime: 43200
+2022-06-16 04:43:19,331 fail2ban.filter         [838]: INFO    Added logfile: '/var/log/issabel/audit.log' (pos = 0, hash = d41d8cd98f00b204e9800998ecf8427e)
+2022-06-16 04:43:19,354 fail2ban.jail           [838]: INFO    Jail 'sshd' started
+2022-06-16 04:43:19,467 fail2ban.jail           [838]: INFO    Jail 'apache-auth' started
+2022-06-16 04:43:19,524 fail2ban.jail           [838]: INFO    Jail 'apache-badbots' started
+2022-06-16 04:43:19,542 fail2ban.jail           [838]: INFO    Jail 'apache-noscript' started
+2022-06-16 04:43:19,545 fail2ban.jail           [838]: INFO    Jail 'apache-overflows' started
+2022-06-16 04:43:19,552 fail2ban.jail           [838]: INFO    Jail 'apache-nohome' started
+2022-06-16 04:43:19,555 fail2ban.jail           [838]: INFO    Jail 'apache-botsearch' started
+2022-06-16 04:43:19,556 fail2ban.jail           [838]: INFO    Jail 'apache-fakegooglebot' started
+2022-06-16 04:43:19,557 fail2ban.jail           [838]: INFO    Jail 'apache-modsecurity' started
+2022-06-16 04:43:19,559 fail2ban.jail           [838]: INFO    Jail 'apache-shellshock' started
+2022-06-16 04:43:19,560 fail2ban.jail           [838]: INFO    Jail 'postfix' started
+2022-06-16 04:43:19,561 fail2ban.jail           [838]: INFO    Jail 'postfix-sasl' started
+2022-06-16 04:43:19,598 fail2ban.jail           [838]: INFO    Jail 'asterisk' started
+2022-06-16 04:43:19,603 fail2ban.jail           [838]: INFO    Jail 'asterisk-ami' started
+2022-06-16 04:43:19,604 fail2ban.jail           [838]: INFO    Jail 'issabel-gui' started
+2022-06-16 05:47:41,773 fail2ban.utils          [838]: ERROR   7f5ebdcdfc48 -- exec: ip6tables -w -N F2B_INPUT
+ip6tables -w -C INPUT -j F2B_INPUT || ip6tables -w -I INPUT 2 -j F2B_INPUT || ip6tables -w -I INPUT -j F2B_INPUT
+ip6tables -w -N f2b-apache-nohome
+ip6tables -w -A f2b-apache-nohome -j RETURN
+ip6tables -w -I F2B_INPUT -p tcp -m multiport --dports http,https -j f2b-apache-nohome
+2022-06-16 05:47:41,773 fail2ban.utils          [838]: ERROR   7f5ebdcdfc48 -- timed out after 60 seconds.
+2022-06-16 05:47:41,974 fail2ban.utils          [838]: ERROR   ip6tables -w -N F2B_INPUT
+ip6tables -w -C INPUT -j F2B_INPUT || ip6tables -w -I INPUT 2 -j F2B_INPUT || ip6tables -w -I INPUT -j F2B_INPUT
+ip6tables -w -N f2b-apache-nohome
+ip6tables -w -A f2b-apache-nohome -j RETURN
+ip6tables -w -I F2B_INPUT -p tcp -m multiport --dports http,https -j f2b-apache-nohome -- failed with [Errno 3] No such process
+2022-06-16 05:47:41,974 fail2ban.utils          [838]: ERROR   7f5ebdcdfc48 -- stderr: 'ip6tables: Chain already exists.'
+2022-06-16 05:47:41,974 fail2ban.utils          [838]: ERROR   7f5ebdcdfc48 -- killed with SIGTERM (return code: -15)
+2022-06-16 05:47:41,974 fail2ban.actions        [838]: ERROR   Failed to start jail 'apache-nohome' action 'iptables-multiport-issabel': Error starting action Jail('apache-nohome')/iptables-multiport-issabel: 'Script error'
+2022-06-16 06:11:55,318 fail2ban.filter         [838]: INFO    [asterisk] Found 192.168.56.1 - 2022-06-16 06:11:55
+2022-06-16 06:11:55,318 fail2ban.filter         [838]: INFO    [asterisk] Found 192.168.56.1 - 2022-06-16 06:11:55
+2022-06-16 06:11:57,322 fail2ban.filter         [838]: INFO    [asterisk] Found 192.168.56.1 - 2022-06-16 06:11:56
+2022-06-16 06:11:57,323 fail2ban.filter         [838]: INFO    [asterisk] Found 192.168.56.1 - 2022-06-16 06:11:56
+2022-06-16 06:12:05,339 fail2ban.filter         [838]: INFO    [asterisk] Found 192.168.56.1 - 2022-06-16 06:12:05
+2022-06-16 06:12:05,339 fail2ban.filter         [838]: INFO    [asterisk] Found 192.168.56.1 - 2022-06-16 06:12:05
+2022-06-16 06:12:05,506 fail2ban.actions        [838]: NOTICE  [asterisk] Ban 192.168.56.1

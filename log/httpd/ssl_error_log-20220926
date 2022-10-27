@@ -1,0 +1,4 @@
+[Mon Sep 26 01:41:13.253274 2022] [:error] [pid 1102] [client 192.168.56.1:59934] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/sso.php on line 2, referer: https://192.168.56.102/index.php?menu=agent_console
+[Mon Sep 26 01:41:14.775810 2022] [:error] [pid 2938] [client 192.168.56.1:59937] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/sso.php on line 2, referer: https://192.168.56.102/index.php?menu=agent_console
+[Mon Sep 26 01:56:42.722674 2022] [:error] [pid 4237] [client 192.168.56.1:60553] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/sso.php on line 2, referer: https://192.168.56.102/index.php?menu=agent_console
+[Mon Sep 26 01:56:44.871326 2022] [:error] [pid 2658] [client 192.168.56.1:60556] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/sso.php on line 2, referer: https://192.168.56.102/index.php?menu=agent_console

@@ -1,0 +1,12 @@
+845:252a9ed6af3f2df607b09fcd6b1b892c862c39f2
+0
+1
+installed:846:8e392fe36266d488bfb66d207202579b16c7ce73
+1
+mbr: issabel-callcenter,noarch,0,4.0.0,5 70
+  repo: issabel-updates
+  ts_state: u
+  output_state: 20
+  isDep: False
+  reason: user
+  reinstall: False

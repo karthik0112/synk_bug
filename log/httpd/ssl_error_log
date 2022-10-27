@@ -1,0 +1,2 @@
+[Thu Oct 20 05:07:54.028916 2022] [:error] [pid 18478] [client 192.168.56.1:59661] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/sso.php on line 2, referer: https://192.168.56.102/index.php?menu=agent_console
+[Wed Oct 26 06:55:47.147195 2022] [:error] [pid 1132] [client 192.168.56.1:64985] PHP Notice:  Undefined index: action in /var/www/html/modules/myex_config/index.php on line 95, referer: https://192.168.56.102/index.php?menu=sec_fb_admin&action=view&id=1

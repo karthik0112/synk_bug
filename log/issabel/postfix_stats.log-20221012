@@ -1,0 +1,623 @@
+The datetime is 2022/10/05 05:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 1717
+The last modification date of the file is October 05 2022 04:56:53.
+Searching the date position in the file to start analyzing...
+Cursor position=832. Step=858
+Cursor position=306. Step=429
+Cursor position=76. Step=214.5
+Cursor position=0. Step=107.25
+Position set at byte 0
+Date not found. The wanted date is OLDER than the ones included in the file /var/log/maillog
+Anyway, we will return the array with the dates found on this file.
+Analyzing the file...
+
+The wanted date was not found on this file. It seems to be an older date. Looking in the previous log file.
+====================================
+Searching in file /var/log/maillog.1
+====================================
+The file /var/log/maillog.1 does not exist. Exiting.
+The wanted date was not found on this file. It seems to be an older date. Looking in the previous log file.
+====================================
+Searching in file /var/log/maillog.2
+====================================
+The file /var/log/maillog.2 does not exist. Exiting.
+The wanted date was not found on this file. It seems to be an older date. Looking in the previous log file.
+====================================
+Searching in file /var/log/maillog.3
+====================================
+The file /var/log/maillog.3 does not exist. Exiting.
+The wanted date was not found on this file. It seems to be an older date. Looking in the previous log file.
+====================================
+Preparing the output
+====================================
+Oct5042022  =  0
+The datetime is 2022/10/05 06:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 2891
+The last modification date of the file is October 05 2022 05:56:53.
+Searching the date position in the file to start analyzing...
+Cursor position=1411. Step=1445
+Position set at byte 1717
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct5052022  =  0
+The datetime is 2022/10/07 02:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 4976
+The last modification date of the file is October 07 2022 01:57:12.
+Searching the date position in the file to start analyzing...
+Cursor position=2456. Step=2488
+Cursor position=3672. Step=1244
+Cursor position=3043. Step=622
+Cursor position=3321. Step=311
+Cursor position=3413. Step=155.5
+Cursor position=3478. Step=77.75
+Cursor position=3413. Step=38.875
+Cursor position=3413. Step=19.4375
+The method converges
+Position set at byte 3478
+It seems that the date you are looking for is missing in the file. We will start the analysis from the nearest date possible
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct7012022  =  0
+The datetime is 2022/10/07 03:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 6134
+The last modification date of the file is October 07 2022 02:57:12.
+Searching the date position in the file to start analyzing...
+Cursor position=3043. Step=3067
+Cursor position=4491. Step=1533.5
+Position set at byte 4976
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct7022022  =  0
+The datetime is 2022/10/07 04:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 7650
+The last modification date of the file is October 07 2022 04:00:00.
+Searching the date position in the file to start analyzing...
+Cursor position=3789. Step=3825
+Cursor position=5614. Step=1912.5
+Position set at byte 6134
+Analyzing the file...
+*
+====================================
+Preparing the output
+====================================
+Oct7032022  =  0
+Oct7042022  =  0
+The datetime is 2022/10/07 05:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 9367
+The last modification date of the file is October 07 2022 04:57:12.
+Searching the date position in the file to start analyzing...
+Cursor position=4646. Step=4683
+Cursor position=6986. Step=2341.5
+Position set at byte 7292
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct7042022  =  0
+The datetime is 2022/10/07 09:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 10525
+The last modification date of the file is October 07 2022 08:56:05.
+Searching the date position in the file to start analyzing...
+Cursor position=5249. Step=5262
+Cursor position=7838. Step=2631
+Cursor position=9152. Step=1315.5
+Cursor position=9791. Step=657.75
+Cursor position=9440. Step=328.875
+Cursor position=9216. Step=164.4375
+Cursor position=9289. Step=82.21875
+Cursor position=9289. Step=41.109375
+The method converges
+Position set at byte 9367
+It seems that the date you are looking for is missing in the file. We will start the analysis from the nearest date possible
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct7082022  =  0
+The datetime is 2022/10/07 10:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 11683
+The last modification date of the file is October 07 2022 09:56:05.
+Searching the date position in the file to start analyzing...
+Cursor position=5828. Step=5841
+Cursor position=8710. Step=2920.5
+Cursor position=10160. Step=1460.25
+Position set at byte 10525
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct7092022  =  0
+The datetime is 2022/10/07 11:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 12857
+The last modification date of the file is October 07 2022 10:56:05.
+Searching the date position in the file to start analyzing...
+Cursor position=6407. Step=6428
+Cursor position=9590. Step=3214
+Cursor position=11163. Step=1607
+Position set at byte 11683
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct7102022  =  0
+The datetime is 2022/10/07 12:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 14031
+The last modification date of the file is October 07 2022 11:56:05.
+Searching the date position in the file to start analyzing...
+Cursor position=6986. Step=7015
+Cursor position=10461. Step=3507.5
+Cursor position=12205. Step=1753.75
+Position set at byte 12857
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct7112022  =  0
+The datetime is 2022/10/08 01:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 16116
+The last modification date of the file is October 08 2022 00:52:02.
+Searching the date position in the file to start analyzing...
+Cursor position=7956. Step=8058
+Cursor position=11974. Step=4029
+Cursor position=13966. Step=2014.5
+Cursor position=14929. Step=1007.25
+Cursor position=14401. Step=503.625
+Cursor position=14618. Step=251.8125
+Cursor position=14461. Step=125.90625
+Cursor position=14461. Step=62.953125
+The method converges
+Position set at byte 14618
+It seems that the date you are looking for is missing in the file. We will start the analysis from the nearest date possible
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct8002022  =  0
+The datetime is 2022/10/08 02:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 17274
+The last modification date of the file is October 08 2022 01:52:02.
+Searching the date position in the file to start analyzing...
+Cursor position=8637. Step=8637
+The method converges
+Position set at byte 8637
+It seems that the date you are looking for is missing in the file. We will start the analysis from the nearest date possible
+Analyzing the file...
+*******
+====================================
+Preparing the output
+====================================
+Oct7042022  =  0
+Oct7082022  =  0
+Oct7092022  =  0
+Oct7102022  =  0
+Oct7112022  =  0
+Oct7122022  =  0
+Oct8002022  =  0
+Oct8012022  =  0
+The datetime is 2022/10/08 03:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 18432
+The last modification date of the file is October 08 2022 02:52:02.
+Searching the date position in the file to start analyzing...
+Cursor position=9216. Step=9216
+The method converges
+Position set at byte 9216
+It seems that the date you are looking for is missing in the file. We will start the analysis from the nearest date possible
+Analyzing the file...
+********
+====================================
+Preparing the output
+====================================
+Oct7042022  =  0
+Oct7082022  =  0
+Oct7092022  =  0
+Oct7102022  =  0
+Oct7112022  =  0
+Oct7122022  =  0
+Oct8002022  =  0
+Oct8012022  =  0
+Oct8022022  =  0
+The datetime is 2022/10/08 04:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 19948
+The last modification date of the file is October 08 2022 04:00:00.
+Searching the date position in the file to start analyzing...
+Cursor position=9946. Step=9974
+Cursor position=14929. Step=4987
+Cursor position=17333. Step=2493.5
+Position set at byte 18432
+Analyzing the file...
+*
+====================================
+Preparing the output
+====================================
+Oct8032022  =  0
+Oct8042022  =  0
+The datetime is 2022/10/08 05:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 21664
+The last modification date of the file is October 08 2022 04:55:06.
+Searching the date position in the file to start analyzing...
+Cursor position=10812. Step=10832
+Cursor position=16175. Step=5416
+Cursor position=18856. Step=2708
+Position set at byte 19590
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct8042022  =  0
+The datetime is 2022/10/08 06:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 22822
+The last modification date of the file is October 08 2022 05:55:06.
+Searching the date position in the file to start analyzing...
+Cursor position=11391. Step=11411
+Cursor position=17060. Step=5705.5
+Cursor position=19845. Step=2852.75
+Position set at byte 21664
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct8052022  =  0
+The datetime is 2022/10/10 01:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 25116
+The last modification date of the file is October 10 2022 00:47:10.
+Searching the date position in the file to start analyzing...
+Cursor position=12487. Step=12558
+Cursor position=18719. Step=6279
+Cursor position=21814. Step=3139.5
+Cursor position=23350. Step=1569.75
+Cursor position=22516. Step=784.875
+Cursor position=22882. Step=392.4375
+Cursor position=23039. Step=196.21875
+Cursor position=22882. Step=98.109375
+Cursor position=22882. Step=49.0546875
+The method converges
+Position set at byte 23039
+It seems that the date you are looking for is missing in the file. We will start the analysis from the nearest date possible
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct10002022  =  0
+The datetime is 2022/10/10 02:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 26274
+The last modification date of the file is October 10 2022 01:47:10.
+Searching the date position in the file to start analyzing...
+Cursor position=13074. Step=13137
+Cursor position=19590. Step=6568.5
+Cursor position=22822. Step=3284.25
+Cursor position=24409. Step=1642.125
+Position set at byte 25116
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct10012022  =  0
+The datetime is 2022/10/10 03:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 26853
+The last modification date of the file is October 10 2022 02:50:55.
+Searching the date position in the file to start analyzing...
+Cursor position=13379. Step=13426
+Cursor position=20024. Step=6713
+Cursor position=23350. Step=3356.5
+Cursor position=24965. Step=1678.25
+Cursor position=25754. Step=839.125
+Position set at byte 26274
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct10022022  =  0
+The datetime is 2022/10/10 04:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 28369
+The last modification date of the file is October 10 2022 04:00:00.
+Searching the date position in the file to start analyzing...
+Cursor position=14183. Step=14184
+Cursor position=21235. Step=7092
+Cursor position=24751. Step=3546
+Cursor position=26488. Step=1773
+Position set at byte 26853
+Analyzing the file...
+*
+====================================
+Preparing the output
+====================================
+Oct10032022  =  0
+Oct10042022  =  0
+The datetime is 2022/10/10 07:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 32956
+The last modification date of the file is October 10 2022 06:53:47.
+Searching the date position in the file to start analyzing...
+Cursor position=16403. Step=16478
+Cursor position=24596. Step=8239
+Cursor position=28675. Step=4119.5
+Cursor position=30665. Step=2059.75
+Cursor position=29566. Step=1029.875
+Cursor position=30008. Step=514.9375
+Cursor position=30236. Step=257.46875
+Position set at byte 30665
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct10062022  =  0
+The datetime is 2022/10/11 01:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 35977
+The last modification date of the file is October 11 2022 00:53:55.
+Searching the date position in the file to start analyzing...
+Cursor position=17912. Step=17988
+Cursor position=26853. Step=8994
+Cursor position=31246. Step=4497
+Cursor position=33471. Step=2248.5
+Cursor position=34576. Step=1124.25
+Cursor position=33900. Step=562.125
+Cursor position=33900. Step=562.125
+The method converges
+Position set at byte 35913
+It seems that the date you are looking for is missing in the file. We will start the analysis from the nearest date possible
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct11002022  =  0
+The datetime is 2022/10/11 02:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 38268
+The last modification date of the file is October 11 2022 01:56:22.
+Searching the date position in the file to start analyzing...
+Cursor position=19070. Step=19134
+Cursor position=28557. Step=9567
+Cursor position=33321. Step=4783.5
+Cursor position=35635. Step=2391.75
+Position set at byte 35977
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct11012022  =  0
+The datetime is 2022/10/11 03:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 39426
+The last modification date of the file is October 11 2022 02:56:22.
+Searching the date position in the file to start analyzing...
+Cursor position=19678. Step=19713
+Cursor position=29507. Step=9856.5
+Cursor position=34352. Step=4928.25
+Cursor position=36750. Step=2464.125
+Position set at byte 38268
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct11022022  =  0
+The datetime is 2022/10/11 04:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 40942
+The last modification date of the file is October 11 2022 04:00:00.
+Searching the date position in the file to start analyzing...
+Cursor position=20442. Step=20471
+Cursor position=30665. Step=10235.5
+Cursor position=35763. Step=5117.75
+Cursor position=38268. Step=2558.875
+Position set at byte 39426
+Analyzing the file...
+*
+====================================
+Preparing the output
+====================================
+Oct11032022  =  0
+Oct11042022  =  0
+The datetime is 2022/10/11 05:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 42659
+The last modification date of the file is October 11 2022 04:56:22.
+Searching the date position in the file to start analyzing...
+Cursor position=21299. Step=21329
+Cursor position=31911. Step=10664.5
+Cursor position=37137. Step=5332.25
+Cursor position=39791. Step=2666.125
+Position set at byte 40584
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct11042022  =  0
+The datetime is 2022/10/11 07:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 49817
+The last modification date of the file is October 11 2022 06:55:24.
+Searching the date position in the file to start analyzing...
+Cursor position=24901. Step=24908
+Cursor position=37343. Step=12454
+Cursor position=43532. Step=6227
+Position set at byte 43611
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct11062022  =  0
+The datetime is 2022/10/11 09:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 53027
+The last modification date of the file is October 11 2022 08:52:21.
+Searching the date position in the file to start analyzing...
+Cursor position=26488. Step=26513
+Cursor position=39713. Step=13256.5
+Cursor position=46336. Step=6628.25
+Cursor position=49565. Step=3314.125
+Cursor position=50031. Step=1657.0625
+Cursor position=50031. Step=1657.0625
+The method converges
+Position set at byte 51616
+It seems that the date you are looking for is missing in the file. We will start the analysis from the nearest date possible
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct11082022  =  0
+The datetime is 2022/10/12 02:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 57030
+The last modification date of the file is October 12 2022 01:51:48.
+Searching the date position in the file to start analyzing...
+Cursor position=28445. Step=28515
+Cursor position=42659. Step=14257.5
+Cursor position=49689. Step=7128.75
+Cursor position=53241. Step=3564.375
+Position set at byte 54739
+Analyzing the file...
+
+====================================
+Preparing the output
+====================================
+Oct12012022  =  0
+The datetime is 2022/10/12 03:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 58188
+The last modification date of the file is October 12 2022 02:51:48.
+Searching the date position in the file to start analyzing...
+Cursor position=29078. Step=29094
+Cursor position=43611. Step=14547
+Cursor position=50031. Step=7273.5
+Cursor position=50031. Step=7273.5
+The method converges
+Position set at byte 51616
+It seems that the date you are looking for is missing in the file. We will start the analysis from the nearest date possible
+Analyzing the file...
+****
+====================================
+Preparing the output
+====================================
+Oct11082022  =  0
+Oct11092022  =  0
+Oct12002022  =  0
+Oct12012022  =  0
+Oct12022022  =  0
+The datetime is 2022/10/12 04:00.
+====================================
+Searching in file /var/log/maillog
+====================================
+The size of the file /var/log/maillog is: 59704
+The last modification date of the file is October 12 2022 04:00:00.
+Searching the date position in the file to start analyzing...
+Cursor position=29780. Step=29852
+Cursor position=44624. Step=14926
+Cursor position=51981. Step=7463
+Cursor position=55693. Step=3731.5
+Cursor position=57545. Step=1865.75
+Position set at byte 58188
+Analyzing the file...
+*
+====================================
+Preparing the output
+====================================
+Oct12032022  =  0
+Oct12042022  =  0

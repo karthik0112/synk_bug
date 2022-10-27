@@ -1,0 +1,64 @@
+[Oct 20 05:07:45] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 20 05:07:50] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 20 05:08:00] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 20 05:09:09] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 20 07:59:12] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 21 02:24:54] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Oct 21 03:05:23] NAVIGATION admin: User admin visited "System >> Web Console" from 192.168.56.1.
+[Oct 21 03:05:30] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 21 03:05:37] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 21 03:31:22] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 21 03:31:43] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 21 03:31:46] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 21 03:32:05] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 21 03:32:13] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 21 03:35:25] LOGOUT admin: Web Interface logout successful. Accepted logout for admin from 192.168.56.1.
+[Oct 21 03:35:33] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Oct 26 01:18:36] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Oct 26 01:36:30] PBX admin: User admin performed an action [action=edit display=announcement extdisplay=22 type=setup] from 192.168.56.1.
+[Oct 26 01:36:33] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 01:37:20] PBX admin: User admin performed an action [action=add display=announcement type=setup] from 192.168.56.1.
+[Oct 26 01:37:22] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 01:42:26] PBX admin: User admin performed an action [extension= action=edtIncoming display=did extdisplay=/] from 192.168.56.1.
+[Oct 26 01:42:30] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 01:45:03] PBX admin: User admin performed an action [action=edit display=announcement extdisplay=51 type=setup] from 192.168.56.1.
+[Oct 26 01:45:06] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 01:45:18] PBX admin: User admin performed an action [extension= action=edtIncoming display=did extdisplay=/] from 192.168.56.1.
+[Oct 26 01:45:21] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 01:45:56] PBX admin: User admin performed an action [action=recordings_start display=recordings] from 192.168.56.1.
+[Oct 26 01:46:11] PBX admin: User admin performed an action [action=recorded display=recordings] from 192.168.56.1.
+[Oct 26 01:46:45] PBX admin: User admin performed an action [action=add display=announcement type=setup] from 192.168.56.1.
+[Oct 26 01:46:47] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 01:47:15] PBX admin: User admin performed an action [extension= action=edtIncoming display=did extdisplay=/] from 192.168.56.1.
+[Oct 26 01:47:24] PBX admin: User admin performed an action [extension= action=edtIncoming display=did extdisplay=/] from 192.168.56.1.
+[Oct 26 01:47:26] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 01:51:10] PBX admin: User admin performed an action [action=system display=recordings] from 192.168.56.1.
+[Oct 26 01:51:48] PBX admin: User admin performed an action [action=newsysrec display=recordings] from 192.168.56.1.
+[Oct 26 01:51:51] PBX admin: User admin performed an action [action=edited display=recordings] from 192.168.56.1.
+[Oct 26 01:51:54] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 01:52:09] PBX admin: User admin performed an action [action=edited display=recordings] from 192.168.56.1.
+[Oct 26 01:52:12] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 01:52:29] PBX admin: User admin performed an action [action=edit display=announcement extdisplay=52 type=setup] from 192.168.56.1.
+[Oct 26 01:52:31] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 01:52:53] PBX admin: User admin performed an action [extension= action=edtIncoming display=did extdisplay=/] from 192.168.56.1.
+[Oct 26 01:52:55] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 06:09:07] PBX admin: User admin performed an action [extension=4 action=edtIncoming display=did extdisplay=/] from 192.168.56.1.
+[Oct 26 06:09:22] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 06:09:35] PBX admin: User admin performed an action [extension= action=edtIncoming display=did extdisplay=4/] from 192.168.56.1.
+[Oct 26 06:09:39] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 26 06:09:58] NAVIGATION admin: User admin visited "PBX >> Tools >> Asterisk-Cli" from 192.168.56.1.
+[Oct 26 06:10:06] NAVIGATION admin: User admin visited "PBX >> Tools >> Asterisk File Editor" from 192.168.56.1.
+[Oct 26 06:10:35] NAVIGATION admin: User admin visited "PBX >> Tools >> Asterisk File Editor" from 192.168.56.1.
+[Oct 26 06:11:33] NAVIGATION admin: User admin visited "PBX >> Tools >> Text to Wav" from 192.168.56.1.
+[Oct 26 06:11:36] NAVIGATION admin: User admin visited "PBX >> Tools >> Festival" from 192.168.56.1.
+[Oct 26 06:11:38] NAVIGATION admin: User admin visited "PBX >> Tools >> Recordings" from 192.168.56.1.
+[Oct 26 06:11:45] NAVIGATION admin: User admin visited "PBX >> Tools >> Festival" from 192.168.56.1.
+[Oct 26 06:12:05] NAVIGATION admin: User admin visited "PBX >> Tools >> Recordings" from 192.168.56.1.
+[Oct 26 06:54:09] NAVIGATION admin: User admin visited "PBX >> Tools >> Recordings" from 192.168.56.1.
+[Oct 26 06:54:19] NAVIGATION admin: User admin visited "PBX >> Conference" from 192.168.56.1.
+[Oct 26 06:54:23] NAVIGATION admin: User admin visited "PBX >> Conference" from 192.168.56.1.
+[Oct 26 06:54:28] NAVIGATION admin: User admin visited "PBX >> Batch Configurations >> Batch of Extensions" from 192.168.56.1.
+[Oct 26 06:54:50] NAVIGATION admin: User admin visited "Security >> Fail2Ban >> Admin" from 192.168.56.1.
+[Oct 26 06:55:32] NAVIGATION admin: User admin visited "Security >> Fail2Ban >> Admin" from 192.168.56.1.
+[Oct 26 06:55:47] NAVIGATION admin: User admin visited "My Extension >> Settings" from 192.168.56.1.
+[Oct 26 06:56:10] NAVIGATION admin: User admin visited "Agenda >> Address Book" from 192.168.56.1.

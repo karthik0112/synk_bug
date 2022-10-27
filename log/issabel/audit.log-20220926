@@ -1,0 +1,24 @@
+[Sep 12 02:38:10] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Sep 12 02:38:20] NAVIGATION admin: User admin visited "Reports >> CDR Report" from 192.168.56.1.
+[Sep 12 02:46:30] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:46:34] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:46:34] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:46:35] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:46:35] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:47:38] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:47:40] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:47:41] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:47:41] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:47:42] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:47:42] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:49:47] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:49:48] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:49:49] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 12 02:49:54] NAVIGATION admin: User admin visited "Reports >> CDR Report" from 192.168.56.1.
+[Sep 26 01:11:08] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Sep 26 01:11:31] LOGOUT admin: Web Interface logout successful. Accepted logout for admin from 192.168.56.1.
+[Sep 26 01:19:08] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Sep 26 01:36:26] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Sep 26 01:36:30] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Sep 26 01:41:11] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Sep 26 01:41:12] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.

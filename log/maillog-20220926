@@ -1,0 +1,167 @@
+Sep  9 04:31:19 issabel postfix/pickup[3928]: C0D98A625C: uid=0 from=<root>
+Sep  9 04:31:19 issabel postfix/cleanup[4779]: C0D98A625C: message-id=<20220909083119.C0D98A625C@issabel.local>
+Sep  9 04:31:19 issabel postfix/qmgr[1753]: C0D98A625C: from=<root@issabel.local>, size=22340, nrcpt=1 (queue active)
+Sep  9 04:31:19 issabel postfix/local[4782]: C0D98A625C: to=<root@issabel.local>, orig_to=<root>, relay=local, delay=50, delays=50/0.05/0/0.07, dsn=2.0.0, status=sent (delivered to mailbox)
+Sep  9 04:31:20 issabel postfix/qmgr[1753]: C0D98A625C: removed
+Sep  9 04:40:15 issabel squatter[4848]: indexing mailboxes
+Sep  9 04:40:15 issabel squatter[4848]: error opening looking up *: Mailbox does not exist
+Sep  9 04:40:15 issabel squatter[4848]: done indexing mailboxes
+Sep  9 05:00:23 issabel squatter[4953]: indexing mailboxes
+Sep  9 05:00:23 issabel squatter[4953]: error opening looking up *: Mailbox does not exist
+Sep  9 05:00:23 issabel squatter[4953]: done indexing mailboxes
+Sep  9 05:00:24 issabel ctl_cyrusdb[4954]: checkpointing cyrus databases
+Sep  9 05:00:24 issabel ctl_cyrusdb[4954]: done checkpointing cyrus databases
+Sep  9 05:15:23 issabel squatter[5135]: indexing mailboxes
+Sep  9 05:15:23 issabel squatter[5135]: error opening looking up *: Mailbox does not exist
+Sep  9 05:15:23 issabel squatter[5135]: done indexing mailboxes
+Sep  9 07:14:51 issabel squatter[5206]: indexing mailboxes
+Sep  9 07:14:51 issabel squatter[5206]: error opening looking up *: Mailbox does not exist
+Sep  9 07:14:51 issabel squatter[5206]: done indexing mailboxes
+Sep  9 07:14:51 issabel ctl_cyrusdb[5207]: checkpointing cyrus databases
+Sep  9 07:14:51 issabel ctl_cyrusdb[5207]: done checkpointing cyrus databases
+Sep  9 07:29:51 issabel squatter[5371]: indexing mailboxes
+Sep  9 07:29:51 issabel squatter[5371]: error opening looking up *: Mailbox does not exist
+Sep  9 07:29:51 issabel squatter[5371]: done indexing mailboxes
+Sep  9 07:44:51 issabel squatter[5468]: indexing mailboxes
+Sep  9 07:44:51 issabel squatter[5468]: error opening looking up *: Mailbox does not exist
+Sep  9 07:44:51 issabel squatter[5468]: done indexing mailboxes
+Sep  9 07:44:51 issabel ctl_cyrusdb[5469]: checkpointing cyrus databases
+Sep  9 07:44:51 issabel ctl_cyrusdb[5469]: done checkpointing cyrus databases
+Sep 11 21:07:28 issabel postfix/postfix-script[1598]: starting the Postfix mail system
+Sep 11 21:07:28 issabel postfix/master[1612]: daemon started -- version 2.10.1, configuration /etc/postfix
+Sep 12 02:37:30 issabel master[2304]: setrlimit: Unable to set file descriptors limit to -1: Operation not permitted
+Sep 12 02:37:30 issabel master[2304]: retrying with 4096 (current max)
+Sep 12 02:37:31 issabel ctl_cyrusdb[2331]: recovering cyrus databases
+Sep 12 02:37:31 issabel ctl_cyrusdb[2331]: skiplist: checkpointed /var/lib/imap/mailboxes.db (0 records, 144 bytes) in 0 seconds
+Sep 12 02:37:31 issabel ctl_cyrusdb[2331]: skiplist: checkpointed /var/lib/imap/annotations.db (0 records, 144 bytes) in 0 seconds
+Sep 12 02:37:31 issabel ctl_cyrusdb[2331]: done recovering cyrus databases
+Sep 12 02:37:31 issabel master[2304]: unable to setsocketopt(IP_TOS): Operation not supported
+Sep 12 02:37:31 issabel ctl_cyrusdb[2346]: checkpointing cyrus databases
+Sep 12 02:37:31 issabel squatter[2345]: indexing mailboxes
+Sep 12 02:37:31 issabel squatter[2345]: error opening looking up *: Mailbox does not exist
+Sep 12 02:37:31 issabel squatter[2345]: done indexing mailboxes
+Sep 12 02:37:31 issabel ctl_cyrusdb[2346]: done checkpointing cyrus databases
+Sep 12 02:37:31 issabel lmtpunix[2351]: skiplist: checkpointed /var/lib/imap/deliver.db (0 records, 144 bytes) in 0 seconds
+Sep 12 02:37:31 issabel lmtpunix[2351]: skiplist: checkpointed /var/lib/imap/statuscache.db (0 records, 144 bytes) in 0 seconds
+Sep 12 02:52:31 issabel squatter[2903]: indexing mailboxes
+Sep 12 02:52:31 issabel squatter[2903]: error opening looking up *: Mailbox does not exist
+Sep 12 02:52:31 issabel squatter[2903]: done indexing mailboxes
+Sep 12 03:07:31 issabel squatter[3042]: indexing mailboxes
+Sep 12 03:07:31 issabel squatter[3042]: error opening looking up *: Mailbox does not exist
+Sep 12 03:07:31 issabel squatter[3042]: done indexing mailboxes
+Sep 12 03:07:31 issabel ctl_cyrusdb[3043]: checkpointing cyrus databases
+Sep 12 03:07:31 issabel ctl_cyrusdb[3043]: done checkpointing cyrus databases
+Sep 12 03:22:31 issabel squatter[3149]: indexing mailboxes
+Sep 12 03:22:31 issabel squatter[3149]: error opening looking up *: Mailbox does not exist
+Sep 12 03:22:31 issabel squatter[3149]: done indexing mailboxes
+Sep 12 03:37:31 issabel squatter[3249]: indexing mailboxes
+Sep 12 03:37:31 issabel squatter[3249]: error opening looking up *: Mailbox does not exist
+Sep 12 03:37:31 issabel squatter[3249]: done indexing mailboxes
+Sep 12 03:37:31 issabel ctl_cyrusdb[3250]: checkpointing cyrus databases
+Sep 12 03:37:31 issabel ctl_cyrusdb[3250]: done checkpointing cyrus databases
+Sep 12 03:52:31 issabel squatter[3355]: indexing mailboxes
+Sep 12 03:52:31 issabel squatter[3355]: error opening looking up *: Mailbox does not exist
+Sep 12 03:52:31 issabel squatter[3355]: done indexing mailboxes
+Sep 12 04:00:00 issabel tls_prune[3414]: DBERROR: opening /var/lib/imap/tls_sessions.db: cyrusdb error
+Sep 12 04:00:00 issabel cyr_expire[3415]: Expunged 0 out of 0 messages from 0 mailboxes
+Sep 12 04:00:00 issabel cyr_expire[3415]: duplicate_prune: pruning back 3.00 days
+Sep 12 04:00:00 issabel cyr_expire[3415]: duplicate_prune: purged 0 out of 0 entries
+Sep 12 04:02:48 issabel postfix/pickup[2741]: AD0C9A5C02: uid=0 from=<root>
+Sep 12 04:02:48 issabel postfix/cleanup[4182]: AD0C9A5C02: message-id=<20220912080248.AD0C9A5C02@issabel.local>
+Sep 12 04:02:48 issabel postfix/qmgr[1631]: AD0C9A5C02: from=<root@issabel.local>, size=22340, nrcpt=1 (queue active)
+Sep 12 04:02:48 issabel postfix/local[4185]: AD0C9A5C02: to=<root@issabel.local>, orig_to=<root>, relay=local, delay=1.7, delays=1.7/0.01/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+Sep 12 04:02:48 issabel postfix/qmgr[1631]: AD0C9A5C02: removed
+Sep 12 04:07:31 issabel squatter[4214]: indexing mailboxes
+Sep 12 04:07:31 issabel squatter[4214]: error opening looking up *: Mailbox does not exist
+Sep 12 04:07:31 issabel squatter[4214]: done indexing mailboxes
+Sep 12 04:07:31 issabel ctl_cyrusdb[4215]: checkpointing cyrus databases
+Sep 12 04:07:31 issabel ctl_cyrusdb[4215]: done checkpointing cyrus databases
+Sep 12 04:56:42 issabel ctl_cyrusdb[4265]: checkpointing cyrus databases
+Sep 12 04:56:42 issabel ctl_cyrusdb[4265]: done checkpointing cyrus databases
+Sep 12 04:56:42 issabel squatter[4266]: indexing mailboxes
+Sep 12 04:56:42 issabel squatter[4266]: error opening looking up *: Mailbox does not exist
+Sep 12 04:56:42 issabel squatter[4266]: done indexing mailboxes
+Sep 12 05:11:42 issabel squatter[4440]: indexing mailboxes
+Sep 12 05:11:42 issabel squatter[4440]: error opening looking up *: Mailbox does not exist
+Sep 12 05:11:42 issabel squatter[4440]: done indexing mailboxes
+Sep 12 05:26:42 issabel squatter[4546]: indexing mailboxes
+Sep 12 05:26:42 issabel squatter[4546]: error opening looking up *: Mailbox does not exist
+Sep 12 05:26:42 issabel squatter[4546]: done indexing mailboxes
+Sep 12 05:26:42 issabel ctl_cyrusdb[4547]: checkpointing cyrus databases
+Sep 12 05:26:42 issabel ctl_cyrusdb[4547]: done checkpointing cyrus databases
+Sep 12 05:41:42 issabel squatter[4671]: indexing mailboxes
+Sep 12 05:41:42 issabel squatter[4671]: error opening looking up *: Mailbox does not exist
+Sep 12 05:41:42 issabel squatter[4671]: done indexing mailboxes
+Sep 12 06:26:40 issabel ctl_cyrusdb[4675]: checkpointing cyrus databases
+Sep 12 06:26:40 issabel ctl_cyrusdb[4675]: done checkpointing cyrus databases
+Sep 12 06:26:40 issabel squatter[4674]: indexing mailboxes
+Sep 12 06:26:40 issabel squatter[4674]: error opening looking up *: Mailbox does not exist
+Sep 12 06:26:40 issabel squatter[4674]: done indexing mailboxes
+Sep 12 07:34:08 issabel ctl_cyrusdb[4847]: checkpointing cyrus databases
+Sep 12 07:34:08 issabel ctl_cyrusdb[4847]: done checkpointing cyrus databases
+Sep 12 07:34:08 issabel squatter[4848]: indexing mailboxes
+Sep 12 07:34:08 issabel squatter[4848]: error opening looking up *: Mailbox does not exist
+Sep 12 07:34:08 issabel squatter[4848]: done indexing mailboxes
+Sep 12 07:49:08 issabel squatter[5013]: indexing mailboxes
+Sep 12 07:49:08 issabel squatter[5013]: error opening looking up *: Mailbox does not exist
+Sep 12 07:49:08 issabel squatter[5013]: done indexing mailboxes
+Sep 26 00:48:08 issabel postfix/postfix-script[1567]: starting the Postfix mail system
+Sep 26 00:48:08 issabel postfix/master[1590]: daemon started -- version 2.10.1, configuration /etc/postfix
+Sep 26 00:48:10 issabel master[2156]: setrlimit: Unable to set file descriptors limit to -1: Operation not permitted
+Sep 26 00:48:10 issabel master[2156]: retrying with 4096 (current max)
+Sep 26 00:48:10 issabel ctl_cyrusdb[2159]: recovering cyrus databases
+Sep 26 00:48:10 issabel ctl_cyrusdb[2159]: skiplist: checkpointed /var/lib/imap/mailboxes.db (0 records, 144 bytes) in 0 seconds
+Sep 26 00:48:10 issabel ctl_cyrusdb[2159]: skiplist: checkpointed /var/lib/imap/annotations.db (0 records, 144 bytes) in 0 seconds
+Sep 26 00:48:10 issabel ctl_cyrusdb[2159]: done recovering cyrus databases
+Sep 26 00:48:10 issabel master[2156]: unable to setsocketopt(IP_TOS): Operation not supported
+Sep 26 00:48:10 issabel ctl_cyrusdb[2163]: checkpointing cyrus databases
+Sep 26 00:48:10 issabel squatter[2162]: indexing mailboxes
+Sep 26 00:48:10 issabel squatter[2162]: error opening looking up *: Mailbox does not exist
+Sep 26 00:48:10 issabel squatter[2162]: done indexing mailboxes
+Sep 26 00:48:10 issabel ctl_cyrusdb[2163]: done checkpointing cyrus databases
+Sep 26 00:48:10 issabel lmtpunix[2168]: skiplist: checkpointed /var/lib/imap/deliver.db (0 records, 144 bytes) in 0 seconds
+Sep 26 00:48:10 issabel lmtpunix[2168]: skiplist: checkpointed /var/lib/imap/statuscache.db (0 records, 144 bytes) in 0 seconds
+Sep 26 01:10:25 issabel squatter[2390]: indexing mailboxes
+Sep 26 01:10:25 issabel squatter[2390]: error opening looking up *: Mailbox does not exist
+Sep 26 01:10:25 issabel squatter[2390]: done indexing mailboxes
+Sep 26 01:18:10 issabel ctl_cyrusdb[2893]: checkpointing cyrus databases
+Sep 26 01:18:10 issabel ctl_cyrusdb[2893]: done checkpointing cyrus databases
+Sep 26 01:25:25 issabel squatter[3380]: indexing mailboxes
+Sep 26 01:25:25 issabel squatter[3380]: error opening looking up *: Mailbox does not exist
+Sep 26 01:25:25 issabel squatter[3380]: done indexing mailboxes
+Sep 26 01:40:25 issabel squatter[4230]: indexing mailboxes
+Sep 26 01:40:25 issabel squatter[4230]: error opening looking up *: Mailbox does not exist
+Sep 26 01:40:25 issabel squatter[4230]: done indexing mailboxes
+Sep 26 01:48:10 issabel ctl_cyrusdb[4428]: checkpointing cyrus databases
+Sep 26 01:48:10 issabel ctl_cyrusdb[4428]: done checkpointing cyrus databases
+Sep 26 01:55:25 issabel squatter[4495]: indexing mailboxes
+Sep 26 01:55:25 issabel squatter[4495]: error opening looking up *: Mailbox does not exist
+Sep 26 01:55:25 issabel squatter[4495]: done indexing mailboxes
+Sep 26 02:44:56 issabel squatter[4580]: indexing mailboxes
+Sep 26 02:44:56 issabel squatter[4580]: error opening looking up *: Mailbox does not exist
+Sep 26 02:44:56 issabel squatter[4580]: done indexing mailboxes
+Sep 26 02:44:56 issabel ctl_cyrusdb[4579]: checkpointing cyrus databases
+Sep 26 02:44:56 issabel ctl_cyrusdb[4579]: done checkpointing cyrus databases
+Sep 26 02:59:56 issabel squatter[4744]: indexing mailboxes
+Sep 26 02:59:56 issabel squatter[4744]: error opening looking up *: Mailbox does not exist
+Sep 26 02:59:56 issabel squatter[4744]: done indexing mailboxes
+Sep 26 03:14:56 issabel squatter[4855]: indexing mailboxes
+Sep 26 03:14:56 issabel squatter[4855]: error opening looking up *: Mailbox does not exist
+Sep 26 03:14:56 issabel squatter[4855]: done indexing mailboxes
+Sep 26 03:14:56 issabel ctl_cyrusdb[4856]: checkpointing cyrus databases
+Sep 26 03:14:56 issabel ctl_cyrusdb[4856]: done checkpointing cyrus databases
+Sep 26 03:29:56 issabel squatter[4959]: indexing mailboxes
+Sep 26 03:29:56 issabel squatter[4959]: error opening looking up *: Mailbox does not exist
+Sep 26 03:29:56 issabel squatter[4959]: done indexing mailboxes
+Sep 26 03:44:56 issabel squatter[5192]: indexing mailboxes
+Sep 26 03:44:56 issabel squatter[5192]: error opening looking up *: Mailbox does not exist
+Sep 26 03:44:56 issabel squatter[5192]: done indexing mailboxes
+Sep 26 03:44:56 issabel ctl_cyrusdb[5193]: checkpointing cyrus databases
+Sep 26 03:44:56 issabel ctl_cyrusdb[5193]: done checkpointing cyrus databases
+Sep 26 03:59:56 issabel squatter[5297]: indexing mailboxes
+Sep 26 03:59:56 issabel squatter[5297]: error opening looking up *: Mailbox does not exist
+Sep 26 03:59:56 issabel squatter[5297]: done indexing mailboxes
+Sep 26 04:00:00 issabel tls_prune[5298]: DBERROR: opening /var/lib/imap/tls_sessions.db: cyrusdb error
+Sep 26 04:00:00 issabel cyr_expire[5299]: Expunged 0 out of 0 messages from 0 mailboxes
+Sep 26 04:00:00 issabel cyr_expire[5299]: duplicate_prune: pruning back 3.00 days
+Sep 26 04:00:00 issabel cyr_expire[5299]: duplicate_prune: purged 0 out of 0 entries

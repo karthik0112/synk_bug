@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `asterisk`.`users`.`extension` AS `extension`,`asterisk`.`users`.`name` AS `name`,\'from-did-direct\' AS `context`,\'extension\' AS `type` from `asterisk`.`users` union select `asterisk`.`queues_config`.`extension` AS `extension`,`asterisk`.`queues_config`.`descr` AS `descr`,\'ext-queues\' AS `context`,\'queue\' AS `type` from `asterisk`.`queues_config` union select `asterisk`.`ringgroups`.`grpnum` AS `grpnum`,`asterisk`.`ringgroups`.`description` AS `description`,\'ext-group\' AS `context`,\'ringgroup\' AS `type` from `asterisk`.`ringgroups`
+md5=8b5c1d8cc4307953ea526b8dce2a622d
+updatable=0
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=2
+with_check_option=0
+timestamp=2022-06-16 08:00:05
+create-version=1
+source=SELECT `users`.`extension` AS `extension`,`users`.`name` AS `name`,\'from-did-direct\' AS `context`,\'extension\' AS `type` from `users` UNION SELECT `queues_config`.`extension` AS `extension`,`queues_config`.`descr` AS `descr`,\'ext-queues\' AS `context`,\'queue\' AS `type` from `queues_config` UNION SELECT `ringgroups`.`grpnum` AS `grpnum`,`ringgroups`.`description` AS `description`,\'ext-group\' AS `context`,\'ringgroup\' AS `type` from `ringgroups`
+client_cs_name=utf8
+connection_cl_name=utf8_general_ci
+view_body_utf8=select `asterisk`.`users`.`extension` AS `extension`,`asterisk`.`users`.`name` AS `name`,\'from-did-direct\' AS `context`,\'extension\' AS `type` from `asterisk`.`users` union select `asterisk`.`queues_config`.`extension` AS `extension`,`asterisk`.`queues_config`.`descr` AS `descr`,\'ext-queues\' AS `context`,\'queue\' AS `type` from `asterisk`.`queues_config` union select `asterisk`.`ringgroups`.`grpnum` AS `grpnum`,`asterisk`.`ringgroups`.`description` AS `description`,\'ext-group\' AS `context`,\'ringgroup\' AS `type` from `asterisk`.`ringgroups`
+mariadb-version=50568

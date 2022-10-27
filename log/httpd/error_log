@@ -1,0 +1,1966 @@
+[Thu Oct 20 04:03:06.868510 2022] [lbmethod_heartbeat:notice] [pid 808] AH02282: No slotmem from mod_heartmonitor
+[Thu Oct 20 04:03:06.884824 2022] [mpm_prefork:notice] [pid 808] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Thu Oct 20 04:03:06.884837 2022] [core:notice] [pid 808] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+[Fri Oct 21 02:22:38.974780 2022] [suexec:notice] [pid 790] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using issabel.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 21 02:22:39.098301 2022] [lbmethod_heartbeat:notice] [pid 790] AH02282: No slotmem from mod_heartmonitor
+[Fri Oct 21 02:22:39.416369 2022] [mpm_prefork:notice] [pid 790] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Fri Oct 21 02:22:39.416398 2022] [core:notice] [pid 790] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+[Fri Oct 21 04:50:55.937679 2022] [suexec:notice] [pid 805] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using issabel.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 21 04:50:56.099948 2022] [lbmethod_heartbeat:notice] [pid 805] AH02282: No slotmem from mod_heartmonitor
+[Fri Oct 21 04:50:56.608866 2022] [mpm_prefork:notice] [pid 805] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Fri Oct 21 04:50:56.608892 2022] [core:notice] [pid 805] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+[Wed Oct 26 01:17:07.314011 2022] [suexec:notice] [pid 797] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using issabel.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 26 01:17:07.454646 2022] [lbmethod_heartbeat:notice] [pid 797] AH02282: No slotmem from mod_heartmonitor
+[Wed Oct 26 01:17:07.840131 2022] [mpm_prefork:notice] [pid 797] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Wed Oct 26 01:17:07.840158 2022] [core:notice] [pid 797] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 131
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 133
+PHP Notice:  Undefined offset: 1 in /usr/share/issabel/privileged/issabel_network_applet on line 135
+Failed to get unit file state for issabel_network_agent.service: No such file or directory
+chgrp: missing operand after '/var/spool/asterisk/tmp/unnumbered-ivrrecording.wav'
+Try 'chgrp --help' for more information.
+Job for fail2ban.service invalid.
+[Thu Oct 27 00:12:53.116497 2022] [suexec:notice] [pid 809] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using issabel.local. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 27 00:12:53.243251 2022] [lbmethod_heartbeat:notice] [pid 809] AH02282: No slotmem from mod_heartmonitor
+[Thu Oct 27 00:12:53.640844 2022] [mpm_prefork:notice] [pid 809] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Thu Oct 27 00:12:53.640880 2022] [core:notice] [pid 809] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'

@@ -1,0 +1,1510 @@
+2022-06-16 04:02:20 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-06-16 04:02:20 : Main log located at /var/log/issupdaterd.log
+2022-06-16 04:02:20 : (ProcessMonitor) PID = 2865, monitor started normally
+2022-06-16 04:02:20 : (IssabelInstallerProcess) starting up process...
+2022-06-16 04:02:20 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-06-16 04:02:20 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-06-16 04:02:20 : (IssabelInstallerProcess) PID = 2888, process started normally
+2022-06-16 04:09:40 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-06-16 04:09:40 : Main log located at /var/log/issupdaterd.log
+2022-06-16 04:09:40 : (ProcessMonitor) PID = 2404, monitor started normally
+2022-06-16 04:09:40 : (IssabelInstallerProcess) starting up process...
+2022-06-16 04:09:41 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-06-16 04:09:41 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-06-16 04:09:41 : (IssabelInstallerProcess) PID = 2407, process started normally
+2022-06-16 05:47:44 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-06-16 05:47:44 : Main log located at /var/log/issupdaterd.log
+2022-06-16 05:47:44 : (ProcessMonitor) PID = 2453, monitor started normally
+2022-06-16 05:47:44 : (IssabelInstallerProcess) starting up process...
+2022-06-16 05:47:44 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-06-16 05:47:44 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-06-16 05:47:44 : (IssabelInstallerProcess) PID = 2456, process started normally
+2022-06-16 05:54:11 : (IssabelInstallerProcess) INFO: switched to status: reporefresh
+2022-06-16 05:54:11 : (IssabelInstallerProcess) INFO: arrancando yum shell ...
+2022-06-16 05:54:11 : (IssabelInstallerProcess) INFO: yum shell está preparado.
+2022-06-16 05:54:11 : (IssabelInstallerProcess) INFO: ejecutando comando yum: ts list repoload
+2022-06-16 05:54:11 : (IssabelInstallerProcess) INFO: ejecutando comando yum: install issabel-callcenter
+2022-06-16 05:54:11 : (IssabelInstallerProcess) INFO: switched to status: depsolving
+2022-06-16 05:55:18 : (IssabelInstallerProcess) INFO: ejecutando comando yum: ts solve
+2022-06-16 05:55:20 : (IssabelInstallerProcess) INFO: ejecutando comando yum: ts list final
+2022-06-16 05:55:20 : (IssabelInstallerProcess) INFO: switched to status: confirm
+2022-06-16 05:55:20 : (IssabelInstallerProcess) INFO: repo issabel-updates declares primary at repodata/primary.xml.gz
+2022-06-16 05:55:20 : (IssabelInstallerProcess) INFO: switched to status: downloading
+2022-06-16 05:55:20 : (IssabelInstallerProcess) INFO: ejecutando comando yum: run
+2022-06-16 05:55:24 : (IssabelInstallerProcess) INFO: switched to status: applying
+2022-06-16 05:55:26 : (IssabelInstallerProcess) INFO: switched to status: none
+2022-06-16 05:56:27 : (IssabelInstallerProcess) INFO: finalizada instancia de yum shell
+2022-06-16 05:56:27 : (IssabelInstallerProcess) INFO: yum finaliza con ret=0
+2022-06-16 07:43:59 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-06-16 07:43:59 : Main log located at /var/log/issupdaterd.log
+2022-06-16 07:43:59 : (ProcessMonitor) PID = 2192, monitor started normally
+2022-06-16 07:43:59 : (IssabelInstallerProcess) starting up process...
+2022-06-16 07:44:00 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-06-16 07:44:00 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-06-16 07:44:00 : (IssabelInstallerProcess) PID = 2210, process started normally
+2022-06-17 00:04:03 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-06-17 00:04:03 : Main log located at /var/log/issupdaterd.log
+2022-06-17 00:04:03 : (ProcessMonitor) PID = 2189, monitor started normally
+2022-06-17 00:04:03 : (IssabelInstallerProcess) starting up process...
+2022-06-17 00:04:04 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-06-17 00:04:04 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-06-17 00:04:04 : (IssabelInstallerProcess) PID = 2199, process started normally
+2022-06-20 05:51:39 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-06-20 05:51:39 : Main log located at /var/log/issupdaterd.log
+2022-06-20 05:51:39 : (ProcessMonitor) PID = 2190, monitor started normally
+2022-06-20 05:51:39 : (IssabelInstallerProcess) starting up process...
+2022-06-20 05:51:40 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-06-20 05:51:40 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-06-20 05:51:40 : (IssabelInstallerProcess) PID = 2208, process started normally
+2022-06-21 01:12:15 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-06-21 01:12:15 : Main log located at /var/log/issupdaterd.log
+2022-06-21 01:12:15 : (ProcessMonitor) PID = 2254, monitor started normally
+2022-06-21 01:12:15 : (IssabelInstallerProcess) starting up process...
+2022-06-21 01:12:16 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-06-21 01:12:16 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-06-21 01:12:16 : (IssabelInstallerProcess) PID = 2256, process started normally
+2022-06-21 23:57:22 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-06-21 23:57:22 : Main log located at /var/log/issupdaterd.log
+2022-06-21 23:57:22 : (ProcessMonitor) PID = 2197, monitor started normally
+2022-06-21 23:57:22 : (IssabelInstallerProcess) starting up process...
+2022-06-21 23:57:23 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-06-21 23:57:23 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-06-21 23:57:23 : (IssabelInstallerProcess) PID = 2204, process started normally
+2022-06-23 00:17:49 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-06-23 00:17:49 : Main log located at /var/log/issupdaterd.log
+2022-06-23 00:17:49 : (ProcessMonitor) PID = 2189, monitor started normally
+2022-06-23 00:17:49 : (IssabelInstallerProcess) starting up process...
+2022-06-23 00:17:50 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-06-23 00:17:50 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-06-23 00:17:50 : (IssabelInstallerProcess) PID = 2192, process started normally
+2022-06-28 00:17:16 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-06-28 00:17:16 : Main log located at /var/log/issupdaterd.log
+2022-06-28 00:17:16 : (ProcessMonitor) PID = 2190, monitor started normally
+2022-06-28 00:17:16 : (IssabelInstallerProcess) starting up process...
+2022-06-28 00:17:17 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-06-28 00:17:17 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-06-28 00:17:17 : (IssabelInstallerProcess) PID = 2204, process started normally
+2022-06-30 00:28:10 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-06-30 00:28:10 : Main log located at /var/log/issupdaterd.log
+2022-06-30 00:28:10 : (ProcessMonitor) PID = 2197, monitor started normally
+2022-06-30 00:28:10 : (IssabelInstallerProcess) starting up process...
+2022-06-30 00:28:11 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-06-30 00:28:11 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-06-30 00:28:11 : (IssabelInstallerProcess) PID = 2210, process started normally
+2022-07-01 03:07:26 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-01 03:07:26 : Main log located at /var/log/issupdaterd.log
+2022-07-01 03:07:26 : (ProcessMonitor) PID = 2211, monitor started normally
+2022-07-01 03:07:26 : (IssabelInstallerProcess) starting up process...
+2022-07-01 03:07:27 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-01 03:07:27 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-01 03:07:27 : (IssabelInstallerProcess) PID = 2237, process started normally
+2022-07-05 04:47:20 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-05 04:47:20 : Main log located at /var/log/issupdaterd.log
+2022-07-05 04:47:20 : (ProcessMonitor) PID = 2210, monitor started normally
+2022-07-05 04:47:20 : (IssabelInstallerProcess) starting up process...
+2022-07-05 04:47:23 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-05 04:47:23 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-05 04:47:23 : (IssabelInstallerProcess) PID = 2224, process started normally
+2022-07-07 02:51:19 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-07 02:51:19 : Main log located at /var/log/issupdaterd.log
+2022-07-07 02:51:19 : (ProcessMonitor) PID = 2182, monitor started normally
+2022-07-07 02:51:19 : (IssabelInstallerProcess) starting up process...
+2022-07-07 02:51:26 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-07 02:51:26 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-07 02:51:26 : (IssabelInstallerProcess) PID = 2204, process started normally
+2022-07-07 08:14:33 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-07 08:14:33 : Main log located at /var/log/issupdaterd.log
+2022-07-07 08:14:33 : (ProcessMonitor) PID = 2242, monitor started normally
+2022-07-07 08:14:33 : (IssabelInstallerProcess) starting up process...
+2022-07-07 08:14:33 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-07 08:14:33 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-07 08:14:33 : (IssabelInstallerProcess) PID = 2255, process started normally
+2022-07-08 00:12:26 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-08 00:12:26 : Main log located at /var/log/issupdaterd.log
+2022-07-08 00:12:26 : (ProcessMonitor) PID = 2196, monitor started normally
+2022-07-08 00:12:26 : (IssabelInstallerProcess) starting up process...
+2022-07-08 00:12:27 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-08 00:12:27 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-08 00:12:27 : (IssabelInstallerProcess) PID = 2204, process started normally
+2022-07-08 06:15:16 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-08 06:15:16 : Main log located at /var/log/issupdaterd.log
+2022-07-08 06:15:16 : (ProcessMonitor) PID = 2244, monitor started normally
+2022-07-08 06:15:16 : (IssabelInstallerProcess) starting up process...
+2022-07-08 06:15:16 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-08 06:15:16 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-08 06:15:16 : (IssabelInstallerProcess) PID = 2246, process started normally
+2022-07-08 07:32:09 : (ProcessMonitor) PID = 2244, issupdaterd received signal #15, terminating...
+2022-07-08 07:32:09 : (ProcessMonitor) Forwarding signal #15 to IssabelInstallerProcess...
+2022-07-08 07:32:09 : (ProcessMonitor) Completed signal forwarding to IssabelInstallerProcess
+2022-07-08 07:32:09 : (IssabelInstallerProcess) Warning: /opt/issabel/issabel-updater/IssabelInstallerProcess.class.php line 401 - stream_select(): unable to select [4]: Interrupted system call (max_fd=1)
+2022-07-08 07:32:09 : (IssabelInstallerProcess) INFO: select() finaliza con fallo - señal pendiente?
+2022-07-08 07:32:09 : (IssabelInstallerProcess) PID = 2246, process received signal 15, terminating...
+2022-07-08 07:32:09 : (IssabelInstallerProcess) PID = 2246, process terminated normally.
+2022-07-08 07:32:09 : (ProcessMonitor) PID = 2244, process terminated normally.
+2022-07-11 06:59:26 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-11 06:59:26 : Main log located at /var/log/issupdaterd.log
+2022-07-11 06:59:26 : (ProcessMonitor) PID = 2240, monitor started normally
+2022-07-11 06:59:26 : (IssabelInstallerProcess) starting up process...
+2022-07-11 06:59:27 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-11 06:59:27 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-11 06:59:27 : (IssabelInstallerProcess) PID = 2245, process started normally
+2022-07-11 09:44:37 : (ProcessMonitor) PID = 2240, issupdaterd received signal #15, terminating...
+2022-07-11 09:44:37 : (ProcessMonitor) Forwarding signal #15 to IssabelInstallerProcess...
+2022-07-11 09:44:37 : (ProcessMonitor) Completed signal forwarding to IssabelInstallerProcess
+2022-07-11 09:44:37 : (IssabelInstallerProcess) Warning: /opt/issabel/issabel-updater/IssabelInstallerProcess.class.php line 401 - stream_select(): unable to select [4]: Interrupted system call (max_fd=1)
+2022-07-11 09:44:37 : (IssabelInstallerProcess) INFO: select() finaliza con fallo - señal pendiente?
+2022-07-11 09:44:37 : (IssabelInstallerProcess) PID = 2245, process received signal 15, terminating...
+2022-07-11 09:44:37 : (IssabelInstallerProcess) PID = 2245, process terminated normally.
+2022-07-11 09:44:37 : (ProcessMonitor) PID = 2240, process terminated normally.
+2022-07-12 06:49:23 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-12 06:49:23 : Main log located at /var/log/issupdaterd.log
+2022-07-12 06:49:23 : (ProcessMonitor) PID = 2232, monitor started normally
+2022-07-12 06:49:23 : (IssabelInstallerProcess) starting up process...
+2022-07-12 06:49:24 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-12 06:49:24 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-12 06:49:24 : (IssabelInstallerProcess) PID = 2246, process started normally
+2022-07-12 08:30:26 : (ProcessMonitor) PID = 2232, issupdaterd received signal #15, terminating...
+2022-07-12 08:30:26 : (ProcessMonitor) Forwarding signal #15 to IssabelInstallerProcess...
+2022-07-12 08:30:26 : (ProcessMonitor) Completed signal forwarding to IssabelInstallerProcess
+2022-07-12 08:30:26 : (IssabelInstallerProcess) Warning: /opt/issabel/issabel-updater/IssabelInstallerProcess.class.php line 401 - stream_select(): unable to select [4]: Interrupted system call (max_fd=1)
+2022-07-12 08:30:26 : (IssabelInstallerProcess) INFO: select() finaliza con fallo - señal pendiente?
+2022-07-12 08:30:26 : (IssabelInstallerProcess) PID = 2246, process received signal 15, terminating...
+2022-07-12 08:30:26 : (IssabelInstallerProcess) PID = 2246, process terminated normally.
+2022-07-12 08:30:26 : (ProcessMonitor) PID = 2232, process terminated normally.
+2022-07-18 00:45:00 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-18 00:45:00 : Main log located at /var/log/issupdaterd.log
+2022-07-18 00:45:00 : (ProcessMonitor) PID = 2178, monitor started normally
+2022-07-18 00:45:00 : (IssabelInstallerProcess) starting up process...
+2022-07-18 00:45:01 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-18 00:45:01 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-18 00:45:01 : (IssabelInstallerProcess) PID = 2187, process started normally
+2022-07-18 05:08:17 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-18 05:08:17 : Main log located at /var/log/issupdaterd.log
+2022-07-18 05:08:17 : (ProcessMonitor) PID = 2175, monitor started normally
+2022-07-18 05:08:17 : (IssabelInstallerProcess) starting up process...
+2022-07-18 05:08:18 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-18 05:08:18 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-18 05:08:18 : (IssabelInstallerProcess) PID = 2190, process started normally
+2022-07-19 00:22:03 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-19 00:22:03 : Main log located at /var/log/issupdaterd.log
+2022-07-19 00:22:03 : (ProcessMonitor) PID = 2220, monitor started normally
+2022-07-19 00:22:03 : (IssabelInstallerProcess) starting up process...
+2022-07-19 00:22:04 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-19 00:22:04 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-19 00:22:04 : (IssabelInstallerProcess) PID = 2235, process started normally
+2022-07-19 02:39:55 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-19 02:39:55 : Main log located at /var/log/issupdaterd.log
+2022-07-19 02:39:55 : (ProcessMonitor) PID = 2180, monitor started normally
+2022-07-19 02:39:55 : (IssabelInstallerProcess) starting up process...
+2022-07-19 02:39:57 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-19 02:39:57 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-19 02:39:57 : (IssabelInstallerProcess) PID = 2183, process started normally
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         2022-07-19 06:34:05 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-19 06:34:05 : Main log located at /var/log/issupdaterd.log
+2022-07-19 06:34:05 : (ProcessMonitor) PID = 2177, monitor started normally
+2022-07-19 06:34:05 : (IssabelInstallerProcess) starting up process...
+2022-07-19 06:34:06 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-19 06:34:06 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-19 06:34:06 : (IssabelInstallerProcess) PID = 2182, process started normally
+2022-07-19 07:52:06 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-19 07:52:06 : Main log located at /var/log/issupdaterd.log
+2022-07-19 07:52:06 : (ProcessMonitor) PID = 2176, monitor started normally
+2022-07-19 07:52:06 : (IssabelInstallerProcess) starting up process...
+2022-07-19 07:52:07 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-19 07:52:07 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-19 07:52:07 : (IssabelInstallerProcess) PID = 2192, process started normally
+2022-07-20 00:19:16 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-20 00:19:16 : Main log located at /var/log/issupdaterd.log
+2022-07-20 00:19:16 : (ProcessMonitor) PID = 2180, monitor started normally
+2022-07-20 00:19:16 : (IssabelInstallerProcess) starting up process...
+2022-07-20 00:19:17 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-20 00:19:17 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-20 00:19:17 : (IssabelInstallerProcess) PID = 2192, process started normally
+2022-07-20 05:45:45 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-20 05:45:45 : Main log located at /var/log/issupdaterd.log
+2022-07-20 05:45:45 : (ProcessMonitor) PID = 2181, monitor started normally
+2022-07-20 05:45:45 : (IssabelInstallerProcess) starting up process...
+2022-07-20 05:45:46 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-20 05:45:46 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-20 05:45:46 : (IssabelInstallerProcess) PID = 2199, process started normally
+2022-07-21 00:08:22 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-21 00:08:22 : Main log located at /var/log/issupdaterd.log
+2022-07-21 00:08:22 : (ProcessMonitor) PID = 2183, monitor started normally
+2022-07-21 00:08:22 : (IssabelInstallerProcess) starting up process...
+2022-07-21 00:08:23 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-21 00:08:23 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-21 00:08:23 : (IssabelInstallerProcess) PID = 2186, process started normally
+2022-07-21 03:03:33 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-21 03:03:33 : Main log located at /var/log/issupdaterd.log
+2022-07-21 03:03:33 : (ProcessMonitor) PID = 2213, monitor started normally
+2022-07-21 03:03:33 : (IssabelInstallerProcess) starting up process...
+2022-07-21 03:03:34 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-21 03:03:34 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-21 03:03:34 : (IssabelInstallerProcess) PID = 2219, process started normally
+2022-07-21 03:27:16 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-21 03:27:16 : Main log located at /var/log/issupdaterd.log
+2022-07-21 03:27:16 : (ProcessMonitor) PID = 2215, monitor started normally
+2022-07-21 03:27:16 : (IssabelInstallerProcess) starting up process...
+2022-07-21 03:27:17 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-21 03:27:17 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-21 03:27:17 : (IssabelInstallerProcess) PID = 2222, process started normally
+2022-07-22 00:24:28 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-22 00:24:28 : Main log located at /var/log/issupdaterd.log
+2022-07-22 00:24:28 : (ProcessMonitor) PID = 2197, monitor started normally
+2022-07-22 00:24:28 : (IssabelInstallerProcess) starting up process...
+2022-07-22 00:24:29 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-22 00:24:29 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-22 00:24:29 : (IssabelInstallerProcess) PID = 2200, process started normally
+2022-07-22 03:00:44 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-22 03:00:44 : Main log located at /var/log/issupdaterd.log
+2022-07-22 03:00:44 : (ProcessMonitor) PID = 2180, monitor started normally
+2022-07-22 03:00:44 : (IssabelInstallerProcess) starting up process...
+2022-07-22 03:00:45 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-22 03:00:45 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-22 03:00:45 : (IssabelInstallerProcess) PID = 2183, process started normally
+2022-07-25 00:25:20 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-25 00:25:20 : Main log located at /var/log/issupdaterd.log
+2022-07-25 00:25:20 : (ProcessMonitor) PID = 2239, monitor started normally
+2022-07-25 00:25:20 : (IssabelInstallerProcess) starting up process...
+2022-07-25 00:25:20 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-25 00:25:20 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-25 00:25:20 : (IssabelInstallerProcess) PID = 2254, process started normally
+2022-07-25 08:37:50 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-25 08:37:51 : Main log located at /var/log/issupdaterd.log
+2022-07-25 08:37:51 : (ProcessMonitor) PID = 2201, monitor started normally
+2022-07-25 08:37:51 : (IssabelInstallerProcess) starting up process...
+2022-07-25 08:37:51 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-25 08:37:51 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-25 08:37:51 : (IssabelInstallerProcess) PID = 2217, process started normally
+2022-07-26 00:10:10 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-26 00:10:10 : Main log located at /var/log/issupdaterd.log
+2022-07-26 00:10:10 : (ProcessMonitor) PID = 2238, monitor started normally
+2022-07-26 00:10:10 : (IssabelInstallerProcess) starting up process...
+2022-07-26 00:10:10 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-26 00:10:10 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-26 00:10:10 : (IssabelInstallerProcess) PID = 2253, process started normally
+2022-07-26 05:13:19 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-26 05:13:19 : Main log located at /var/log/issupdaterd.log
+2022-07-26 05:13:19 : (ProcessMonitor) PID = 2189, monitor started normally
+2022-07-26 05:13:19 : (IssabelInstallerProcess) starting up process...
+2022-07-26 05:13:20 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-26 05:13:20 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-26 05:13:20 : (IssabelInstallerProcess) PID = 2212, process started normally
+2022-07-27 00:42:44 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-27 00:42:44 : Main log located at /var/log/issupdaterd.log
+2022-07-27 00:42:44 : (ProcessMonitor) PID = 2185, monitor started normally
+2022-07-27 00:42:44 : (IssabelInstallerProcess) starting up process...
+2022-07-27 00:42:45 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-27 00:42:45 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-27 00:42:45 : (IssabelInstallerProcess) PID = 2197, process started normally
+2022-07-28 00:03:30 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-28 00:03:30 : Main log located at /var/log/issupdaterd.log
+2022-07-28 00:03:30 : (ProcessMonitor) PID = 2246, monitor started normally
+2022-07-28 00:03:30 : (IssabelInstallerProcess) starting up process...
+2022-07-28 00:03:30 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-28 00:03:30 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-28 00:03:30 : (IssabelInstallerProcess) PID = 2261, process started normally
+2022-07-28 04:59:11 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-28 04:59:11 : Main log located at /var/log/issupdaterd.log
+2022-07-28 04:59:11 : (ProcessMonitor) PID = 2239, monitor started normally
+2022-07-28 04:59:11 : (IssabelInstallerProcess) starting up process...
+2022-07-28 04:59:12 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-28 04:59:12 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-28 04:59:12 : (IssabelInstallerProcess) PID = 2254, process started normally
+2022-07-29 06:14:01 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-29 06:14:01 : Main log located at /var/log/issupdaterd.log
+2022-07-29 06:14:01 : (ProcessMonitor) PID = 2243, monitor started normally
+2022-07-29 06:14:01 : (IssabelInstallerProcess) starting up process...
+2022-07-29 06:14:01 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-29 06:14:01 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-29 06:14:01 : (IssabelInstallerProcess) PID = 2259, process started normally
+2022-07-29 07:56:33 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-29 07:56:33 : Main log located at /var/log/issupdaterd.log
+2022-07-29 07:56:33 : (ProcessMonitor) PID = 2189, monitor started normally
+2022-07-29 07:56:33 : (IssabelInstallerProcess) starting up process...
+2022-07-29 07:56:33 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-29 07:56:33 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-29 07:56:33 : (IssabelInstallerProcess) PID = 2196, process started normally
+2022-07-30 00:55:59 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-07-30 00:55:59 : Main log located at /var/log/issupdaterd.log
+2022-07-30 00:55:59 : (ProcessMonitor) PID = 2236, monitor started normally
+2022-07-30 00:55:59 : (IssabelInstallerProcess) starting up process...
+2022-07-30 00:55:59 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-07-30 00:55:59 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-07-30 00:55:59 : (IssabelInstallerProcess) PID = 2251, process started normally
+2022-08-01 00:50:07 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-01 00:50:07 : Main log located at /var/log/issupdaterd.log
+2022-08-01 00:50:07 : (ProcessMonitor) PID = 2243, monitor started normally
+2022-08-01 00:50:07 : (IssabelInstallerProcess) starting up process...
+2022-08-01 00:50:07 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-01 00:50:07 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-01 00:50:07 : (IssabelInstallerProcess) PID = 2258, process started normally
+2022-08-01 09:00:49 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-01 09:00:49 : Main log located at /var/log/issupdaterd.log
+2022-08-01 09:00:49 : (ProcessMonitor) PID = 2189, monitor started normally
+2022-08-01 09:00:49 : (IssabelInstallerProcess) starting up process...
+2022-08-01 09:00:50 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-01 09:00:50 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-01 09:00:50 : (IssabelInstallerProcess) PID = 2196, process started normally
+2022-08-02 00:17:48 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-02 00:17:48 : Main log located at /var/log/issupdaterd.log
+2022-08-02 00:17:48 : (ProcessMonitor) PID = 2230, monitor started normally
+2022-08-02 00:17:48 : (IssabelInstallerProcess) starting up process...
+2022-08-02 00:17:48 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-02 00:17:48 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-02 00:17:48 : (IssabelInstallerProcess) PID = 2245, process started normally
+2022-08-08 02:23:45 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-08 02:23:45 : Main log located at /var/log/issupdaterd.log
+2022-08-08 02:23:45 : (ProcessMonitor) PID = 2237, monitor started normally
+2022-08-08 02:23:45 : (IssabelInstallerProcess) starting up process...
+2022-08-08 02:23:46 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-08 02:23:46 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-08 02:23:46 : (IssabelInstallerProcess) PID = 2250, process started normally
+2022-08-09 00:36:16 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-09 00:36:16 : Main log located at /var/log/issupdaterd.log
+2022-08-09 00:36:16 : (ProcessMonitor) PID = 2189, monitor started normally
+2022-08-09 00:36:16 : (IssabelInstallerProcess) starting up process...
+2022-08-09 00:36:16 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-09 00:36:16 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-09 00:36:16 : (IssabelInstallerProcess) PID = 2204, process started normally
+2022-08-13 01:25:20 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-13 01:25:20 : Main log located at /var/log/issupdaterd.log
+2022-08-13 01:25:20 : (ProcessMonitor) PID = 2179, monitor started normally
+2022-08-13 01:25:20 : (IssabelInstallerProcess) starting up process...
+2022-08-13 01:25:21 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-13 01:25:21 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-13 01:25:21 : (IssabelInstallerProcess) PID = 2197, process started normally
+2022-08-13 05:11:25 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-13 05:11:25 : Main log located at /var/log/issupdaterd.log
+2022-08-13 05:11:25 : (ProcessMonitor) PID = 2229, monitor started normally
+2022-08-13 05:11:25 : (IssabelInstallerProcess) starting up process...
+2022-08-13 05:11:26 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-13 05:11:26 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-13 05:11:26 : (IssabelInstallerProcess) PID = 2250, process started normally
+2022-08-16 00:57:05 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-16 00:57:05 : Main log located at /var/log/issupdaterd.log
+2022-08-16 00:57:05 : (ProcessMonitor) PID = 2184, monitor started normally
+2022-08-16 00:57:05 : (IssabelInstallerProcess) starting up process...
+2022-08-16 00:57:06 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-16 00:57:06 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-16 00:57:06 : (IssabelInstallerProcess) PID = 2191, process started normally
+2022-08-18 02:37:41 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-18 02:37:41 : Main log located at /var/log/issupdaterd.log
+2022-08-18 02:37:41 : (ProcessMonitor) PID = 2186, monitor started normally
+2022-08-18 02:37:41 : (IssabelInstallerProcess) starting up process...
+2022-08-18 02:37:43 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-18 02:37:43 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-18 02:37:43 : (IssabelInstallerProcess) PID = 2187, process started normally
+2022-08-24 01:42:52 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-24 01:42:52 : Main log located at /var/log/issupdaterd.log
+2022-08-24 01:42:52 : (ProcessMonitor) PID = 2198, monitor started normally
+2022-08-24 01:42:52 : (IssabelInstallerProcess) starting up process...
+2022-08-24 01:42:53 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-24 01:42:53 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-24 01:42:53 : (IssabelInstallerProcess) PID = 2200, process started normally
+2022-08-26 02:32:35 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-26 02:32:35 : Main log located at /var/log/issupdaterd.log
+2022-08-26 02:32:35 : (ProcessMonitor) PID = 2190, monitor started normally
+2022-08-26 02:32:35 : (IssabelInstallerProcess) starting up process...
+2022-08-26 02:32:35 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-26 02:32:35 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-26 02:32:35 : (IssabelInstallerProcess) PID = 2193, process started normally
+2022-08-29 01:18:12 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-29 01:18:12 : Main log located at /var/log/issupdaterd.log
+2022-08-29 01:18:12 : (ProcessMonitor) PID = 2198, monitor started normally
+2022-08-29 01:18:12 : (IssabelInstallerProcess) starting up process...
+2022-08-29 01:18:13 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-29 01:18:13 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-29 01:18:13 : (IssabelInstallerProcess) PID = 2213, process started normally
+2022-08-30 02:46:04 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-08-30 02:46:04 : Main log located at /var/log/issupdaterd.log
+2022-08-30 02:46:04 : (ProcessMonitor) PID = 2227, monitor started normally
+2022-08-30 02:46:04 : (IssabelInstallerProcess) starting up process...
+2022-08-30 02:46:05 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-08-30 02:46:05 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-08-30 02:46:05 : (IssabelInstallerProcess) PID = 2238, process started normally
+2022-09-01 01:28:09 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-01 01:28:09 : Main log located at /var/log/issupdaterd.log
+2022-09-01 01:28:09 : (ProcessMonitor) PID = 2220, monitor started normally
+2022-09-01 01:28:09 : (IssabelInstallerProcess) starting up process...
+2022-09-01 01:28:11 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-01 01:28:11 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-01 01:28:11 : (IssabelInstallerProcess) PID = 2225, process started normally
+2022-09-06 01:11:04 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-06 01:11:04 : Main log located at /var/log/issupdaterd.log
+2022-09-06 01:11:04 : (ProcessMonitor) PID = 2188, monitor started normally
+2022-09-06 01:11:04 : (IssabelInstallerProcess) starting up process...
+2022-09-06 01:11:05 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-06 01:11:05 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-06 01:11:05 : (IssabelInstallerProcess) PID = 2204, process started normally
+2022-09-07 00:59:21 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-07 00:59:21 : Main log located at /var/log/issupdaterd.log
+2022-09-07 00:59:21 : (ProcessMonitor) PID = 2204, monitor started normally
+2022-09-07 00:59:21 : (IssabelInstallerProcess) starting up process...
+2022-09-07 00:59:22 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-07 00:59:22 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-07 00:59:22 : (IssabelInstallerProcess) PID = 2209, process started normally
+2022-09-08 05:28:33 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-08 05:28:33 : Main log located at /var/log/issupdaterd.log
+2022-09-08 05:28:33 : (ProcessMonitor) PID = 2240, monitor started normally
+2022-09-08 05:28:33 : (IssabelInstallerProcess) starting up process...
+2022-09-08 05:28:33 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-08 05:28:33 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-08 05:28:33 : (IssabelInstallerProcess) PID = 2253, process started normally
+2022-09-09 00:39:38 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-09 00:39:38 : Main log located at /var/log/issupdaterd.log
+2022-09-09 00:39:38 : (ProcessMonitor) PID = 2187, monitor started normally
+2022-09-09 00:39:38 : (IssabelInstallerProcess) starting up process...
+2022-09-09 00:39:39 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-09 00:39:39 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-09 00:39:39 : (IssabelInstallerProcess) PID = 2198, process started normally
+2022-09-12 02:37:29 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-12 02:37:29 : Main log located at /var/log/issupdaterd.log
+2022-09-12 02:37:29 : (ProcessMonitor) PID = 2192, monitor started normally
+2022-09-12 02:37:29 : (IssabelInstallerProcess) starting up process...
+2022-09-12 02:37:30 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-12 02:37:30 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-12 02:37:30 : (IssabelInstallerProcess) PID = 2207, process started normally
+2022-09-26 01:10:24 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-26 01:10:24 : Main log located at /var/log/issupdaterd.log
+2022-09-26 01:10:24 : (ProcessMonitor) PID = 2229, monitor started normally
+2022-09-26 01:10:24 : (IssabelInstallerProcess) starting up process...
+2022-09-26 01:10:24 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-26 01:10:24 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-26 01:10:24 : (IssabelInstallerProcess) PID = 2245, process started normally
+2022-09-26 05:17:31 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-26 05:17:31 : Main log located at /var/log/issupdaterd.log
+2022-09-26 05:17:31 : (ProcessMonitor) PID = 2226, monitor started normally
+2022-09-26 05:17:31 : (IssabelInstallerProcess) starting up process...
+2022-09-26 05:17:31 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-26 05:17:31 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-26 05:17:31 : (IssabelInstallerProcess) PID = 2240, process started normally
+2022-09-27 00:17:09 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-27 00:17:09 : Main log located at /var/log/issupdaterd.log
+2022-09-27 00:17:09 : (ProcessMonitor) PID = 2236, monitor started normally
+2022-09-27 00:17:09 : (IssabelInstallerProcess) starting up process...
+2022-09-27 00:17:09 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-27 00:17:09 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-27 00:17:09 : (IssabelInstallerProcess) PID = 2252, process started normally
+2022-09-27 04:53:08 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-27 04:53:08 : Main log located at /var/log/issupdaterd.log
+2022-09-27 04:53:08 : (ProcessMonitor) PID = 2234, monitor started normally
+2022-09-27 04:53:08 : (IssabelInstallerProcess) starting up process...
+2022-09-27 04:53:08 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-27 04:53:08 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-27 04:53:08 : (IssabelInstallerProcess) PID = 2251, process started normally
+2022-09-28 00:59:52 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-28 00:59:52 : Main log located at /var/log/issupdaterd.log
+2022-09-28 00:59:52 : (ProcessMonitor) PID = 2239, monitor started normally
+2022-09-28 00:59:52 : (IssabelInstallerProcess) starting up process...
+2022-09-28 00:59:53 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-28 00:59:53 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-28 00:59:53 : (IssabelInstallerProcess) PID = 2254, process started normally
+2022-09-30 00:21:01 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-30 00:21:01 : Main log located at /var/log/issupdaterd.log
+2022-09-30 00:21:01 : (ProcessMonitor) PID = 2189, monitor started normally
+2022-09-30 00:21:01 : (IssabelInstallerProcess) starting up process...
+2022-09-30 00:21:02 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-30 00:21:02 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-30 00:21:02 : (IssabelInstallerProcess) PID = 2203, process started normally
+2022-09-30 06:38:07 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-09-30 06:38:07 : Main log located at /var/log/issupdaterd.log
+2022-09-30 06:38:07 : (ProcessMonitor) PID = 2198, monitor started normally
+2022-09-30 06:38:07 : (IssabelInstallerProcess) starting up process...
+2022-09-30 06:38:07 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-09-30 06:38:07 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-09-30 06:38:07 : (IssabelInstallerProcess) PID = 2208, process started normally
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  2022-10-05 00:14:14 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-05 00:14:14 : Main log located at /var/log/issupdaterd.log
+2022-10-05 00:14:14 : (ProcessMonitor) PID = 2204, monitor started normally
+2022-10-05 00:14:14 : (IssabelInstallerProcess) starting up process...
+2022-10-05 00:14:15 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-05 00:14:15 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-05 00:14:15 : (IssabelInstallerProcess) PID = 2210, process started normally
+2022-10-05 00:56:54 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-05 00:56:54 : Main log located at /var/log/issupdaterd.log
+2022-10-05 00:56:54 : (ProcessMonitor) PID = 2247, monitor started normally
+2022-10-05 00:56:54 : (IssabelInstallerProcess) starting up process...
+2022-10-05 00:56:54 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-05 00:56:54 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-05 00:56:54 : (IssabelInstallerProcess) PID = 2255, process started normally
+2022-10-07 01:57:09 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-07 01:57:09 : Main log located at /var/log/issupdaterd.log
+2022-10-07 01:57:09 : (ProcessMonitor) PID = 2189, monitor started normally
+2022-10-07 01:57:09 : (IssabelInstallerProcess) starting up process...
+2022-10-07 01:57:10 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-07 01:57:10 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-07 01:57:10 : (IssabelInstallerProcess) PID = 2191, process started normally
+2022-10-08 00:52:03 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-08 00:52:03 : Main log located at /var/log/issupdaterd.log
+2022-10-08 00:52:03 : (ProcessMonitor) PID = 2244, monitor started normally
+2022-10-08 00:52:03 : (IssabelInstallerProcess) starting up process...
+2022-10-08 00:52:04 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-08 00:52:04 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-08 00:52:04 : (IssabelInstallerProcess) PID = 2245, process started normally
+2022-10-10 00:17:08 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-10 00:17:09 : Main log located at /var/log/issupdaterd.log
+2022-10-10 00:17:09 : (ProcessMonitor) PID = 2200, monitor started normally
+2022-10-10 00:17:09 : (IssabelInstallerProcess) starting up process...
+2022-10-10 00:17:10 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-10 00:17:10 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-10 00:17:10 : (IssabelInstallerProcess) PID = 2208, process started normally
+2022-10-10 06:08:46 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-10 06:08:46 : Main log located at /var/log/issupdaterd.log
+2022-10-10 06:08:46 : (ProcessMonitor) PID = 2232, monitor started normally
+2022-10-10 06:08:46 : (IssabelInstallerProcess) starting up process...
+2022-10-10 06:08:47 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-10 06:08:47 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-10 06:08:47 : (IssabelInstallerProcess) PID = 2238, process started normally
+2022-10-11 00:38:55 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-11 00:38:55 : Main log located at /var/log/issupdaterd.log
+2022-10-11 00:38:55 : (ProcessMonitor) PID = 2213, monitor started normally
+2022-10-11 00:38:55 : (IssabelInstallerProcess) starting up process...
+2022-10-11 00:38:55 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-11 00:38:55 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-11 00:38:55 : (IssabelInstallerProcess) PID = 2219, process started normally
+2022-10-11 01:41:25 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-11 01:41:25 : Main log located at /var/log/issupdaterd.log
+2022-10-11 01:41:25 : (ProcessMonitor) PID = 2327, monitor started normally
+2022-10-11 01:41:25 : (IssabelInstallerProcess) starting up process...
+2022-10-11 01:41:25 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-11 01:41:25 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-11 01:41:25 : (IssabelInstallerProcess) PID = 2343, process started normally
+2022-10-11 06:09:50 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-11 06:09:50 : Main log located at /var/log/issupdaterd.log
+2022-10-11 06:09:50 : (ProcessMonitor) PID = 2183, monitor started normally
+2022-10-11 06:09:50 : (IssabelInstallerProcess) starting up process...
+2022-10-11 06:09:51 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-11 06:09:51 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-11 06:09:51 : (IssabelInstallerProcess) PID = 2195, process started normally
+2022-10-11 06:25:40 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-11 06:25:40 : Main log located at /var/log/issupdaterd.log
+2022-10-11 06:25:40 : (ProcessMonitor) PID = 2178, monitor started normally
+2022-10-11 06:25:40 : (IssabelInstallerProcess) starting up process...
+2022-10-11 06:25:41 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-11 06:25:41 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-11 06:25:41 : (IssabelInstallerProcess) PID = 2185, process started normally
+2022-10-11 06:53:17 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-11 06:53:17 : Main log located at /var/log/issupdaterd.log
+2022-10-11 06:53:17 : (ProcessMonitor) PID = 2205, monitor started normally
+2022-10-11 06:53:17 : (IssabelInstallerProcess) starting up process...
+2022-10-11 06:53:18 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-11 06:53:18 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-11 06:53:18 : (IssabelInstallerProcess) PID = 2224, process started normally
+2022-10-11 06:55:22 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-11 06:55:22 : Main log located at /var/log/issupdaterd.log
+2022-10-11 06:55:22 : (ProcessMonitor) PID = 2200, monitor started normally
+2022-10-11 06:55:22 : (IssabelInstallerProcess) starting up process...
+2022-10-11 06:55:23 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-11 06:55:23 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-11 06:55:23 : (IssabelInstallerProcess) PID = 2214, process started normally
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         2022-10-11 08:52:05 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-11 08:52:05 : Main log located at /var/log/issupdaterd.log
+2022-10-11 08:52:05 : (ProcessMonitor) PID = 2206, monitor started normally
+2022-10-11 08:52:05 : (IssabelInstallerProcess) starting up process...
+2022-10-11 08:52:05 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-11 08:52:05 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-11 08:52:05 : (IssabelInstallerProcess) PID = 2213, process started normally
+2022-10-12 00:38:29 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-12 00:38:29 : Main log located at /var/log/issupdaterd.log
+2022-10-12 00:38:29 : (ProcessMonitor) PID = 2190, monitor started normally
+2022-10-12 00:38:29 : (IssabelInstallerProcess) starting up process...
+2022-10-12 00:38:30 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-12 00:38:30 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-12 00:38:30 : (IssabelInstallerProcess) PID = 2197, process started normally
+2022-10-12 01:04:25 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-12 01:04:25 : Main log located at /var/log/issupdaterd.log
+2022-10-12 01:04:25 : (ProcessMonitor) PID = 2181, monitor started normally
+2022-10-12 01:04:25 : (IssabelInstallerProcess) starting up process...
+2022-10-12 01:04:29 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-12 01:04:29 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-12 01:04:29 : (IssabelInstallerProcess) PID = 2187, process started normally
+2022-10-12 05:52:29 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-12 05:52:29 : Main log located at /var/log/issupdaterd.log
+2022-10-12 05:52:29 : (ProcessMonitor) PID = 2243, monitor started normally
+2022-10-12 05:52:29 : (IssabelInstallerProcess) starting up process...
+2022-10-12 05:52:30 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-12 05:52:30 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-12 05:52:30 : (IssabelInstallerProcess) PID = 2248, process started normally
+2022-10-13 00:17:52 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-13 00:17:52 : Main log located at /var/log/issupdaterd.log
+2022-10-13 00:17:52 : (ProcessMonitor) PID = 2187, monitor started normally
+2022-10-13 00:17:52 : (IssabelInstallerProcess) starting up process...
+2022-10-13 00:17:53 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-13 00:17:53 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-13 00:17:53 : (IssabelInstallerProcess) PID = 2197, process started normally
+2022-10-13 04:20:08 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-13 04:20:08 : Main log located at /var/log/issupdaterd.log
+2022-10-13 04:20:08 : (ProcessMonitor) PID = 2244, monitor started normally
+2022-10-13 04:20:08 : (IssabelInstallerProcess) starting up process...
+2022-10-13 04:20:08 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-13 04:20:08 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-13 04:20:08 : (IssabelInstallerProcess) PID = 2254, process started normally
+2022-10-13 06:17:33 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-13 06:17:33 : Main log located at /var/log/issupdaterd.log
+2022-10-13 06:17:33 : (ProcessMonitor) PID = 2196, monitor started normally
+2022-10-13 06:17:33 : (IssabelInstallerProcess) starting up process...
+2022-10-13 06:17:34 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-13 06:17:34 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-13 06:17:34 : (IssabelInstallerProcess) PID = 2214, process started normally
+2022-10-13 07:54:46 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-13 07:54:46 : Main log located at /var/log/issupdaterd.log
+2022-10-13 07:54:46 : (ProcessMonitor) PID = 2244, monitor started normally
+2022-10-13 07:54:46 : (IssabelInstallerProcess) starting up process...
+2022-10-13 07:54:47 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-13 07:54:47 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-13 07:54:47 : (IssabelInstallerProcess) PID = 2251, process started normally
+2022-10-14 00:30:36 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-14 00:30:36 : Main log located at /var/log/issupdaterd.log
+2022-10-14 00:30:36 : (ProcessMonitor) PID = 2180, monitor started normally
+2022-10-14 00:30:36 : (IssabelInstallerProcess) starting up process...
+2022-10-14 00:30:37 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-14 00:30:37 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-14 00:30:37 : (IssabelInstallerProcess) PID = 2194, process started normally
+2022-10-14 06:10:08 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-14 06:10:08 : Main log located at /var/log/issupdaterd.log
+2022-10-14 06:10:08 : (ProcessMonitor) PID = 2184, monitor started normally
+2022-10-14 06:10:08 : (IssabelInstallerProcess) starting up process...
+2022-10-14 06:10:09 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-14 06:10:09 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-14 06:10:09 : (IssabelInstallerProcess) PID = 2189, process started normally
+2022-10-17 00:27:24 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-17 00:27:24 : Main log located at /var/log/issupdaterd.log
+2022-10-17 00:27:24 : (ProcessMonitor) PID = 2247, monitor started normally
+2022-10-17 00:27:24 : (IssabelInstallerProcess) starting up process...
+2022-10-17 00:27:25 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-17 00:27:25 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-17 00:27:25 : (IssabelInstallerProcess) PID = 2262, process started normally
+2022-10-17 07:18:49 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-17 07:18:49 : Main log located at /var/log/issupdaterd.log
+2022-10-17 07:18:49 : (ProcessMonitor) PID = 2241, monitor started normally
+2022-10-17 07:18:49 : (IssabelInstallerProcess) starting up process...
+2022-10-17 07:18:49 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-17 07:18:49 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-17 07:18:49 : (IssabelInstallerProcess) PID = 2254, process started normally
+2022-10-19 08:06:05 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-19 08:06:05 : Main log located at /var/log/issupdaterd.log
+2022-10-19 08:06:05 : (ProcessMonitor) PID = 2224, monitor started normally
+2022-10-19 08:06:05 : (IssabelInstallerProcess) starting up process...
+2022-10-19 08:06:06 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-19 08:06:06 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-19 08:06:06 : (IssabelInstallerProcess) PID = 2237, process started normally
+2022-10-20 00:17:51 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-20 00:17:51 : Main log located at /var/log/issupdaterd.log
+2022-10-20 00:17:51 : (ProcessMonitor) PID = 2220, monitor started normally
+2022-10-20 00:17:52 : (IssabelInstallerProcess) starting up process...
+2022-10-20 00:17:52 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-20 00:17:52 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-20 00:17:52 : (IssabelInstallerProcess) PID = 2224, process started normally
+2022-10-21 02:22:43 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-21 02:22:43 : Main log located at /var/log/issupdaterd.log
+2022-10-21 02:22:43 : (ProcessMonitor) PID = 2227, monitor started normally
+2022-10-21 02:22:43 : (IssabelInstallerProcess) starting up process...
+2022-10-21 02:22:43 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-21 02:22:43 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-21 02:22:43 : (IssabelInstallerProcess) PID = 2243, process started normally
+2022-10-21 04:51:01 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-21 04:51:01 : Main log located at /var/log/issupdaterd.log
+2022-10-21 04:51:01 : (ProcessMonitor) PID = 2188, monitor started normally
+2022-10-21 04:51:01 : (IssabelInstallerProcess) starting up process...
+2022-10-21 04:51:01 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-21 04:51:01 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-21 04:51:01 : (IssabelInstallerProcess) PID = 2189, process started normally
+2022-10-26 01:17:17 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-26 01:17:17 : Main log located at /var/log/issupdaterd.log
+2022-10-26 01:17:17 : (ProcessMonitor) PID = 2202, monitor started normally
+2022-10-26 01:17:17 : (IssabelInstallerProcess) starting up process...
+2022-10-26 01:17:18 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-26 01:17:18 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-26 01:17:18 : (IssabelInstallerProcess) PID = 2213, process started normally
+2022-10-27 00:12:59 : Main log opened correctly
+----------------------------------------
+      Issabel Addon Helper Daemon       
+      (PHP implementation, v1.0)
+    Powered by Palosanto Solutions
+
+      Please report bugs/issues at:
+        a_villacis@palosanto.com
+----------------------------------------
+2022-10-27 00:12:59 : Main log located at /var/log/issupdaterd.log
+2022-10-27 00:12:59 : (ProcessMonitor) PID = 2219, monitor started normally
+2022-10-27 00:12:59 : (IssabelInstallerProcess) starting up process...
+2022-10-27 00:13:00 : (IssabelInstallerProcess) INFO: cachedir es ahora /var/cache/yum/x86_64/7
+2022-10-27 00:13:00 : (IssabelInstallerProcess) INFO: escuchando peticiones en tcp://127.0.0.1:20004 ...
+2022-10-27 00:13:00 : (IssabelInstallerProcess) PID = 2234, process started normally

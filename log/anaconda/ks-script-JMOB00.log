@@ -1,0 +1,8 @@
+sed: couldn't open file ww.centos.org/www.issabel.org/g: No such file or directory
+sed: can't read grub.cfg: No such file or directory
+sed: can't read grub.cfg: No such file or directory
+sed: can't read grub.conf: No such file or directory
+chown: invalid user: 'asterisk.asterisk'
+chown: invalid user: 'asterisk.asterisk'
+chown: invalid user: 'asterisk.asterisk'
+chown: invalid user: 'asterisk.asterisk'

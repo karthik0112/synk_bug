@@ -1,0 +1,309 @@
+DKMS make.log for dahdi-linux-2.11.1 for kernel 3.10.0-1160.el7.x86_64 (x86_64)
+Thu Jun 16 07:55:45 UTC 2022
+make -C drivers/dahdi/firmware firmware-loaders
+make[1]: Entering directory `/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/firmware'
+make[1]: Leaving directory `/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/firmware'
+make -C /usr/lib/modules/3.10.0-1160.el7.x86_64/build SUBDIRS=/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi DAHDI_INCLUDE=/var/lib/dkms/dahdi-linux/2.11.1/build/include DAHDI_MODULES_EXTRA=" " HOTPLUG_FIRMWARE=yes modules DAHDI_BUILD_ALL=m
+make[1]: Entering directory `/usr/src/kernels/3.10.0-1160.el7.x86_64'
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi-base.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi-sysfs.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi-sysfs-chan.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi-version.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_dynamic.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_dynamic_loc.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_dynamic_eth.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_dynamic_ethmf.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_transcode.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte13xp-base.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcxb_spi.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcxb.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcxb_flash.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte13xp.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte43x-base.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte43x.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcaxx-base.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcaxx.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wctdm.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wct1xxp.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte11xp.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcfxo.o
+  HOSTCC  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/makefw
+/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/makefw /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/tormenta2.rbt tor2fw > /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/tor2fw.h
+Loaded 69900 bytes from file
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/tor2.o
+/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/makefw /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/pciradio.rbt radfw > /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/radfw.h
+Loaded 42096 bytes from file
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/pciradio.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_jpah.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_sec.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_sec2.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_kb1.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_mg2.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_oslec.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/vpmadt032_loader/dahdi_vpmadt032_loader.o
+  SHIPPED /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/vpmadt032_loader/vpmadt032_x86_64.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_vpmadt032_loader.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_adpcm_chan.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_channel.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_chip_open.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_chip_stats.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_conf_bridge.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_debug.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_events.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_interrupts.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_memory.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_miscellaneous.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_mixer.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_phasing_tsst.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_playout_buf.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_remote_debug.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tlv.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tone_detection.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tsi_cnct.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tsst.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/apilib/bt/octapi_bt0.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/apilib/largmath/octapi_largmath.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/apilib/llman/octapi_llman.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/oct612x-user.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/oct612x.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa1200/base.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa1200/opvxa1200.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/private.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/a24xx.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/si321x.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/si3050.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/ec3000.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/callerid.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/busydetect.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/base.o
+/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/base.c: In function ‘a24xx_init_one’:
+/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/base.c:2309:67: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+    printk("opvxa24xx: dma buffer allocated at 0x%x, pci(0x%x)\n", (unsigned int)wc_dev->writechunk, (unsigned int)wc_dev->writedma);
+                                                                   ^
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_adpcm_chan.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_channel.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_chip_open.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_chip_stats.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_conf_bridge.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_debug.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_events.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_interrupts.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_memory.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_miscellaneous.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_mixer.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_phasing_tsst.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_playout_buf.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_remote_debug.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tlv.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tone_detection.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tsi_cnct.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tsst.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/apilib/bt/octapi_bt0.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/apilib/largmath/octapi_largmath.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/../oct612x/apilib/llman/octapi_llman.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/opvxa24xx.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxd115/base.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxd115/vpm450m.o
+/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxd115/vpm450m.c: In function ‘init_vpm450m’:
+/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxd115/vpm450m.c:452:21: warning: unused variable ‘mask’ [-Wunused-variable]
+  const unsigned int mask = (8 == numspans) ? 0x7 : 0x3;
+                     ^
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxd115/opvxd115.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/ec3000.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/x200_hal.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/x200_bus.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_adpcm_chan.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_channel.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_chip_open.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_chip_stats.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_conf_bridge.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_debug.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_events.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_interrupts.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_memory.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_miscellaneous.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_mixer.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_phasing_tsst.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_playout_buf.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_remote_debug.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tlv.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tone_detection.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tsi_cnct.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tsst.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/apilib/bt/octapi_bt0.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/apilib/largmath/octapi_largmath.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/../oct612x/apilib/llman/octapi_llman.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/x200.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/x2d100m.o
+/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/x2d100m.c: In function ‘d100m_interrupt’:
+/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/x2d100m.c:374:21: warning: iteration 8u invokes undefined behavior [-Waggressive-loop-optimizations]
+             a = regs[i];
+                     ^
+/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/x2d100m.c:373:3: note: containing loop
+   for (i = 0; i < 24; i+=2) {
+   ^
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/d100m.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/x2b200m.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/b200m.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/busydetect.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/x2fxo200m.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/fxo200m.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/x2fxs200m.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/fxs200m.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/voicebus/voicebus.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/voicebus/GpakCust.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/voicebus/GpakApi.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/voicebus/voicebus_net.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/voicebus/vpmoct.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/voicebus/dahdi_voicebus.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcb4xxp/base.o
+/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcb4xxp/base.c:662:22: warning: ‘__zl_read’ defined but not used [-Wunused-function]
+ static unsigned char __zl_read(struct b4xxp *b4, unsigned short addr)
+                      ^
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcb4xxp/wcb4xxp.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcb4xxp/opvx_lib.o
+/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcb4xxp/opvx_lib.c: In function ‘OPVOS_MutexLockInterruptible’:
+/var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcb4xxp/opvx_lib.c:18:21: warning: ignoring return value of ‘down_interruptible’, declared with attribute warn_unused_result [-Wunused-result]
+   down_interruptible(*mutex); 
+                     ^
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcb4xxp/hfcopvx.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcb4xxp/opvxec.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wct4xxp/base.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wct4xxp/vpm450m.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wct4xxp/wct4xxp.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wctc4xxp/base.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wctc4xxp/wctc4xxp.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wctdm24xxp/base.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wctdm24xxp/xhfc.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wctdm24xxp/wctdm24xxp.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte12xp/base.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte12xp/wcte12xp.o
+  VERSION /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpp_version.h
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xbus-core.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xbus-sysfs.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xbus-pcm.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xframe_queue.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpp_dahdi.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xproto.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/card_global.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/dahdi_debug.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpp.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/card_fxs.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_fxs.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/card_fxo.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_fxo.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/card_pri.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_pri.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/card_bri.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_bri.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/card_echo.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_echo.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpp_usb.o
+  VERIFY  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/init_card_1_30
+  VERIFY  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/init_card_2_30
+  VERIFY  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/init_card_3_30
+  VERIFY  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/init_card_4_30
+  HOSTCC  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/print_fxo_modes.o
+  HOSTLD  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/print_fxo_modes
+  GEN     /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/init_fxo_modes
+  CHECK   /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/init_card_2_30
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/zaphfc/base.o
+  CC [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/zaphfc/fifo.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/zaphfc/zaphfc.o
+  Building modules, stage 2.
+  MODPOST 46 modules
+WARNING: could not find /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/vpmadt032_loader/.vpmadt032_x86_64.o.cmd for /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/vpmadt032_loader/vpmadt032_x86_64.o
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_dynamic.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_dynamic.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_dynamic_eth.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_dynamic_eth.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_dynamic_ethmf.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_dynamic_ethmf.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_dynamic_loc.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_dynamic_loc.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_jpah.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_jpah.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_kb1.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_kb1.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_mg2.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_mg2.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_oslec.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_oslec.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_sec.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_sec.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_sec2.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_echocan_sec2.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_transcode.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_transcode.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_vpmadt032_loader.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/dahdi_vpmadt032_loader.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/oct612x.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/oct612x/oct612x.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa1200/opvxa1200.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa1200/opvxa1200.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/opvxa24xx.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxa24xx/opvxa24xx.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxd115/opvxd115.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxd115/opvxd115.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/b200m.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/b200m.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/d100m.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/d100m.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/fxo200m.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/fxo200m.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/fxs200m.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/fxs200m.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/x200.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/opvxx200/x200.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/pciradio.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/pciradio.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/tor2.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/tor2.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/voicebus/dahdi_voicebus.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/voicebus/dahdi_voicebus.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcaxx.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcaxx.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcb4xxp/opvxec.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcb4xxp/opvxec.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcb4xxp/wcb4xxp.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcb4xxp/wcb4xxp.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcfxo.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcfxo.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wct1xxp.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wct1xxp.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wct4xxp/wct4xxp.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wct4xxp/wct4xxp.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wctc4xxp/wctc4xxp.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wctc4xxp/wctc4xxp.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wctdm.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wctdm.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wctdm24xxp/wctdm24xxp.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wctdm24xxp/wctdm24xxp.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte11xp.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte11xp.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte12xp/wcte12xp.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte12xp/wcte12xp.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte13xp.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte13xp.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte43x.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/wcte43x.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_bri.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_bri.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_echo.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_echo.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_fxo.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_fxo.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_fxs.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_fxs.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_pri.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpd_pri.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpp.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpp.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpp_usb.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/xpp/xpp_usb.ko
+  CC      /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/zaphfc/zaphfc.mod.o
+  LD [M]  /var/lib/dkms/dahdi-linux/2.11.1/build/drivers/dahdi/zaphfc/zaphfc.ko
+make[1]: Leaving directory `/usr/src/kernels/3.10.0-1160.el7.x86_64'

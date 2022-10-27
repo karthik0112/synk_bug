@@ -1,0 +1,63 @@
+[Oct 12 07:16:34] PBX admin: User admin performed an action [action=edit display=recordings] from 192.168.56.1.
+[Oct 12 07:18:00] PBX admin: User admin performed an action [action=edit display=recordings] from 192.168.56.1.
+[Oct 12 07:19:05] PBX admin: User admin performed an action [action=edit display=recordings] from 192.168.56.1.
+[Oct 12 07:20:02] PBX admin: User admin performed an action [action=edit display=recordings] from 192.168.56.1.
+[Oct 12 07:20:28] PBX admin: User admin performed an action [action=edited display=recordings] from 192.168.56.1.
+[Oct 12 07:20:34] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 12 07:21:26] PBX admin: User admin performed an action [extension= action=edtIncoming display=did extdisplay=/] from 192.168.56.1.
+[Oct 12 07:21:31] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 12 07:22:14] PBX admin: User admin performed an action [extension= action=edtIncoming display=did extdisplay=/] from 192.168.56.1.
+[Oct 12 07:22:38] PBX admin: User admin performed an action [action=edit display=announcement extdisplay=22 type=setup] from 192.168.56.1.
+[Oct 12 07:22:42] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 12 07:23:01] PBX admin: User admin performed an action [extension= action=edtIncoming display=did extdisplay=/] from 192.168.56.1.
+[Oct 12 07:23:04] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 12 07:41:49] PBX admin: User admin performed an action [action=system display=recordings] from 192.168.56.1.
+[Oct 12 07:42:20] PBX admin: User admin performed an action [action=system display=recordings] from 192.168.56.1.
+[Oct 12 07:56:40] PBX admin: User admin performed an action [action=edit display=ivr] from 192.168.56.1.
+[Oct 12 07:57:09] PBX admin: User admin performed an action [action=edit display=ivr] from 192.168.56.1.
+[Oct 12 07:57:30] PBX admin: User admin performed an action [action=edit display=ivr] from 192.168.56.1.
+[Oct 13 00:18:43] LOGIN root: Authentication Failure to Web Interface login. Invalid user root from 192.168.56.1.
+[Oct 13 00:18:54] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Oct 13 03:19:27] PBX admin: User admin performed an action [extension= action=edtIncoming display=did extdisplay=/] from 192.168.56.1.
+[Oct 13 03:19:29] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 13 03:20:43] PBX admin: User admin performed an action [extension= action=edtIncoming display=did extdisplay=/] from 192.168.56.1.
+[Oct 13 03:20:45] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 13 03:21:02] PBX admin: User admin performed an action [extension= action=edtIncoming display=did extdisplay=/] from 192.168.56.1.
+[Oct 13 03:21:04] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 13 03:21:51] PBX admin: User admin performed an action [action=edit display=announcement extdisplay=22 type=setup] from 192.168.56.1.
+[Oct 13 03:21:53] PBX admin: User admin applied changes from 192.168.56.1.
+[Oct 14 00:31:57] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Oct 14 00:34:19] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 14 00:34:24] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 14 00:38:32] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 14 00:38:38] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 14 00:40:09] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 14 00:40:52] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 14 00:40:57] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 14 00:50:51] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Oct 14 00:51:04] NAVIGATION admin: User admin visited "System >> Dashboard >> Dashboard" from 192.168.56.1.
+[Oct 14 04:34:20] NAVIGATION admin: User admin visited "Fax >> Fax Master" from 192.168.56.1.
+[Oct 14 06:12:14] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Oct 14 06:14:16] NAVIGATION admin: User admin visited "System >> Backup/Restore" from 192.168.56.1.
+[Oct 14 06:14:23] NAVIGATION admin: User admin visited "System >> Backup/Restore" from 192.168.56.1.
+[Oct 14 06:14:29] NAVIGATION admin: User admin visited "System >> Backup/Restore" from 192.168.56.1.
+[Oct 14 06:14:58] NAVIGATION admin: User admin visited "System >> Backup/Restore" from 192.168.56.1.
+[Oct 14 06:53:25] NAVIGATION admin: User admin visited "System >> Backup/Restore" from 192.168.56.1.
+[Oct 14 06:53:30] NAVIGATION admin: User admin visited "System >> Backup/Restore" from 192.168.56.1.
+[Oct 14 06:53:41] NAVIGATION admin: User admin visited "System >> Backup/Restore" from 192.168.56.1.
+[Oct 14 06:53:58] NAVIGATION admin: User admin visited "System >> Backup/Restore" from 192.168.56.1.
+[Oct 14 06:54:01] NAVIGATION admin: User admin visited "System >> Backup/Restore" from 192.168.56.1.
+[Oct 14 06:54:19] NAVIGATION admin: User admin visited "System >> Backup/Restore" from 192.168.56.1.
+[Oct 14 06:55:41] NAVIGATION admin: User admin visited "System >> Users >> Users" from 192.168.56.1.
+[Oct 17 00:28:40] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Oct 19 08:10:37] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Oct 20 00:18:47] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Oct 20 03:07:08] NAVIGATION admin: User admin visited "System >> Shutdown" from 192.168.56.1.
+[Oct 20 03:07:11] NAVIGATION admin: User admin visited "System >> Backup/Restore" from 192.168.56.1.
+[Oct 20 03:07:15] NAVIGATION admin: User admin visited "System >> Theme Designer" from 192.168.56.1.
+[Oct 20 03:07:19] NAVIGATION admin: User admin visited "Agenda >> Calendar" from 192.168.56.1.
+[Oct 20 03:07:27] NAVIGATION admin: User admin visited "Agenda >> Address Book" from 192.168.56.1.
+[Oct 20 03:26:33] NAVIGATION admin: User admin visited "System >> Web Console" from 192.168.56.1.
+[Oct 20 03:27:18] NAVIGATION admin: User admin visited "System >> Users >> Users" from 192.168.56.1.
+[Oct 20 03:27:30] NAVIGATION admin: User admin visited "System >> Dashboard >> Dashboard" from 192.168.56.1.
+[Oct 20 03:45:59] NAVIGATION admin: User admin visited "System >> Dashboard >> Dashboard" from 192.168.56.1.

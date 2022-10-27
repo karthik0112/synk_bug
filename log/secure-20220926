@@ -1,0 +1,281 @@
+Sep  9 04:41:11 issabel sshd[2667]: pam_unix(sshd:session): session closed for user root
+Sep 11 21:07:25 issabel polkitd[528]: Loading rules from directory /etc/polkit-1/rules.d
+Sep 11 21:07:25 issabel polkitd[528]: Loading rules from directory /usr/share/polkit-1/rules.d
+Sep 11 21:07:25 issabel polkitd[528]: Finished loading, compiling and executing 2 rules
+Sep 11 21:07:25 issabel polkitd[528]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Sep 11 21:07:26 issabel sshd[805]: Server listening on 0.0.0.0 port 22.
+Sep 11 21:07:26 issabel sshd[805]: Server listening on :: port 22.
+Sep 11 21:07:26 issabel runuser: pam_unix(runuser-l:session): session opened for user cyrus by (uid=0)
+Sep 11 21:07:27 issabel su: pam_unix(su:session): session opened for user asterisk by (uid=0)
+Sep 11 21:07:27 issabel su: pam_unix(su:session): session closed for user asterisk
+Sep 12 02:37:28 issabel su: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 12 02:37:29 issabel su: pam_unix(su:session): session closed for user root
+Sep 12 02:37:30 issabel runuser: pam_unix(runuser-l:session): session closed for user cyrus
+Sep 12 02:37:36 issabel login: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Sep 12 02:37:36 issabel login: ROOT LOGIN ON tty1
+Sep 12 02:38:10 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper license get
+Sep 12 02:38:10 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 12 02:38:10 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 12 02:38:12 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 12 02:38:12 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 12 02:38:12 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 12 02:38:13 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper hdmodelreport
+Sep 12 02:38:13 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 12 02:38:13 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 12 04:02:01 issabel runuser: pam_unix(runuser-l:session): session opened for user cyrus by (uid=0)
+Sep 12 04:02:02 issabel runuser: pam_unix(runuser-l:session): session closed for user cyrus
+Sep 26 00:48:07 issabel polkitd[516]: Loading rules from directory /etc/polkit-1/rules.d
+Sep 26 00:48:07 issabel polkitd[516]: Loading rules from directory /usr/share/polkit-1/rules.d
+Sep 26 00:48:07 issabel polkitd[516]: Finished loading, compiling and executing 2 rules
+Sep 26 00:48:07 issabel polkitd[516]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Sep 26 00:48:07 issabel sshd[799]: Server listening on 0.0.0.0 port 22.
+Sep 26 00:48:07 issabel sshd[799]: Server listening on :: port 22.
+Sep 26 00:48:07 issabel runuser: pam_unix(runuser-l:session): session opened for user cyrus by (uid=0)
+Sep 26 00:48:08 issabel su: pam_unix(su:session): session opened for user asterisk by (uid=0)
+Sep 26 00:48:08 issabel su: pam_unix(su:session): session closed for user asterisk
+Sep 26 00:48:10 issabel runuser: pam_unix(runuser-l:session): session closed for user cyrus
+Sep 26 01:10:24 issabel su: pam_unix(su:session): session opened for user root by (uid=0)
+Sep 26 01:10:24 issabel su: pam_unix(su:session): session closed for user root
+Sep 26 01:10:32 issabel login: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Sep 26 01:10:32 issabel login: ROOT LOGIN ON tty1
+Sep 26 01:11:08 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper license get
+Sep 26 01:11:08 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:11:08 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:11:10 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:11:10 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:11:10 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:11:10 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper hdmodelreport
+Sep 26 01:11:10 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:11:10 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:11:26 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:11:26 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:11:26 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:12:51 issabel sshd[2738]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.1  user=root
+Sep 26 01:12:51 issabel sshd[2738]: pam_succeed_if(sshd:auth): requirement "uid >= 1000" not met by user "root"
+Sep 26 01:12:53 issabel sshd[2738]: Failed password for root from 192.168.56.1 port 59455 ssh2
+Sep 26 01:12:57 issabel sshd[2738]: Accepted password for root from 192.168.56.1 port 59455 ssh2
+Sep 26 01:12:57 issabel sshd[2738]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Sep 26 01:19:08 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper license get
+Sep 26 01:19:08 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:19:08 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:19:09 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper hdmodelreport
+Sep 26 01:19:09 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:19:09 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:19:09 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:19:09 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:19:09 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:19:26 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:19:26 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:19:26 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:19:43 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:19:43 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:19:43 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:19:58 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:19:58 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:19:59 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:20:14 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:20:14 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:20:15 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:20:30 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:20:30 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:20:31 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:20:47 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:20:47 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:20:47 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:20:49 issabel sshd[3060]: Connection closed by 192.168.56.1 port 59663 [preauth]
+Sep 26 01:21:02 issabel sshd[3077]: Connection closed by 192.168.56.1 port 59666 [preauth]
+Sep 26 01:21:02 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:21:02 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:21:03 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:21:16 issabel sshd[3094]: Connection closed by 192.168.56.1 port 59667 [preauth]
+Sep 26 01:21:18 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:21:18 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:21:19 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:21:34 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:21:34 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:21:35 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:21:50 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:21:50 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:21:51 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:22:07 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:22:07 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:22:07 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:22:17 issabel sshd[2738]: pam_unix(sshd:session): session closed for user root
+Sep 26 01:22:23 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:22:23 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:22:23 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:22:39 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:22:39 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:22:39 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:22:54 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:22:54 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:22:55 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:22:58 issabel sshd[3174]: Connection closed by 192.168.56.1 port 59688 [preauth]
+Sep 26 01:23:01 issabel sshd[3156]: Connection closed by 192.168.56.1 port 59685 [preauth]
+Sep 26 01:23:10 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:23:10 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:23:10 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:23:26 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:23:26 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:23:26 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:23:42 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:23:42 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:23:42 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:23:58 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:23:58 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:23:58 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:24:14 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:24:14 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:24:14 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:24:30 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:24:30 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:24:30 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:24:46 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:24:46 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:24:46 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:24:54 issabel sshd[3337]: Connection closed by 192.168.56.1 port 59709 [preauth]
+Sep 26 01:24:56 issabel sshd[3206]: Connection closed by 192.168.56.1 port 59701 [preauth]
+Sep 26 01:25:02 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:25:02 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:25:02 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:25:18 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:25:18 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:25:18 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:25:34 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:25:34 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:25:34 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:25:50 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:25:50 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:25:50 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:25:58 issabel sshd[3362]: Connection closed by 192.168.56.1 port 59720 [preauth]
+Sep 26 01:26:06 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:26:06 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:26:06 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:26:22 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:26:22 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:26:22 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:26:38 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:26:38 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:26:38 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:26:54 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:26:54 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:26:54 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:27:00 issabel sshd[3473]: Connection closed by 192.168.56.1 port 59735 [preauth]
+Sep 26 01:27:03 issabel sshd[3426]: Connection closed by 192.168.56.1 port 59731 [preauth]
+Sep 26 01:27:10 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:27:10 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:27:10 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:27:26 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:27:26 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:27:26 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:27:42 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:27:42 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:27:42 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:27:56 issabel sshd[3522]: Connection closed by 192.168.56.1 port 59745 [preauth]
+Sep 26 01:27:58 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:27:58 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:27:58 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:27:59 issabel sshd[3490]: Connection closed by 192.168.56.1 port 59742 [preauth]
+Sep 26 01:28:14 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:28:14 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:28:14 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:28:30 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:28:30 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:28:30 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:28:46 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:28:46 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:28:46 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:29:02 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:29:02 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:29:02 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:29:18 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:29:18 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:29:18 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:29:34 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:29:34 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:29:34 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:29:50 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:29:50 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:29:50 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:30:06 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:30:06 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:30:06 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:30:22 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:30:22 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:30:22 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:30:38 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:30:38 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:30:38 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:30:41 issabel sshd[3708]: Accepted password for root from 192.168.56.1 port 59816 ssh2
+Sep 26 01:30:41 issabel sshd[3708]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Sep 26 01:30:54 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:30:54 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:30:54 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:31:10 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:31:10 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:31:11 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:31:27 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:31:27 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:31:27 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:31:42 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:31:42 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:31:43 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:31:58 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:31:58 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:31:58 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:32:14 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:32:14 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:32:14 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:32:30 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:32:30 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:32:31 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:32:47 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:32:47 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:32:47 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:33:02 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:33:02 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:33:03 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:33:18 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:33:18 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:33:18 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:33:34 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:33:34 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:33:35 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:33:50 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:33:50 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:33:51 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:34:07 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:34:07 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:34:07 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:34:22 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:34:22 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:34:23 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:34:38 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:34:38 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:34:39 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:34:55 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:34:55 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:34:55 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:35:10 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:35:10 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:35:11 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:35:27 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:35:27 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:35:27 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:35:42 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:35:42 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:35:43 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:35:58 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:35:58 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:35:59 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:36:19 issabel sudo: asterisk : TTY=unknown ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/sbin/issabel-helper issabel_network_applet
+Sep 26 01:36:19 issabel sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 26 01:36:19 issabel sudo: pam_unix(sudo:session): session closed for user root
+Sep 26 01:41:31 issabel sshd[4248]: Connection closed by 192.168.56.1 port 59944 [preauth]
+Sep 26 01:42:15 issabel sshd[4250]: Accepted password for root from 192.168.56.1 port 59947 ssh2
+Sep 26 01:42:15 issabel sshd[4250]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Sep 26 01:42:24 issabel sshd[3708]: pam_unix(sshd:session): session closed for user root
+Sep 26 03:32:30 issabel sshd[4992]: Accepted password for root from 192.168.56.1 port 61591 ssh2
+Sep 26 03:32:30 issabel sshd[4992]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Sep 26 04:02:02 issabel runuser: pam_unix(runuser-l:session): session opened for user cyrus by (uid=0)
+Sep 26 04:02:02 issabel runuser: pam_unix(runuser-l:session): session closed for user cyrus

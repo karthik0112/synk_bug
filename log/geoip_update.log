@@ -1,0 +1,4 @@
+Starting...
+No MaxMind key setup, using DB-IP
+/tmp/GeoIP.dat size 3107092, copy to /usr/share/GeoIP
+/tmp/GeoIPv6.dat size 3212446, copy to /usr/share/GeoIP

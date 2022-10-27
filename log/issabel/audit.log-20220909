@@ -1,0 +1,39 @@
+[Sep 06 01:13:20] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Sep 06 01:14:43] NAVIGATION admin: User admin visited "Call Center >> Agent Console" from 192.168.56.1.
+[Sep 06 01:14:48] NAVIGATION admin: User admin visited "Call Center >> Outgoing Calls >> Campaigns" from 192.168.56.1.
+[Sep 06 01:14:59] NAVIGATION admin: User admin visited "Call Center >> Outgoing Calls >> Do not Call List" from 192.168.56.1.
+[Sep 06 01:15:01] NAVIGATION admin: User admin visited "Call Center >> Outgoing Calls >> External URLs" from 192.168.56.1.
+[Sep 06 01:15:05] NAVIGATION admin: User admin visited "Call Center >> Ingoing Calls >> Queues" from 192.168.56.1.
+[Sep 06 01:15:21] NAVIGATION admin: User admin visited "Call Center >> Reports >> Graphic Calls per hour" from 192.168.56.1.
+[Sep 06 01:15:35] NAVIGATION admin: User admin visited "Call Center >> Reports >> Incoming calls monitoring" from 192.168.56.1.
+[Sep 06 01:18:59] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 06 01:20:12] NAVIGATION admin: User admin visited "Reports >> CDR Report" from 192.168.56.1.
+[Sep 06 01:21:38] NAVIGATION admin: User admin visited "Reports >> Missed Calls" from 192.168.56.1.
+[Sep 06 01:22:55] NAVIGATION admin: User admin visited "Reports >> Missed Calls" from 192.168.56.1.
+[Sep 06 01:22:58] NAVIGATION admin: User admin visited "Reports >> Missed Calls" from 192.168.56.1.
+[Sep 06 01:23:17] NAVIGATION admin: User admin visited "Call Center >> Reports >> Agent Information" from 192.168.56.1.
+[Sep 06 01:23:26] NAVIGATION admin: User admin visited "Call Center >> Reports >> Hold Time" from 192.168.56.1.
+[Sep 06 01:23:30] NAVIGATION admin: User admin visited "Call Center >> Reports >> Login Logout" from 192.168.56.1.
+[Sep 06 01:50:07] NAVIGATION admin: User admin visited "Reports >> CDR Report" from 192.168.56.1.
+[Sep 06 01:50:21] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 06 01:51:40] NAVIGATION admin: User admin visited "Call Center >> Reports >> Login Logout" from 192.168.56.1.
+[Sep 06 01:52:00] NAVIGATION admin: User admin visited "Call Center >> Reports >> Agents Monitoring" from 192.168.56.1.
+[Sep 06 03:22:59] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls per Agent" from 192.168.56.1.
+[Sep 06 03:23:04] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls per Agent" from 192.168.56.1.
+[Sep 06 03:23:26] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls per Agent" from 192.168.56.1.
+[Sep 06 03:23:37] NAVIGATION admin: User admin visited "Call Center >> Reports >> Hold Time" from 192.168.56.1.
+[Sep 06 03:24:21] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 06 03:29:41] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls per Agent" from 192.168.56.1.
+[Sep 06 03:30:41] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls per hour" from 192.168.56.1.
+[Sep 06 03:30:45] NAVIGATION admin: User admin visited "Call Center >> Reports >> Hold Time" from 192.168.56.1.
+[Sep 06 03:32:24] NAVIGATION admin: User admin visited "Call Center >> Reports >> Reports Break" from 192.168.56.1.
+[Sep 06 03:32:33] NAVIGATION admin: User admin visited "Call Center >> Reports >> Login Logout" from 192.168.56.1.
+[Sep 06 03:32:37] NAVIGATION admin: User admin visited "Call Center >> Reports >> Ingoing Calls Success" from 192.168.56.1.
+[Sep 06 03:33:27] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls per hour" from 192.168.56.1.
+[Sep 06 03:33:34] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls per Agent" from 192.168.56.1.
+[Sep 06 03:34:18] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 06 04:07:24] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 06 04:07:43] NAVIGATION admin: User admin visited "Call Center >> Reports >> Calls Detail" from 192.168.56.1.
+[Sep 07 01:00:16] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.
+[Sep 07 01:29:53] NAVIGATION admin: User admin visited "My Extension >> Settings" from 192.168.56.1.
+[Sep 08 05:31:07] LOGIN admin: Web Interface login successful. Accepted password for admin from 192.168.56.1.

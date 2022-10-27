@@ -1,0 +1,328 @@
+From MAILER-DAEMON  Mon Jul 18 04:07:09 2022
+Return-Path: <>
+X-Original-To: asterisk@issabel.local
+Delivered-To: asterisk@issabel.local
+Received: by issabel.local (Postfix)
+	id B3EB9A626B; Mon, 18 Jul 2022 04:07:09 -0400 (EDT)
+Date: Mon, 18 Jul 2022 04:07:09 -0400 (EDT)
+From: MAILER-DAEMON@issabel.local (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: asterisk@issabel.local
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="ABF56A624B.1658131629/issabel.local"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20220718080709.B3EB9A626B@issabel.local>
+
+This is a MIME-encapsulated message.
+
+--ABF56A624B.1658131629/issabel.local
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host issabel.local.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<karthikprasanth348@gmail.com>: host gmail-smtp-in.l.google.com[142.251.12.27]
+    said: 550-5.7.1 [203.223.190.171] The IP you're using to send mail is not
+    authorized 550-5.7.1 to send email directly to our servers. Please use the
+    SMTP relay at 550-5.7.1 your service provider instead. Learn more at 550
+    5.7.1  https://support.google.com/mail/?p=NotAuthorizedError
+    o6-20020a170902778600b0016c37fd2ed7si177334pll.511 - gsmtp (in reply to end
+    of DATA command)
+
+--ABF56A624B.1658131629/issabel.local
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; issabel.local
+X-Postfix-Queue-ID: ABF56A624B
+X-Postfix-Sender: rfc822; asterisk@issabel.local
+Arrival-Date: Mon, 18 Jul 2022 04:07:01 -0400 (EDT)
+
+Final-Recipient: rfc822; karthikprasanth348@gmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.1 [203.223.190.171] The IP you're using to send
+    mail is not authorized 550-5.7.1 to send email directly to our servers.
+    Please use the SMTP relay at 550-5.7.1 your service provider instead. Learn
+    more at 550 5.7.1  https://support.google.com/mail/?p=NotAuthorizedError
+    o6-20020a170902778600b0016c37fd2ed7si177334pll.511 - gsmtp
+
+--ABF56A624B.1658131629/issabel.local
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <asterisk@issabel.local>
+Received: by issabel.local (Postfix, from userid 997)
+	id ABF56A624B; Mon, 18 Jul 2022 04:07:01 -0400 (EDT)
+Date: Mon, 18 Jul 2022 04:07:01 -0400
+From: Asterisk PBX <asterisk@issabel.local>
+To: "karthik" <karthikprasanth348@gmail.com>
+Subject: [PBX]: New message 1 in mailbox 1001
+Message-ID: <Asterisk-1-732315347-1001-2156@issabel.local>
+X-Asterisk-CallerID: 1002
+X-Asterisk-CallerIDName: ram
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----voicemail_1100121562138676386"
+
+--ABF56A624B.1658131629/issabel.local--
+
+From MAILER-DAEMON  Tue Jul 19 08:29:05 2022
+Return-Path: <>
+X-Original-To: asterisk@issabel.local
+Delivered-To: asterisk@issabel.local
+Received: by issabel.local (Postfix)
+	id D58ACA62A3; Tue, 19 Jul 2022 08:29:05 -0400 (EDT)
+Date: Tue, 19 Jul 2022 08:29:05 -0400 (EDT)
+From: MAILER-DAEMON@issabel.local (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: asterisk@issabel.local
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="05741A628C.1658233745/issabel.local"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20220719122905.D58ACA62A3@issabel.local>
+
+This is a MIME-encapsulated message.
+
+--05741A628C.1658233745/issabel.local
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host issabel.local.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<karthikprasanth348@gmail.com>: host gmail-smtp-in.l.google.com[172.217.194.26]
+    said: 550-5.7.1 [203.223.190.171] The IP you're using to send mail is not
+    authorized 550-5.7.1 to send email directly to our servers. Please use the
+    SMTP relay at 550-5.7.1 your service provider instead. Learn more at 550
+    5.7.1  https://support.google.com/mail/?p=NotAuthorizedError
+    g9-20020a056a001a0900b0050dcc1acf09si21956787pfv.111 - gsmtp (in reply to
+    end of DATA command)
+
+--05741A628C.1658233745/issabel.local
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; issabel.local
+X-Postfix-Queue-ID: 05741A628C
+X-Postfix-Sender: rfc822; asterisk@issabel.local
+Arrival-Date: Tue, 19 Jul 2022 08:28:48 -0400 (EDT)
+
+Final-Recipient: rfc822; karthikprasanth348@gmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.1 [203.223.190.171] The IP you're using to send
+    mail is not authorized 550-5.7.1 to send email directly to our servers.
+    Please use the SMTP relay at 550-5.7.1 your service provider instead. Learn
+    more at 550 5.7.1  https://support.google.com/mail/?p=NotAuthorizedError
+    g9-20020a056a001a0900b0050dcc1acf09si21956787pfv.111 - gsmtp
+
+--05741A628C.1658233745/issabel.local
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <asterisk@issabel.local>
+Received: by issabel.local (Postfix, from userid 997)
+	id 05741A628C; Tue, 19 Jul 2022 08:28:49 -0400 (EDT)
+Date: Tue, 19 Jul 2022 08:28:48 -0400
+From: Asterisk PBX <asterisk@issabel.local>
+To: "karthik" <karthikprasanth348@gmail.com>
+Subject: [PBX]: New message 2 in mailbox 1001
+Message-ID: <Asterisk-2-1124073969-1001-2156@issabel.local>
+X-Asterisk-CallerID: 1001
+X-Asterisk-CallerIDName: karthik
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----voicemail_210012156165445291"
+
+--05741A628C.1658233745/issabel.local--
+
+From MAILER-DAEMON  Wed Jul 20 01:08:07 2022
+Return-Path: <>
+X-Original-To: asterisk@issabel.local
+Delivered-To: asterisk@issabel.local
+Received: by issabel.local (Postfix)
+	id 51855A62C8; Wed, 20 Jul 2022 01:08:07 -0400 (EDT)
+Date: Wed, 20 Jul 2022 01:08:07 -0400 (EDT)
+From: MAILER-DAEMON@issabel.local (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: asterisk@issabel.local
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="11FDCA62C7.1658293687/issabel.local"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20220720050807.51855A62C8@issabel.local>
+
+This is a MIME-encapsulated message.
+
+--11FDCA62C7.1658293687/issabel.local
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host issabel.local.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<karthikprasanth348@gmail.com>: host gmail-smtp-in.l.google.com[74.125.24.26]
+    said: 550-5.7.1 [203.223.190.171] The IP you're using to send mail is not
+    authorized 550-5.7.1 to send email directly to our servers. Please use the
+    SMTP relay at 550-5.7.1 your service provider instead. Learn more at 550
+    5.7.1  https://support.google.com/mail/?p=NotAuthorizedError
+    z6-20020a170903018600b0016bf6b732e9si24574695plg.359 - gsmtp (in reply to
+    end of DATA command)
+
+--11FDCA62C7.1658293687/issabel.local
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; issabel.local
+X-Postfix-Queue-ID: 11FDCA62C7
+X-Postfix-Sender: rfc822; asterisk@issabel.local
+Arrival-Date: Wed, 20 Jul 2022 01:08:03 -0400 (EDT)
+
+Final-Recipient: rfc822; karthikprasanth348@gmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.1 [203.223.190.171] The IP you're using to send
+    mail is not authorized 550-5.7.1 to send email directly to our servers.
+    Please use the SMTP relay at 550-5.7.1 your service provider instead. Learn
+    more at 550 5.7.1  https://support.google.com/mail/?p=NotAuthorizedError
+    z6-20020a170903018600b0016bf6b732e9si24574695plg.359 - gsmtp
+
+--11FDCA62C7.1658293687/issabel.local
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <asterisk@issabel.local>
+Received: by issabel.local (Postfix, from userid 997)
+	id 11FDCA62C7; Wed, 20 Jul 2022 01:08:04 -0400 (EDT)
+Date: Wed, 20 Jul 2022 01:08:03 -0400
+From: Asterisk PBX <asterisk@issabel.local>
+To: "karthik" <karthikprasanth348@gmail.com>
+Subject: [PBX]: New message 3 in mailbox 1001
+Message-ID: <Asterisk-3-465075680-1001-2156@issabel.local>
+X-Asterisk-CallerID: 1002
+X-Asterisk-CallerIDName: ram
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----voicemail_310012156371257113"
+
+--11FDCA62C7.1658293687/issabel.local--
+
+From MAILER-DAEMON  Wed Jul 20 07:06:00 2022
+Return-Path: <>
+X-Original-To: asterisk@issabel.local
+Delivered-To: asterisk@issabel.local
+Received: by issabel.local (Postfix)
+	id DD5F9A62AB; Wed, 20 Jul 2022 07:06:00 -0400 (EDT)
+Date: Wed, 20 Jul 2022 07:06:00 -0400 (EDT)
+From: MAILER-DAEMON@issabel.local (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: asterisk@issabel.local
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="864C7A6294.1658315160/issabel.local"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20220720110600.DD5F9A62AB@issabel.local>
+
+This is a MIME-encapsulated message.
+
+--864C7A6294.1658315160/issabel.local
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host issabel.local.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<karthikprasanth348@gmail.com>: host gmail-smtp-in.l.google.com[142.251.10.27]
+    said: 550-5.7.1 [203.223.190.171] The IP you're using to send mail is not
+    authorized 550-5.7.1 to send email directly to our servers. Please use the
+    SMTP relay at 550-5.7.1 your service provider instead. Learn more at 550
+    5.7.1  https://support.google.com/mail/?p=NotAuthorizedError
+    a38-20020a056a001d2600b0052527705946si100210pfx.47 - gsmtp (in reply to end
+    of DATA command)
+
+--864C7A6294.1658315160/issabel.local
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; issabel.local
+X-Postfix-Queue-ID: 864C7A6294
+X-Postfix-Sender: rfc822; asterisk@issabel.local
+Arrival-Date: Wed, 20 Jul 2022 07:05:55 -0400 (EDT)
+
+Final-Recipient: rfc822; karthikprasanth348@gmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.1 [203.223.190.171] The IP you're using to send
+    mail is not authorized 550-5.7.1 to send email directly to our servers.
+    Please use the SMTP relay at 550-5.7.1 your service provider instead. Learn
+    more at 550 5.7.1  https://support.google.com/mail/?p=NotAuthorizedError
+    a38-20020a056a001d2600b0052527705946si100210pfx.47 - gsmtp
+
+--864C7A6294.1658315160/issabel.local
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <asterisk@issabel.local>
+Received: by issabel.local (Postfix, from userid 997)
+	id 864C7A6294; Wed, 20 Jul 2022 07:05:55 -0400 (EDT)
+Date: Wed, 20 Jul 2022 07:05:55 -0400
+From: Asterisk PBX <asterisk@issabel.local>
+To: "karthik" <karthikprasanth348@gmail.com>
+Subject: [PBX]: New message 4 in mailbox 1001
+Message-ID: <Asterisk-4-1641401301-1001-2157@issabel.local>
+X-Asterisk-CallerID: 1001
+X-Asterisk-CallerIDName: karthik
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----voicemail_4100121571511609556"
+
+--864C7A6294.1658315160/issabel.local--
+

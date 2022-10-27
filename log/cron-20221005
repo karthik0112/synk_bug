@@ -1,0 +1,612 @@
+Sep 26 04:02:44 issabel run-parts(/etc/cron.daily)[6058]: finished logrotate
+Sep 26 04:02:44 issabel run-parts(/etc/cron.daily)[5325]: starting man-db.cron
+Sep 26 04:02:44 issabel run-parts(/etc/cron.daily)[6069]: finished man-db.cron
+Sep 26 04:02:44 issabel run-parts(/etc/cron.daily)[5325]: starting purgeattacks
+Sep 26 04:02:44 issabel run-parts(/etc/cron.daily)[6076]: finished purgeattacks
+Sep 26 04:02:44 issabel run-parts(/etc/cron.daily)[5325]: starting renewssl
+Sep 26 04:02:44 issabel run-parts(/etc/cron.daily)[6082]: finished renewssl
+Sep 26 04:05:01 issabel CROND[6089]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 04:10:01 issabel CROND[6124]: (root) CMD (/usr/share/spamassassin/sa-update.cron 2>&1 | tee -a /var/log/sa-update.log)
+Sep 26 04:10:01 issabel CROND[6125]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 04:15:01 issabel CROND[6192]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 04:16:02 issabel CROND[6200]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 26 04:20:01 issabel CROND[6230]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 04:25:01 issabel CROND[6370]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 04:30:01 issabel CROND[6618]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 04:35:01 issabel CROND[6755]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 04:40:01 issabel CROND[6863]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 05:17:34 issabel crond[2339]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 52% if used.)
+Sep 26 05:17:34 issabel crond[2339]: (CRON) INFO (running with inotify support)
+Sep 26 05:17:35 issabel crontab[2411]: (root) LIST (asterisk)
+Sep 26 05:17:36 issabel crontab[2414]: (root) REPLACE (asterisk)
+Sep 26 05:17:36 issabel crontab[2415]: (root) LIST (root)
+Sep 26 05:18:01 issabel crond[2339]: (asterisk) RELOAD (/var/spool/cron/asterisk)
+Sep 26 05:20:01 issabel CROND[2771]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 05:25:01 issabel CROND[2821]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 05:30:01 issabel CROND[2861]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 05:35:01 issabel CROND[2907]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 05:40:01 issabel CROND[2961]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 05:45:01 issabel CROND[3029]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 05:46:01 issabel CROND[3040]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 26 05:50:01 issabel CROND[3088]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 05:55:01 issabel CROND[3133]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 06:00:01 issabel CROND[3174]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 06:01:01 issabel CROND[3183]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 26 06:01:01 issabel CROND[3184]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 26 06:01:01 issabel run-parts(/etc/cron.hourly)[3184]: starting hylafax
+Sep 26 06:01:01 issabel run-parts(/etc/cron.hourly)[3193]: finished hylafax
+Sep 26 06:05:01 issabel CROND[3223]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 06:10:01 issabel CROND[3258]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 06:15:01 issabel CROND[3296]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 06:16:01 issabel CROND[3304]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 26 06:20:01 issabel CROND[3337]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 06:25:01 issabel CROND[3394]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 06:30:01 issabel CROND[3427]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 06:35:01 issabel CROND[3461]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 06:40:01 issabel CROND[3501]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 06:45:01 issabel CROND[3534]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 06:46:01 issabel CROND[3542]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 26 06:50:01 issabel CROND[3575]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 06:55:01 issabel CROND[3608]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 07:00:01 issabel CROND[3642]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 07:01:01 issabel CROND[3651]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 26 07:01:01 issabel CROND[3652]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 26 07:01:01 issabel run-parts(/etc/cron.hourly)[3652]: starting hylafax
+Sep 26 07:01:01 issabel run-parts(/etc/cron.hourly)[3661]: finished hylafax
+Sep 26 07:05:01 issabel CROND[3691]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 07:10:01 issabel CROND[3748]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 07:15:01 issabel CROND[3781]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 07:16:01 issabel CROND[3789]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 26 07:20:01 issabel CROND[3822]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 07:25:01 issabel CROND[3855]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 07:30:01 issabel CROND[3888]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 07:35:01 issabel CROND[3922]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 07:40:01 issabel CROND[3979]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 08:01:52 issabel CROND[3996]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 26 08:01:52 issabel CROND[3997]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 26 08:01:52 issabel run-parts(/etc/cron.hourly)[3997]: starting hylafax
+Sep 26 08:01:52 issabel run-parts(/etc/cron.hourly)[4011]: finished hylafax
+Sep 26 08:05:01 issabel CROND[4065]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 08:10:01 issabel CROND[4098]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 08:30:01 issabel CROND[4193]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 08:35:01 issabel CROND[4228]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 08:40:01 issabel CROND[4261]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 08:45:01 issabel CROND[4295]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 08:46:01 issabel CROND[4303]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 26 08:50:01 issabel CROND[4334]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 08:55:01 issabel CROND[4391]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 09:00:01 issabel CROND[4425]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 09:01:01 issabel CROND[4435]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 26 09:01:01 issabel CROND[4436]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 26 09:01:01 issabel run-parts(/etc/cron.hourly)[4436]: starting hylafax
+Sep 26 09:01:01 issabel run-parts(/etc/cron.hourly)[4445]: finished hylafax
+Sep 26 09:05:02 issabel CROND[4474]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 09:10:01 issabel CROND[4507]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 09:15:01 issabel CROND[4541]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 09:16:01 issabel CROND[4574]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 26 09:20:01 issabel CROND[4580]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 26 09:25:01 issabel CROND[4637]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 00:17:08 issabel crond[2141]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 34% if used.)
+Sep 27 00:17:08 issabel crond[2141]: (CRON) INFO (running with inotify support)
+Sep 27 00:17:11 issabel crontab[2413]: (root) LIST (asterisk)
+Sep 27 00:17:11 issabel crontab[2416]: (root) REPLACE (asterisk)
+Sep 27 00:17:12 issabel crontab[2417]: (root) LIST (root)
+Sep 27 00:18:01 issabel crond[2141]: (asterisk) RELOAD (/var/spool/cron/asterisk)
+Sep 27 00:20:01 issabel CROND[2665]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 00:25:01 issabel CROND[2997]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 00:30:01 issabel CROND[3428]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 00:35:01 issabel CROND[3525]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 00:40:01 issabel CROND[3663]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 00:45:01 issabel CROND[4128]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 00:46:01 issabel CROND[4197]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 00:50:01 issabel CROND[4502]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 00:55:01 issabel CROND[4807]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 01:00:01 issabel CROND[5080]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 01:01:01 issabel CROND[5105]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 27 01:01:01 issabel CROND[5106]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 27 01:01:01 issabel run-parts(/etc/cron.hourly)[5106]: starting hylafax
+Sep 27 01:01:01 issabel run-parts(/etc/cron.hourly)[5116]: finished hylafax
+Sep 27 01:05:01 issabel CROND[5204]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 01:10:01 issabel CROND[5312]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 01:15:01 issabel CROND[5420]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 01:16:01 issabel CROND[5468]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 01:22:20 issabel CROND[5508]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 01:25:01 issabel CROND[5749]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 01:30:01 issabel CROND[6022]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 01:40:01 issabel CROND[6400]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 01:45:01 issabel CROND[6639]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 01:46:01 issabel CROND[6662]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 01:50:01 issabel CROND[6753]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 01:55:01 issabel CROND[6862]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 02:00:01 issabel CROND[7212]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 02:01:01 issabel CROND[7278]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 27 02:01:01 issabel CROND[7279]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 27 02:01:01 issabel run-parts(/etc/cron.hourly)[7279]: starting hylafax
+Sep 27 02:01:01 issabel run-parts(/etc/cron.hourly)[7288]: finished hylafax
+Sep 27 02:05:01 issabel CROND[7488]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 02:10:01 issabel CROND[7598]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 02:15:01 issabel CROND[7998]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 02:16:01 issabel CROND[8068]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 02:20:01 issabel CROND[8252]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 02:25:01 issabel CROND[8411]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 02:30:01 issabel CROND[8535]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 02:35:01 issabel CROND[8895]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 02:40:01 issabel CROND[9036]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 02:45:01 issabel CROND[9281]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 02:46:02 issabel CROND[9307]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 02:50:01 issabel CROND[9399]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 02:55:01 issabel CROND[9513]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 03:00:01 issabel CROND[9632]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 03:01:01 issabel CROND[9658]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 27 03:01:01 issabel CROND[9659]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 27 03:01:02 issabel run-parts(/etc/cron.hourly)[9659]: starting hylafax
+Sep 27 03:01:02 issabel run-parts(/etc/cron.hourly)[9668]: finished hylafax
+Sep 27 03:05:01 issabel CROND[9759]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 03:10:01 issabel CROND[9875]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 03:15:01 issabel CROND[10017]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 03:16:01 issabel CROND[10040]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 03:20:01 issabel CROND[10141]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 03:25:01 issabel CROND[10254]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 03:30:01 issabel CROND[10368]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 03:35:01 issabel CROND[10481]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 03:40:01 issabel CROND[10597]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 03:45:01 issabel CROND[10845]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 03:46:02 issabel CROND[10870]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 03:50:01 issabel CROND[10962]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 03:55:01 issabel CROND[11071]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 04:00:01 issabel CROND[11181]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 04:01:01 issabel CROND[11205]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 27 04:01:01 issabel CROND[11206]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 27 04:01:01 issabel run-parts(/etc/cron.hourly)[11206]: starting hylafax
+Sep 27 04:01:01 issabel run-parts(/etc/cron.hourly)[11215]: finished hylafax
+Sep 27 04:02:01 issabel CROND[11258]: (root) CMD ([ ! -f /etc/cron.hourly/0anacron ] && run-parts /etc/cron.daily)
+Sep 27 04:02:01 issabel run-parts(/etc/cron.daily)[11259]: starting asterisk_cleanup
+Sep 27 04:02:01 issabel run-parts(/etc/cron.daily)[11266]: finished asterisk_cleanup
+Sep 27 04:02:01 issabel run-parts(/etc/cron.daily)[11259]: starting cyrus-imapd
+Sep 27 04:02:01 issabel run-parts(/etc/cron.daily)[11377]: finished cyrus-imapd
+Sep 27 04:02:01 issabel run-parts(/etc/cron.daily)[11259]: starting geoip_update.sh
+Sep 27 04:05:01 issabel CROND[11579]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 04:05:03 issabel run-parts(/etc/cron.daily)[11969]: finished geoip_update.sh
+Sep 27 04:05:03 issabel run-parts(/etc/cron.daily)[11259]: starting hylafax
+Sep 27 04:05:03 issabel run-parts(/etc/cron.daily)[11984]: finished hylafax
+Sep 27 04:05:03 issabel run-parts(/etc/cron.daily)[11259]: starting issabel-license-renew
+Sep 27 04:05:03 issabel run-parts(/etc/cron.daily)[11997]: finished issabel-license-renew
+Sep 27 04:05:03 issabel run-parts(/etc/cron.daily)[11259]: starting logrotate
+Sep 27 04:05:03 issabel run-parts(/etc/cron.daily)[12005]: finished logrotate
+Sep 27 04:05:03 issabel run-parts(/etc/cron.daily)[11259]: starting man-db.cron
+Sep 27 04:05:05 issabel run-parts(/etc/cron.daily)[12860]: finished man-db.cron
+Sep 27 04:05:05 issabel run-parts(/etc/cron.daily)[11259]: starting purgeattacks
+Sep 27 04:05:05 issabel run-parts(/etc/cron.daily)[12867]: finished purgeattacks
+Sep 27 04:05:05 issabel run-parts(/etc/cron.daily)[11259]: starting renewssl
+Sep 27 04:05:05 issabel run-parts(/etc/cron.daily)[12873]: finished renewssl
+Sep 27 04:10:01 issabel CROND[12967]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 04:10:01 issabel CROND[12968]: (root) CMD (/usr/share/spamassassin/sa-update.cron 2>&1 | tee -a /var/log/sa-update.log)
+Sep 27 04:15:01 issabel CROND[13087]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 04:16:01 issabel CROND[13141]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 04:20:01 issabel CROND[13216]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 04:25:01 issabel CROND[13341]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 04:53:07 issabel crond[2139]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 98% if used.)
+Sep 27 04:53:07 issabel crond[2139]: (CRON) INFO (running with inotify support)
+Sep 27 04:53:10 issabel crontab[2411]: (root) LIST (asterisk)
+Sep 27 04:53:10 issabel crontab[2414]: (root) REPLACE (asterisk)
+Sep 27 04:53:10 issabel crontab[2415]: (root) LIST (root)
+Sep 27 04:54:01 issabel crond[2139]: (asterisk) RELOAD (/var/spool/cron/asterisk)
+Sep 27 04:55:01 issabel CROND[3016]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 05:00:01 issabel CROND[3341]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 05:01:01 issabel CROND[3365]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 27 05:01:02 issabel CROND[3366]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 27 05:01:02 issabel run-parts(/etc/cron.hourly)[3365]: starting hylafax
+Sep 27 05:01:02 issabel run-parts(/etc/cron.hourly)[3375]: finished hylafax
+Sep 27 05:05:01 issabel CROND[3617]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 05:10:01 issabel CROND[3903]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 05:15:01 issabel CROND[4026]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 05:16:01 issabel CROND[4074]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 05:20:01 issabel CROND[4171]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 05:25:01 issabel CROND[4294]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 05:30:01 issabel CROND[4410]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 05:35:01 issabel CROND[4554]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 05:40:01 issabel CROND[4689]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 05:45:01 issabel CROND[4862]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 05:46:01 issabel CROND[4939]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 05:50:01 issabel CROND[5155]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 05:55:01 issabel CROND[5289]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 06:00:01 issabel CROND[5397]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 06:01:01 issabel CROND[5421]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 27 06:01:02 issabel CROND[5422]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 27 06:01:02 issabel run-parts(/etc/cron.hourly)[5422]: starting hylafax
+Sep 27 06:01:02 issabel run-parts(/etc/cron.hourly)[5431]: finished hylafax
+Sep 27 06:05:01 issabel CROND[5519]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 06:10:01 issabel CROND[5627]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 06:15:01 issabel CROND[5734]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 06:16:01 issabel CROND[5757]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 06:20:01 issabel CROND[5847]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 06:25:01 issabel CROND[5956]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 06:30:01 issabel CROND[6094]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 06:35:01 issabel CROND[6202]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 06:40:01 issabel CROND[6310]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 06:45:01 issabel CROND[6418]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 06:46:01 issabel CROND[6441]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 06:50:01 issabel CROND[6532]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 06:55:01 issabel CROND[6642]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 07:00:01 issabel CROND[7007]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 07:01:01 issabel CROND[7062]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 27 07:01:01 issabel CROND[7063]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 27 07:01:02 issabel run-parts(/etc/cron.hourly)[7063]: starting hylafax
+Sep 27 07:01:02 issabel run-parts(/etc/cron.hourly)[7072]: finished hylafax
+Sep 27 07:05:01 issabel CROND[7326]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 07:10:01 issabel CROND[7480]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 07:15:01 issabel CROND[7611]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 07:16:01 issabel CROND[7634]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 07:20:01 issabel CROND[7724]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 07:25:01 issabel CROND[7833]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 07:30:01 issabel CROND[7940]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 07:35:01 issabel CROND[8047]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 07:40:01 issabel CROND[8155]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 07:45:01 issabel CROND[8262]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 07:46:01 issabel CROND[8285]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 07:50:01 issabel CROND[8375]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 07:55:01 issabel CROND[8484]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 08:00:01 issabel CROND[8591]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 08:01:01 issabel CROND[8615]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 27 08:01:01 issabel CROND[8616]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 27 08:01:01 issabel run-parts(/etc/cron.hourly)[8616]: starting hylafax
+Sep 27 08:01:01 issabel run-parts(/etc/cron.hourly)[8625]: finished hylafax
+Sep 27 08:05:01 issabel CROND[8713]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 08:10:01 issabel CROND[8821]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 08:15:01 issabel CROND[8953]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 08:16:01 issabel CROND[8976]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 27 08:20:01 issabel CROND[9066]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 08:25:01 issabel CROND[9175]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 08:30:01 issabel CROND[9282]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 08:35:01 issabel CROND[9389]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 27 08:40:01 issabel CROND[9497]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 00:59:52 issabel crond[2198]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 98% if used.)
+Sep 28 00:59:52 issabel crond[2198]: (CRON) INFO (running with inotify support)
+Sep 28 00:59:55 issabel crontab[2409]: (root) LIST (asterisk)
+Sep 28 00:59:55 issabel crontab[2412]: (root) REPLACE (asterisk)
+Sep 28 00:59:55 issabel crontab[2413]: (root) LIST (root)
+Sep 28 01:00:01 issabel crond[2198]: (asterisk) RELOAD (/var/spool/cron/asterisk)
+Sep 28 01:00:01 issabel CROND[2530]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 01:01:01 issabel CROND[2663]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 28 01:01:01 issabel CROND[2664]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 28 01:01:01 issabel run-parts(/etc/cron.hourly)[2664]: starting hylafax
+Sep 28 01:01:01 issabel run-parts(/etc/cron.hourly)[2674]: finished hylafax
+Sep 28 01:05:01 issabel CROND[2702]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 01:10:01 issabel CROND[3167]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 01:15:01 issabel CROND[3457]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 01:16:01 issabel CROND[3480]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 28 01:20:01 issabel CROND[3750]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 01:25:01 issabel CROND[4010]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 01:30:01 issabel CROND[4141]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 01:35:01 issabel CROND[4280]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 01:40:01 issabel CROND[4320]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 01:45:01 issabel CROND[4771]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 01:46:01 issabel CROND[4826]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 28 01:50:01 issabel CROND[5118]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 01:55:01 issabel CROND[5517]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 02:00:01 issabel CROND[5845]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 02:01:01 issabel CROND[5941]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 28 02:01:01 issabel CROND[5942]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 28 02:01:01 issabel run-parts(/etc/cron.hourly)[5941]: starting hylafax
+Sep 28 02:01:01 issabel run-parts(/etc/cron.hourly)[5951]: finished hylafax
+Sep 28 02:05:01 issabel CROND[6277]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 02:10:01 issabel CROND[6612]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 02:15:01 issabel CROND[7016]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 02:16:01 issabel CROND[7025]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 28 02:20:01 issabel CROND[7231]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 02:25:01 issabel CROND[7817]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 02:30:01 issabel CROND[8244]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 02:35:01 issabel CROND[8304]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 02:40:01 issabel CROND[8591]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 02:45:01 issabel CROND[8874]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 02:46:02 issabel CROND[8900]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 28 02:50:01 issabel CROND[9155]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 03:05:01 issabel CROND[9478]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 03:10:01 issabel CROND[9520]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 03:15:01 issabel CROND[9554]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 03:16:01 issabel CROND[9586]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 28 03:20:01 issabel CROND[9595]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 03:25:01 issabel CROND[9657]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 03:30:01 issabel CROND[9752]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 03:35:01 issabel CROND[9789]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 03:40:01 issabel CROND[9824]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 03:45:01 issabel CROND[9857]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 03:46:02 issabel CROND[9889]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 28 03:50:01 issabel CROND[9921]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 03:55:01 issabel CROND[10027]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 04:00:01 issabel CROND[10062]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 04:01:01 issabel CROND[10071]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 28 04:01:01 issabel CROND[10072]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 28 04:01:01 issabel run-parts(/etc/cron.hourly)[10071]: starting hylafax
+Sep 28 04:01:01 issabel run-parts(/etc/cron.hourly)[10080]: finished hylafax
+Sep 28 04:02:02 issabel CROND[10085]: (root) CMD ([ ! -f /etc/cron.hourly/0anacron ] && run-parts /etc/cron.daily)
+Sep 28 04:02:02 issabel run-parts(/etc/cron.daily)[10086]: starting asterisk_cleanup
+Sep 28 04:02:02 issabel run-parts(/etc/cron.daily)[10093]: finished asterisk_cleanup
+Sep 28 04:02:02 issabel run-parts(/etc/cron.daily)[10086]: starting cyrus-imapd
+Sep 28 04:02:02 issabel run-parts(/etc/cron.daily)[10204]: finished cyrus-imapd
+Sep 28 04:02:02 issabel run-parts(/etc/cron.daily)[10086]: starting geoip_update.sh
+Sep 28 04:05:01 issabel CROND[10261]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 04:05:16 issabel run-parts(/etc/cron.daily)[10777]: finished geoip_update.sh
+Sep 28 04:05:16 issabel run-parts(/etc/cron.daily)[10086]: starting hylafax
+Sep 28 04:05:16 issabel run-parts(/etc/cron.daily)[10792]: finished hylafax
+Sep 28 04:05:16 issabel run-parts(/etc/cron.daily)[10086]: starting issabel-license-renew
+Sep 28 04:05:16 issabel run-parts(/etc/cron.daily)[10805]: finished issabel-license-renew
+Sep 28 04:05:16 issabel run-parts(/etc/cron.daily)[10086]: starting logrotate
+Sep 28 04:05:16 issabel run-parts(/etc/cron.daily)[10813]: finished logrotate
+Sep 28 04:05:16 issabel run-parts(/etc/cron.daily)[10086]: starting man-db.cron
+Sep 28 04:05:17 issabel run-parts(/etc/cron.daily)[10824]: finished man-db.cron
+Sep 28 04:05:17 issabel run-parts(/etc/cron.daily)[10086]: starting purgeattacks
+Sep 28 04:05:17 issabel run-parts(/etc/cron.daily)[10831]: finished purgeattacks
+Sep 28 04:05:17 issabel run-parts(/etc/cron.daily)[10086]: starting renewssl
+Sep 28 04:05:17 issabel run-parts(/etc/cron.daily)[10837]: finished renewssl
+Sep 28 04:10:01 issabel CROND[10869]: (root) CMD (/usr/share/spamassassin/sa-update.cron 2>&1 | tee -a /var/log/sa-update.log)
+Sep 28 04:10:01 issabel CROND[10870]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 04:15:01 issabel CROND[10910]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 04:16:01 issabel CROND[10942]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 28 04:20:01 issabel CROND[10950]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 04:25:01 issabel CROND[11007]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 04:30:02 issabel CROND[11040]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 04:35:01 issabel CROND[11075]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 04:40:01 issabel CROND[11108]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 04:45:01 issabel CROND[11166]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 04:46:01 issabel CROND[11174]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 28 04:50:01 issabel CROND[11206]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 04:55:01 issabel CROND[11238]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 05:00:01 issabel CROND[11271]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 05:01:01 issabel CROND[11280]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 28 05:01:01 issabel CROND[11281]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 28 05:01:01 issabel run-parts(/etc/cron.hourly)[11281]: starting hylafax
+Sep 28 05:01:01 issabel run-parts(/etc/cron.hourly)[11290]: finished hylafax
+Sep 28 05:05:01 issabel CROND[11321]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 05:10:01 issabel CROND[11354]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 05:15:01 issabel CROND[11387]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 05:16:01 issabel CROND[11395]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 28 05:20:01 issabel CROND[11427]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 05:25:01 issabel CROND[11484]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 05:30:01 issabel CROND[11517]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 05:35:01 issabel CROND[11552]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 05:40:01 issabel CROND[11585]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 05:45:01 issabel CROND[11638]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 05:46:01 issabel CROND[11650]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 28 05:50:01 issabel CROND[11682]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 05:55:01 issabel CROND[11715]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 06:00:01 issabel CROND[11748]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 06:01:01 issabel CROND[11757]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 28 06:01:01 issabel CROND[11758]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 28 06:01:01 issabel run-parts(/etc/cron.hourly)[11758]: starting hylafax
+Sep 28 06:01:01 issabel run-parts(/etc/cron.hourly)[11767]: finished hylafax
+Sep 28 06:05:01 issabel CROND[11797]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 06:10:01 issabel CROND[11830]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 06:15:01 issabel CROND[11863]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 06:16:01 issabel CROND[11871]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 28 06:20:01 issabel CROND[11903]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 07:35:01 issabel CROND[12102]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 07:40:01 issabel CROND[12135]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 08:20:01 issabel CROND[12211]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 08:25:01 issabel CROND[12244]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 08:30:01 issabel CROND[12301]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 08:35:01 issabel CROND[12335]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 08:40:01 issabel CROND[12368]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 08:45:01 issabel CROND[12401]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 28 08:55:01 issabel CROND[12436]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 00:21:00 issabel crond[2140]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 11% if used.)
+Sep 30 00:21:00 issabel crond[2140]: (CRON) INFO (running with inotify support)
+Sep 30 00:21:04 issabel crontab[2412]: (root) LIST (asterisk)
+Sep 30 00:21:04 issabel crontab[2415]: (root) REPLACE (asterisk)
+Sep 30 00:21:04 issabel crontab[2416]: (root) LIST (root)
+Sep 30 00:22:01 issabel crond[2140]: (asterisk) RELOAD (/var/spool/cron/asterisk)
+Sep 30 00:25:01 issabel CROND[2882]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 00:30:01 issabel CROND[3080]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 00:36:13 issabel CROND[3151]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 00:40:01 issabel CROND[3238]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 00:45:01 issabel CROND[3585]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 00:46:01 issabel CROND[3662]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 30 00:50:02 issabel CROND[3894]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 00:55:01 issabel CROND[4238]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 01:00:01 issabel CROND[4556]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 01:01:01 issabel CROND[4625]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 30 01:01:01 issabel CROND[4626]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 30 01:01:01 issabel run-parts(/etc/cron.hourly)[4625]: starting hylafax
+Sep 30 01:01:02 issabel run-parts(/etc/cron.hourly)[4635]: finished hylafax
+Sep 30 01:05:01 issabel CROND[4889]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 01:10:01 issabel CROND[5193]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 01:15:01 issabel CROND[5482]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 01:16:01 issabel CROND[5550]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 30 01:20:01 issabel CROND[5731]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 01:25:01 issabel CROND[5841]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 01:32:15 issabel CROND[5939]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 01:35:01 issabel CROND[6131]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 01:40:01 issabel CROND[6346]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 01:45:01 issabel CROND[6649]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 01:46:01 issabel CROND[6697]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 30 01:50:01 issabel CROND[6728]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 01:55:01 issabel CROND[6763]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 02:00:01 issabel CROND[6796]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 02:15:01 issabel CROND[6866]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 02:16:01 issabel CROND[6899]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 30 02:55:26 issabel CROND[6914]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 03:00:01 issabel CROND[7003]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 03:01:51 issabel CROND[7013]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 30 03:01:51 issabel CROND[7014]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 30 03:01:51 issabel run-parts(/etc/cron.hourly)[7013]: starting hylafax
+Sep 30 03:01:51 issabel run-parts(/etc/cron.hourly)[7022]: finished hylafax
+Sep 30 03:05:01 issabel CROND[7051]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 03:10:01 issabel CROND[7388]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 03:15:01 issabel CROND[7710]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 03:16:01 issabel CROND[7766]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 30 03:20:01 issabel CROND[8136]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 03:25:01 issabel CROND[8485]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 03:30:01 issabel CROND[8837]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 03:35:01 issabel CROND[9161]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 03:40:01 issabel CROND[9271]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 03:45:01 issabel CROND[9388]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 03:46:01 issabel CROND[9413]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 30 03:50:01 issabel CROND[9688]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 03:55:01 issabel CROND[9925]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 04:00:01 issabel CROND[10046]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 04:01:01 issabel CROND[10096]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 30 04:01:01 issabel CROND[10097]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 30 04:01:01 issabel run-parts(/etc/cron.hourly)[10097]: starting hylafax
+Sep 30 04:01:01 issabel run-parts(/etc/cron.hourly)[10105]: finished hylafax
+Sep 30 04:02:01 issabel CROND[10128]: (root) CMD ([ ! -f /etc/cron.hourly/0anacron ] && run-parts /etc/cron.daily)
+Sep 30 04:02:01 issabel run-parts(/etc/cron.daily)[10129]: starting asterisk_cleanup
+Sep 30 04:02:01 issabel run-parts(/etc/cron.daily)[10136]: finished asterisk_cleanup
+Sep 30 04:02:01 issabel run-parts(/etc/cron.daily)[10129]: starting cyrus-imapd
+Sep 30 04:02:01 issabel run-parts(/etc/cron.daily)[10247]: finished cyrus-imapd
+Sep 30 04:02:01 issabel run-parts(/etc/cron.daily)[10129]: starting geoip_update.sh
+Sep 30 04:05:01 issabel CROND[10348]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 04:05:08 issabel run-parts(/etc/cron.daily)[10864]: finished geoip_update.sh
+Sep 30 04:05:08 issabel run-parts(/etc/cron.daily)[10129]: starting hylafax
+Sep 30 04:05:08 issabel run-parts(/etc/cron.daily)[10879]: finished hylafax
+Sep 30 04:05:08 issabel run-parts(/etc/cron.daily)[10129]: starting issabel-license-renew
+Sep 30 04:05:08 issabel run-parts(/etc/cron.daily)[10892]: finished issabel-license-renew
+Sep 30 04:05:08 issabel run-parts(/etc/cron.daily)[10129]: starting logrotate
+Sep 30 04:05:08 issabel run-parts(/etc/cron.daily)[10900]: finished logrotate
+Sep 30 04:05:08 issabel run-parts(/etc/cron.daily)[10129]: starting man-db.cron
+Sep 30 04:05:09 issabel run-parts(/etc/cron.daily)[10911]: finished man-db.cron
+Sep 30 04:05:09 issabel run-parts(/etc/cron.daily)[10129]: starting purgeattacks
+Sep 30 04:05:09 issabel run-parts(/etc/cron.daily)[10918]: finished purgeattacks
+Sep 30 04:05:09 issabel run-parts(/etc/cron.daily)[10129]: starting renewssl
+Sep 30 04:05:09 issabel run-parts(/etc/cron.daily)[10924]: finished renewssl
+Sep 30 04:10:01 issabel CROND[11031]: (root) CMD (/usr/share/spamassassin/sa-update.cron 2>&1 | tee -a /var/log/sa-update.log)
+Sep 30 04:10:01 issabel CROND[11032]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 04:10:01 issabel CROND[11032]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 05:00:01 issabel CROND[11160]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 05:01:01 issabel CROND[11184]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 30 05:01:01 issabel CROND[11185]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 30 05:01:01 issabel run-parts(/etc/cron.hourly)[11184]: starting hylafax
+Sep 30 05:01:01 issabel run-parts(/etc/cron.hourly)[11194]: finished hylafax
+Sep 30 05:45:01 issabel CROND[11504]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 05:46:01 issabel CROND[11596]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 30 05:50:01 issabel CROND[11828]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 05:55:01 issabel CROND[12076]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 06:00:01 issabel CROND[12205]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 06:01:01 issabel CROND[12229]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 30 06:01:01 issabel CROND[12230]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 30 06:01:01 issabel run-parts(/etc/cron.hourly)[12230]: starting hylafax
+Sep 30 06:01:01 issabel run-parts(/etc/cron.hourly)[12239]: finished hylafax
+Sep 30 06:05:01 issabel CROND[12355]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 06:38:06 issabel crond[2146]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 43% if used.)
+Sep 30 06:38:06 issabel crond[2146]: (CRON) INFO (running with inotify support)
+Sep 30 06:38:10 issabel crontab[2410]: (root) LIST (asterisk)
+Sep 30 06:38:10 issabel crontab[2413]: (root) REPLACE (asterisk)
+Sep 30 06:38:10 issabel crontab[2414]: (root) LIST (root)
+Sep 30 06:39:01 issabel crond[2146]: (asterisk) RELOAD (/var/spool/cron/asterisk)
+Sep 30 06:40:01 issabel CROND[2660]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 06:45:01 issabel CROND[2844]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 06:46:01 issabel CROND[2856]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 30 06:50:01 issabel CROND[2886]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 06:55:01 issabel CROND[2929]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 07:00:01 issabel CROND[3010]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 07:01:01 issabel CROND[3033]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Sep 30 07:01:01 issabel CROND[3034]: (root) CMD (run-parts /etc/cron.hourly)
+Sep 30 07:01:01 issabel run-parts(/etc/cron.hourly)[3034]: starting hylafax
+Sep 30 07:01:01 issabel run-parts(/etc/cron.hourly)[3043]: finished hylafax
+Sep 30 07:05:01 issabel CROND[3071]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 07:10:01 issabel CROND[3105]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 07:15:01 issabel CROND[3161]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 07:16:01 issabel CROND[3169]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 30 07:20:01 issabel CROND[3199]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 07:25:01 issabel CROND[3233]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 07:30:01 issabel CROND[3265]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 07:35:01 issabel CROND[3298]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 07:40:01 issabel CROND[3332]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 07:45:01 issabel CROND[3388]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 07:46:01 issabel CROND[3396]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Sep 30 07:50:01 issabel CROND[3426]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 07:55:01 issabel CROND[3459]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Sep 30 08:00:01 issabel CROND[3492]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Oct  5 00:14:13 issabel crond[2135]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 63% if used.)
+Oct  5 00:14:13 issabel crond[2135]: (CRON) INFO (running with inotify support)
+Oct  5 00:14:17 issabel crontab[2365]: (root) LIST (asterisk)
+Oct  5 00:14:17 issabel crontab[2368]: (root) REPLACE (asterisk)
+Oct  5 00:14:17 issabel crontab[2369]: (root) LIST (root)
+Oct  5 00:15:01 issabel crond[2135]: (asterisk) RELOAD (/var/spool/cron/asterisk)
+Oct  5 00:15:01 issabel CROND[2706]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 00:16:01 issabel CROND[2902]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Oct  5 00:20:01 issabel CROND[3164]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 00:25:01 issabel CROND[3314]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 00:30:01 issabel CROND[3975]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 00:35:01 issabel CROND[4387]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 00:40:01 issabel CROND[4614]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 00:45:01 issabel CROND[4752]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 00:46:01 issabel CROND[4838]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Oct  5 00:50:01 issabel CROND[5094]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 00:55:01 issabel CROND[5231]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 00:56:53 issabel crond[2134]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 45% if used.)
+Oct  5 00:56:53 issabel crond[2134]: (CRON) INFO (running with inotify support)
+Oct  5 00:56:56 issabel crontab[2406]: (root) LIST (asterisk)
+Oct  5 00:56:56 issabel crontab[2409]: (root) REPLACE (asterisk)
+Oct  5 00:56:56 issabel crontab[2410]: (root) LIST (root)
+Oct  5 00:57:01 issabel crond[2134]: (asterisk) RELOAD (/var/spool/cron/asterisk)
+Oct  5 01:00:01 issabel CROND[2793]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 01:01:01 issabel CROND[2861]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Oct  5 01:01:01 issabel CROND[2862]: (root) CMD (run-parts /etc/cron.hourly)
+Oct  5 01:01:01 issabel run-parts(/etc/cron.hourly)[2862]: starting hylafax
+Oct  5 01:01:01 issabel run-parts(/etc/cron.hourly)[2871]: finished hylafax
+Oct  5 01:05:01 issabel CROND[3065]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 01:10:02 issabel CROND[3172]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 01:15:01 issabel CROND[3491]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 01:16:01 issabel CROND[3553]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Oct  5 01:20:01 issabel CROND[3619]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 01:25:01 issabel CROND[3750]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 01:30:01 issabel CROND[3859]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 01:35:01 issabel CROND[3968]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 01:40:01 issabel CROND[4076]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 01:45:01 issabel CROND[4184]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 01:46:01 issabel CROND[4207]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Oct  5 01:50:01 issabel CROND[4299]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 01:55:01 issabel CROND[4407]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 02:00:01 issabel CROND[4536]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 02:01:01 issabel CROND[4564]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Oct  5 02:01:01 issabel CROND[4565]: (root) CMD (run-parts /etc/cron.hourly)
+Oct  5 02:01:01 issabel run-parts(/etc/cron.hourly)[4565]: starting hylafax
+Oct  5 02:01:01 issabel run-parts(/etc/cron.hourly)[4574]: finished hylafax
+Oct  5 02:05:01 issabel CROND[4662]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 02:10:01 issabel CROND[4769]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 02:15:01 issabel CROND[4877]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 02:16:01 issabel CROND[4900]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Oct  5 02:20:01 issabel CROND[4990]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 02:25:01 issabel CROND[5097]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 02:30:01 issabel CROND[5206]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 02:35:02 issabel CROND[5314]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 02:40:01 issabel CROND[5422]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 02:45:01 issabel CROND[5555]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 02:46:01 issabel CROND[5578]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Oct  5 02:50:01 issabel CROND[5668]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 02:55:01 issabel CROND[5776]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 03:00:01 issabel CROND[5885]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 03:01:01 issabel CROND[5909]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Oct  5 03:01:01 issabel CROND[5910]: (root) CMD (run-parts /etc/cron.hourly)
+Oct  5 03:01:01 issabel run-parts(/etc/cron.hourly)[5910]: starting hylafax
+Oct  5 03:01:01 issabel run-parts(/etc/cron.hourly)[5919]: finished hylafax
+Oct  5 03:05:01 issabel CROND[6007]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 03:10:01 issabel CROND[6115]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 03:15:01 issabel CROND[6224]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 03:16:01 issabel CROND[6248]: (asterisk) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Oct  5 03:20:01 issabel CROND[6338]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 03:25:01 issabel CROND[6446]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 03:30:01 issabel CROND[6555]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 03:35:01 issabel CROND[6662]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 03:40:01 issabel CROND[6794]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 03:45:01 issabel CROND[7067]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 03:46:01 issabel CROND[7135]: (root) CMD (/var/lib/asterisk/bin/issabelpbx-cron-scheduler.php)
+Oct  5 03:50:01 issabel CROND[7225]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 03:55:01 issabel CROND[7332]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 04:00:01 issabel CROND[7443]: (root) CMD (/usr/bin/php -q /usr/local/issabel/sampler.php)
+Oct  5 04:01:01 issabel CROND[7467]: (root) CMD (/usr/bin/php -q /usr/local/issabel/postfix_stats.php)
+Oct  5 04:01:01 issabel CROND[7468]: (root) CMD (run-parts /etc/cron.hourly)
+Oct  5 04:01:01 issabel run-parts(/etc/cron.hourly)[7468]: starting hylafax
+Oct  5 04:01:01 issabel run-parts(/etc/cron.hourly)[7477]: finished hylafax
+Oct  5 04:02:01 issabel CROND[7520]: (root) CMD ([ ! -f /etc/cron.hourly/0anacron ] && run-parts /etc/cron.daily)
+Oct  5 04:02:01 issabel run-parts(/etc/cron.daily)[7521]: starting asterisk_cleanup
+Oct  5 04:02:01 issabel run-parts(/etc/cron.daily)[7528]: finished asterisk_cleanup
+Oct  5 04:02:01 issabel run-parts(/etc/cron.daily)[7521]: starting cyrus-imapd
+Oct  5 04:02:01 issabel run-parts(/etc/cron.daily)[7639]: finished cyrus-imapd
+Oct  5 04:02:01 issabel run-parts(/etc/cron.daily)[7521]: starting geoip_update.sh
+Oct  5 04:02:34 issabel run-parts(/etc/cron.daily)[8177]: finished geoip_update.sh
+Oct  5 04:02:34 issabel run-parts(/etc/cron.daily)[7521]: starting hylafax
+Oct  5 04:02:34 issabel run-parts(/etc/cron.daily)[8192]: finished hylafax
+Oct  5 04:02:34 issabel run-parts(/etc/cron.daily)[7521]: starting issabel-license-renew
+Oct  5 04:02:34 issabel run-parts(/etc/cron.daily)[8205]: finished issabel-license-renew
+Oct  5 04:02:34 issabel run-parts(/etc/cron.daily)[7521]: starting logrotate

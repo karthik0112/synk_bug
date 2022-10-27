@@ -1,0 +1,30 @@
+cvt_cyrusdb_all version: 1.3.4
+get_config configdirectory: /var/lib/imap
+get_config sievedir: /var/lib/imap/sieve
+/usr/share/cyrus-imapd/rpm/db.cfg: line 2: annotation_db_path: command not found
+/usr/share/cyrus-imapd/rpm/db.cfg: line 4: duplicate_db_path: command not found
+/usr/share/cyrus-imapd/rpm/db.cfg: line 7: mboxlist_db_path: command not found
+/usr/share/cyrus-imapd/rpm/db.cfg: line 8: newsrc_db_path: command not found
+/usr/share/cyrus-imapd/rpm/db.cfg: line 10: ptscache_db_path: command not found
+/usr/share/cyrus-imapd/rpm/db.cfg: line 12: quota_db_path: command not found
+/usr/share/cyrus-imapd/rpm/db.cfg: line 16: statuscache_db_path: command not found
+/usr/share/cyrus-imapd/rpm/db.cfg: line 19: tlscache_db_path: command not found
+/usr/share/cyrus-imapd/rpm/db.cfg: line 21: userdeny_db_path: command not found
+get_config duplicate_db: skiplist
+get_config mboxlist_db: skiplist
+get_config seenstate_db: skiplist
+get_config subscription_db: flat
+get_config tlscache_db: skiplist
+get_config annotation_db: skiplist
+get_config mboxkey_db: skiplist
+get_config ptscache_db: skiplist
+get_config quota_db: quotalegacy
+get_config statuscache_db: skiplist
+get_config userdeny_db: flat
+db_checkpoint: BDB5123 checkpoint begin: Thu Oct 27 00:12:54 2022
+
+db_checkpoint: BDB5124 checkpoint complete: Thu Oct 27 00:12:54 2022
+
+BDB2526 Finding last valid log LSN: file: 1 offset 7900
+BDB1518 Recovery complete at Thu Oct 27 00:12:59 2022
+BDB1519 Maximum transaction ID 0 recovery checkpoint [1][7844]

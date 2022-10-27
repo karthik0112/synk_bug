@@ -1,0 +1,2 @@
+[Fri Oct 14 00:38:15.784319 2022] [:error] [pid 2681] [client 192.168.56.1:60247] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/sso.php on line 2, referer: https://192.168.56.102/index.php?menu=agent_console
+[Fri Oct 14 00:41:05.539991 2022] [:error] [pid 1128] [client 192.168.56.1:60319] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/sso.php on line 2, referer: https://192.168.56.102/index.php?menu=agent_console

@@ -1,0 +1,153 @@
+#! /bin/bash
+#
+# notify qfile why jobtime [nextTry]
+#
+# Return mail to the submitter of a job when notification is needed.
+#
+# This is a rewrite of the notify.sh.
+# This version uses the "template" capabilityes to send the e-mails.
+# FaxQueuer only calls notify if the job requested notification,
+# So if we are called, we *will* send an email (barring any errors)
+#
+# etc/FaxNotify controls *what* we e-mail
+# - TEMPLATE=subdir
+# - RETURNFILETYPE=raw|PDF|PS|TIFF
+#
+# It send the e-mail to $mailaddr, which is the mailaddr of the job.
+# The e-mail template used is selectec from:
+#   - etc/templates/$TEMPLATE/notify-$WHY-page.txt (only for pager jobs)
+#   - etc/templates/$TEMPLATE/notify-$WHY.txt
+# If it is a pager job, and notify-$WHY-page.txt does *not* exist, it
+# will use the notify-$WHY.txt template.
+#
+# It honours the RETURNFILETYPE variable that can be set by FaxNotify.
+# If it is set, it will return *all* the submitted documents as attachments
+# with the e-mail, converted to the RETURNFILETYPE.
+# Multiple file types may be specified by separating them with
+# whitespace; in that case a separate attachment for each filetype
+# will be created.
+
+if [ $# != 3 ] && [ $# != 4 ]; then
+    echo "Usage: $0 qfile why jobtime [nextTry]"
+    exit 1
+fi
+
+test -f etc/setup.cache || {
+    SPOOL=`pwd`
+    cat<<EOF
+
+FATAL ERROR: $SPOOL/etc/setup.cache is missing!
+
+The file $SPOOL/etc/setup.cache is not present.  This
+probably means the machine has not been setup using the faxsetup(8C)
+command.  Read the documentation on setting up HylaFAX before you
+startup a server system.
+
+EOF
+    exit 1
+}
+
+# need to parse out the command line here.  some may be needed
+# in the FaxNotify.
+QFILE=$1
+WHY=$2
+JTIME=$3
+NEXT=${4:-'??:??'}
+
+# These settings may not be present in setup.cache if user upgraded and
+# didn't re-run faxsetup; we set them before calling setup.cache for
+# backward compatibility.
+ENCODING=base64
+TIFF2PDF=bin/tiff2pdf
+TTYCMD=tty
+
+. etc/setup.cache
+. bin/common-functions
+
+INFO=$SBIN/faxinfo
+TIFFINFO=tiffinfo
+FAX2PS=$TIFFBIN/fax2ps
+TIFF2PS=tiff2ps
+PS2PDF=ps2pdf
+PDF2PS=pdf2ps
+PS2FAX=bin/ps2fax
+PDF2FAX=bin/pdf2fax
+TOADDR=FaxMaster
+FROMADDR=fax
+NOTIFY_FAXMASTER=never
+RETURNFILETYPE=
+MIMEBOUNDARY="NextPart$$" RETURNTECHINFO=yes 
+# Redirect errors to a tty, if possible, rather than
+# dev-nulling them or allowing them to creep into
+# the mail.
+#
+if $TTYCMD >/dev/null 2>&1; then
+    ERRORSTO=`$TTYCMD`
+else
+    ERRORSTO=/dev/null
+fi
+
+##########
+##  MAIN
+##########
+
+SetupPrivateTmp
+
+# we parse the q file fisrt in case any of the varialbe setting 
+# operations may want to know about the details of the fax
+parseQfile  
+
+if [ "$doneop" = "default" ] ; then
+    doneop="remove"
+fi
+if [ "$jobtype" = "pager" ] ; then
+    number=$pagernum
+fi
+if [ -n "$receiver" ]; then
+    DESTINATION="$receiver ($number)"
+else
+    DESTINATION="$number"
+fi
+if [ -n "$jobtag" ]; then
+    JOBINFO="$jobtag ($jobid)"
+else
+    JOBINFO="$jobid"
+fi
+
+COMMID=$commid
+SENDTO=$mailaddr
+export COMMID SENDTO FROMADDR TOADDR DESTINATION WHY JTIME NEXT JOBINFO
+
+#
+# Apply customizations.  All customizable variables should
+# be set to their non-customized defaults prior to this.
+#
+if [ -f etc/FaxNotify ]; then
+    # source notify preferences
+    . etc/FaxNotify
+fi
+
+if [ -f etc/templates/$TEMPLATE/hook.sh ]
+then
+    # Any hooks that the templates need
+    . etc/templates/$TEMPLATE/hook.sh
+fi
+
+
+if [ -n "$RETURNFILETYPE" ]; then
+    for ft in $RETURNFILETYPE
+    do
+	ATTACH_ARGS="$ATTACH_ARGS "`BuildAttachArgs $ft`
+    done
+fi
+
+template="etc/templates/$TEMPLATE/notify-$WHY.txt"
+if [ "$jobtype" != "facsimile" ] && [ -f etc/templates/$TEMPLATE/notify-$WHY-page.txt ]; then
+	template="etc/templates/$TEMPLATE/notify-$WHY-page.txt"
+fi
+
+
+eval CreateMailMessage "$template" $ATTACH_ARGS \
+	2>$ERRORSTO | $SENDMAIL -f"$FROMADDR" -oi "$mailaddr"
+
+CleanupPrivateTmp

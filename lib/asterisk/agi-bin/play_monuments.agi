@@ -1,0 +1,53 @@
+#!/usr/bin/php -q
+<?php
+require_once "phpagi.php";
+
+
+
+$agi = new AGI();
+$city = get_var("GOOGLE_TRANSCRIPTION_RESULT");
+switch(strtolower($city)){
+
+
+
+       case "chennai":
+                        $agi->goto_dest('ivr-16');
+                        break;
+        case "delhi":
+                        $agi->goto_dest('ivr-17');
+                        break;
+        case "agra":
+                        $agi->goto_dest('ivr-18');
+                        break;
+
+
+
+
+}
+function get_var($value)
+{
+        global $agi;
+        $r = $agi->get_variable( $value );
+
+
+
+       if ($r['result'] == 1)
+        {
+                $result = $r['data'];
+                return $result;
+        }
+        else
+                return '';
+}
+
+
+
+function debug($string, $level=3)
+{
+        global $agi;
+        $agi->verbose($string, $level);
+}
+
+
+
+?>

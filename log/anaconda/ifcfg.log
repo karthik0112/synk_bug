@@ -1,0 +1,146 @@
+07:33:38,536 DEBUG ifcfg: content of files (network initialization):
+07:33:38,539 DEBUG ifcfg: all settings: []
+07:33:38,761 DEBUG ifcfg: content of files (kickstart pre section applied for devices ['eth0']):
+07:33:38,761 DEBUG ifcfg: /etc/sysconfig/network-scripts/ifcfg-eth0:
+07:33:38,761 DEBUG ifcfg:   TYPE=Ethernet
+07:33:38,761 DEBUG ifcfg:   PROXY_METHOD=none
+07:33:38,761 DEBUG ifcfg:   BROWSER_ONLY=no
+07:33:38,761 DEBUG ifcfg:   BOOTPROTO=dhcp
+07:33:38,761 DEBUG ifcfg:   DEFROUTE=yes
+07:33:38,761 DEBUG ifcfg:   IPV4_FAILURE_FATAL=no
+07:33:38,761 DEBUG ifcfg:   IPV6INIT=yes
+07:33:38,761 DEBUG ifcfg:   IPV6_AUTOCONF=yes
+07:33:38,761 DEBUG ifcfg:   IPV6_DEFROUTE=yes
+07:33:38,761 DEBUG ifcfg:   IPV6_FAILURE_FATAL=no
+07:33:38,761 DEBUG ifcfg:   IPV6_ADDR_GEN_MODE=stable-privacy
+07:33:38,762 DEBUG ifcfg:   NAME=eth0
+07:33:38,762 DEBUG ifcfg:   UUID=ab616e49-a0b5-40f2-81c8-e68cbb7b9d3e
+07:33:38,762 DEBUG ifcfg:   DEVICE=eth0
+07:33:38,762 DEBUG ifcfg:   ONBOOT=no
+07:33:38,830 DEBUG ifcfg: all settings: [{'802-3-ethernet': {'auto-negotiate': False, 'mac-address-blacklist': [], 's390-options': {}}, 'connection': {'autoconnect': False, 'uuid': 'ab616e49-a0b5-40f2-81c8-e68cbb7b9d3e', 'interface-name': 'eth0', 'type': '802-3-ethernet', 'id': 'eth0', 'permissions': []}, 'proxy': {}, 'ipv4': {'addresses': [], 'dns-search': [], 'route-data': [], 'dns': [], 'routes': [], 'address-data': [], 'method': 'auto'}, 'ipv6': {'addresses': [], 'dns-search': [], 'route-data': [], 'dns': [], 'routes': [], 'address-data': [], 'method': 'auto'}}]
+07:33:38,990 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:38,990 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:38,992 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:38,994 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:38,995 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:39,044 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:39,045 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:39,046 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:39,047 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:39,074 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:39,195 DEBUG ifcfg: content of files (missing ifcfgs created for devices ['eth1']):
+07:33:39,195 DEBUG ifcfg: /etc/sysconfig/network-scripts/ifcfg-eth1:
+07:33:39,195 DEBUG ifcfg:   TYPE=Ethernet
+07:33:39,195 DEBUG ifcfg:   PROXY_METHOD=none
+07:33:39,196 DEBUG ifcfg:   BROWSER_ONLY=no
+07:33:39,196 DEBUG ifcfg:   BOOTPROTO=dhcp
+07:33:39,196 DEBUG ifcfg:   DEFROUTE=yes
+07:33:39,196 DEBUG ifcfg:   IPV4_FAILURE_FATAL=no
+07:33:39,196 DEBUG ifcfg:   IPV6INIT=yes
+07:33:39,196 DEBUG ifcfg:   IPV6_AUTOCONF=yes
+07:33:39,196 DEBUG ifcfg:   IPV6_DEFROUTE=yes
+07:33:39,196 DEBUG ifcfg:   IPV6_FAILURE_FATAL=no
+07:33:39,196 DEBUG ifcfg:   IPV6_ADDR_GEN_MODE=stable-privacy
+07:33:39,196 DEBUG ifcfg:   NAME=eth1
+07:33:39,197 DEBUG ifcfg:   UUID=8a72de83-ea3c-457e-a53c-1093feb58f0a
+07:33:39,197 DEBUG ifcfg:   DEVICE=eth1
+07:33:39,197 DEBUG ifcfg:   ONBOOT=no
+07:33:39,197 DEBUG ifcfg: /etc/sysconfig/network-scripts/ifcfg-eth0:
+07:33:39,197 DEBUG ifcfg:   TYPE=Ethernet
+07:33:39,197 DEBUG ifcfg:   PROXY_METHOD=none
+07:33:39,197 DEBUG ifcfg:   BROWSER_ONLY=no
+07:33:39,197 DEBUG ifcfg:   BOOTPROTO=dhcp
+07:33:39,197 DEBUG ifcfg:   DEFROUTE=yes
+07:33:39,197 DEBUG ifcfg:   IPV4_FAILURE_FATAL=no
+07:33:39,197 DEBUG ifcfg:   IPV6INIT=yes
+07:33:39,197 DEBUG ifcfg:   IPV6_AUTOCONF=yes
+07:33:39,197 DEBUG ifcfg:   IPV6_DEFROUTE=yes
+07:33:39,197 DEBUG ifcfg:   IPV6_FAILURE_FATAL=no
+07:33:39,197 DEBUG ifcfg:   IPV6_ADDR_GEN_MODE=stable-privacy
+07:33:39,197 DEBUG ifcfg:   NAME=eth0
+07:33:39,197 DEBUG ifcfg:   UUID=ab616e49-a0b5-40f2-81c8-e68cbb7b9d3e
+07:33:39,197 DEBUG ifcfg:   DEVICE=eth0
+07:33:39,197 DEBUG ifcfg:   ONBOOT=no
+07:33:39,210 DEBUG ifcfg: all settings: [{'802-3-ethernet': {'auto-negotiate': False, 'mac-address-blacklist': [], 's390-options': {}}, 'connection': {'autoconnect': False, 'interface-name': 'eth0', 'timestamp': 1655364819L, 'uuid': 'ab616e49-a0b5-40f2-81c8-e68cbb7b9d3e', 'type': '802-3-ethernet', 'id': 'eth0', 'permissions': []}, 'proxy': {}, 'ipv4': {'addresses': [], 'dns-search': [], 'route-data': [], 'dns': [], 'routes': [], 'address-data': [], 'method': 'auto'}, 'ipv6': {'addresses': [], 'dns-search': [], 'route-data': [], 'dns': [], 'routes': [], 'address-data': [], 'method': 'auto'}}, {'802-3-ethernet': {'auto-negotiate': False, 'mac-address-blacklist': [], 's390-options': {}}, 'connection': {'autoconnect': False, 'uuid': '8a72de83-ea3c-457e-a53c-1093feb58f0a', 'interface-name': 'eth1', 'type': '802-3-ethernet', 'id': 'eth1', 'permissions': []}, 'proxy': {}, 'ipv4': {'addresses': [], 'dns-search': [], 'route-data': [], 'dns': [], 'routes': [], 'address-data': [], 'method': 'auto'}, 'ipv6': {'addresses': [], 'dns-search': [], 'route-data': [], 'dns': [], 'routes': [], 'address-data': [], 'method': 'auto'}}]
+07:33:39,317 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:39,318 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:39,318 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:39,319 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:39,320 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:39,322 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:39,322 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:39,324 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:39,326 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:39,327 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:39,329 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:39,331 DEBUG ifcfg: IfcfgFile.set /etc/sysconfig/network-scripts/ifcfg-eth0: (('ONBOOT', 'yes'),)
+07:33:39,332 DEBUG ifcfg: IfcfgFile.write /etc/sysconfig/network-scripts/ifcfg-eth0:
+TYPE="Ethernet"
+PROXY_METHOD="none"
+BROWSER_ONLY="no"
+BOOTPROTO="dhcp"
+DEFROUTE="yes"
+IPV4_FAILURE_FATAL="no"
+IPV6INIT="yes"
+IPV6_AUTOCONF="yes"
+IPV6_DEFROUTE="yes"
+IPV6_FAILURE_FATAL="no"
+IPV6_ADDR_GEN_MODE="stable-privacy"
+NAME="eth0"
+UUID="ab616e49-a0b5-40f2-81c8-e68cbb7b9d3e"
+DEVICE="eth0"
+ONBOOT="yes"
+
+07:33:39,349 DEBUG ifcfg: content of files (real kickstart ONBOOT value set for devices ['eth0']):
+07:33:39,349 DEBUG ifcfg: /etc/sysconfig/network-scripts/ifcfg-eth1:
+07:33:39,349 DEBUG ifcfg:   TYPE=Ethernet
+07:33:39,349 DEBUG ifcfg:   PROXY_METHOD=none
+07:33:39,349 DEBUG ifcfg:   BROWSER_ONLY=no
+07:33:39,349 DEBUG ifcfg:   BOOTPROTO=dhcp
+07:33:39,349 DEBUG ifcfg:   DEFROUTE=yes
+07:33:39,349 DEBUG ifcfg:   IPV4_FAILURE_FATAL=no
+07:33:39,350 DEBUG ifcfg:   IPV6INIT=yes
+07:33:39,350 DEBUG ifcfg:   IPV6_AUTOCONF=yes
+07:33:39,350 DEBUG ifcfg:   IPV6_DEFROUTE=yes
+07:33:39,350 DEBUG ifcfg:   IPV6_FAILURE_FATAL=no
+07:33:39,350 DEBUG ifcfg:   IPV6_ADDR_GEN_MODE=stable-privacy
+07:33:39,351 DEBUG ifcfg:   NAME=eth1
+07:33:39,352 DEBUG ifcfg:   UUID=8a72de83-ea3c-457e-a53c-1093feb58f0a
+07:33:39,352 DEBUG ifcfg:   DEVICE=eth1
+07:33:39,352 DEBUG ifcfg:   ONBOOT=no
+07:33:39,352 DEBUG ifcfg: /etc/sysconfig/network-scripts/ifcfg-eth0:
+07:33:39,352 DEBUG ifcfg:   TYPE="Ethernet"
+07:33:39,352 DEBUG ifcfg:   PROXY_METHOD="none"
+07:33:39,352 DEBUG ifcfg:   BROWSER_ONLY="no"
+07:33:39,352 DEBUG ifcfg:   BOOTPROTO="dhcp"
+07:33:39,353 DEBUG ifcfg:   DEFROUTE="yes"
+07:33:39,353 DEBUG ifcfg:   IPV4_FAILURE_FATAL="no"
+07:33:39,353 DEBUG ifcfg:   IPV6INIT="yes"
+07:33:39,353 DEBUG ifcfg:   IPV6_AUTOCONF="yes"
+07:33:39,353 DEBUG ifcfg:   IPV6_DEFROUTE="yes"
+07:33:39,353 DEBUG ifcfg:   IPV6_FAILURE_FATAL="no"
+07:33:39,353 DEBUG ifcfg:   IPV6_ADDR_GEN_MODE="stable-privacy"
+07:33:39,353 DEBUG ifcfg:   NAME="eth0"
+07:33:39,353 DEBUG ifcfg:   UUID="ab616e49-a0b5-40f2-81c8-e68cbb7b9d3e"
+07:33:39,353 DEBUG ifcfg:   DEVICE="eth0"
+07:33:39,353 DEBUG ifcfg:   ONBOOT="yes"
+07:33:39,368 DEBUG ifcfg: all settings: [{'802-3-ethernet': {'auto-negotiate': False, 'mac-address-blacklist': [], 's390-options': {}}, 'connection': {'autoconnect': False, 'interface-name': 'eth0', 'timestamp': 1655364819L, 'uuid': 'ab616e49-a0b5-40f2-81c8-e68cbb7b9d3e', 'type': '802-3-ethernet', 'id': 'eth0', 'permissions': []}, 'proxy': {}, 'ipv4': {'addresses': [], 'dns-search': [], 'route-data': [], 'dns': [], 'routes': [], 'address-data': [], 'method': 'auto'}, 'ipv6': {'addresses': [], 'dns-search': [], 'route-data': [], 'dns': [], 'routes': [], 'address-data': [], 'method': 'auto'}}, {'802-3-ethernet': {'auto-negotiate': False, 'mac-address-blacklist': [], 's390-options': {}}, 'connection': {'autoconnect': False, 'uuid': '8a72de83-ea3c-457e-a53c-1093feb58f0a', 'interface-name': 'eth1', 'type': '802-3-ethernet', 'id': 'eth1', 'permissions': []}, 'proxy': {}, 'ipv4': {'addresses': [], 'dns-search': [], 'route-data': [], 'dns': [], 'routes': [], 'address-data': [], 'method': 'auto'}, 'ipv6': {'addresses': [], 'dns-search': [], 'route-data': [], 'dns': [], 'routes': [], 'address-data': [], 'method': 'auto'}}]
+07:33:57,831 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:57,832 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:57,832 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:57,833 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:57,841 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:57,841 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:57,841 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:57,843 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:57,843 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:57,844 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:57,925 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:57,926 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:57,927 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:57,927 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:57,932 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:57,933 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:57,934 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
+07:33:57,934 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth0
+07:33:57,935 DEBUG ifcfg: IfcfFile.read /etc/sysconfig/network-scripts/ifcfg-eth1
