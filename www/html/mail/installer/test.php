@@ -182,7 +182,7 @@ if ($db_working) {
 // more database tests
 if ($db_working) {
     // write test
-    $insert_id = md5(uniqueid());
+    $insert_id = md5(uniqid());
     $db_write = $DB->query("INSERT INTO {$RCI->config['db_table_session']} (sess_id, created, ip, vars) VALUES (?, ".$DB->now().", '127.0.0.1', 'foo')", $insert_id);
 
     if ($db_write) {
