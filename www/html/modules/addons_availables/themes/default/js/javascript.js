@@ -296,7 +296,8 @@ function do_iniciarUninstall()
 function neo_upgrade_progress_bar(percentage)
 {
     $('.neo-progress-bar-percentage').css('width',percentage+'%');
-    $('.neo-progress-bar-percentage-tag').html(percentage+'%');
+   // $('.neo-progress-bar-percentage-tag').html(percentage+'%');
+    $('.neo-progress-bar-percentage-tag').css(percentage+'%');
     $('.neo-progress-bar-progress').css('width',percentage+'%');
 }
 
