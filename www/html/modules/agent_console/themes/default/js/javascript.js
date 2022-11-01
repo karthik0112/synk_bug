@@ -741,7 +741,7 @@ function manejarRespuestaStatus(respuesta)
 			    .css('color', '')
 				.empty()
 				.append(respuesta[i].llamada_informacion);
-			$('#issabel-callcenter-llamada-script')
+			$('#issabel_callcenter_llamada_script')
 				.empty()
 				.append(respuesta[i].llamada_script);
 			$('#issabel-callcenter-llamada-form')
