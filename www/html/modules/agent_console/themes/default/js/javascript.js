@@ -737,11 +737,11 @@ function manejarRespuestaStatus(respuesta)
 			$('#btn_hangup').button('enable');
 			$('#btn_transfer').button('enable');
 			$('#issabel-callcenter-cronometro').text(respuesta[i].cronometro);
-			$('#issabel_callcenter_llamada_info')
+			$('#issabel-callcenter-llamada-info')
 			    .css('color', '')
 				.empty()
 				.append(respuesta[i].llamada_informacion);
-			$('#issabel_callcenter_llamada_script')
+			$('#issabel-callcenter-llamada-script')
 				.empty()
 				.append(respuesta[i].llamada_script);
 			$('#issabel-callcenter-llamada-form')
